@@ -1,0 +1,1501 @@
+cin,nom,prenom,age,genre,profession,region,Prime_de_assurance_en_DT,Sujets_demande,description,type_demande,Date_demande
+C45612600,Nom_846,Prenom_913,42.359673765913946,Femme,Profession_53,Sidi Bouzid,767,Sujet_4,Description_7,Type_5,08/25/2023
+C21385884,Nom_577,Prenom_431,35.195120889731044,Femme,Profession_92,Kasserine,924,Sujet_3,Description_13,Type_2,12/11/2023
+C55084259,Nom_555,Prenom_515,51.26798075010481,Homme,Profession_96,Kasserine,805,Sujet_9,Description_5,Type_2,10/10/2023
+C22123313,Nom_764,Prenom_726,41.48247901496904,Femme,Profession_20,Gabes,453,Sujet_9,Description_20,Type_1,08/02/2023
+C94723091,Nom_772,Prenom_138,54.2784139918882,Femme,Profession_7,Kairouan,843,Sujet_3,Description_19,Type_5,09/26/2023
+C67003819,Nom_799,Prenom_900,43.451697300963225,Femme,Profession_66,Beja,937,Sujet_1,Description_6,Type_5,06/09/2023
+C91397632,Nom_205,Prenom_516,22.194888272871772,Femme,Profession_75,Gabes,325,Sujet_4,Description_2,Type_4,02/27/2023
+C94314783,Nom_449,Prenom_823,27.967846496877016,Homme,Profession_96,Tataouine,805,Sujet_9,Description_13,Type_1,12/19/2023
+C59402462,Nom_577,Prenom_881,32.286463428331224,Homme,Profession_34,Siliana,441,Sujet_10,Description_8,Type_3,06/27/2023
+C49851988,Nom_472,Prenom_176,36.22589858596497,Homme,Profession_17,Kebili,798,Sujet_4,Description_6,Type_5,11/14/2023
+C60735049,Nom_656,Prenom_190,46.566853269207755,Homme,Profession_99,Kebili,299,Sujet_6,Description_7,Type_5,02/25/2023
+C96096476,Nom_102,Prenom_728,25.075451856723305,Femme,Profession_79,Beja,583,Sujet_9,Description_10,Type_1,12/05/2023
+C49431700,Nom_392,Prenom_337,29.818090668863853,Homme,Profession_63,Tunis,408,Sujet_10,Description_3,Type_2,07/23/2023
+C65564681,Nom_237,Prenom_752,31.824752454355323,Homme,Profession_66,Gafsa,293,Sujet_9,Description_9,Type_2,04/17/2023
+C31841794,Nom_96,Prenom_749,28.854612531280523,Homme,Profession_16,Tataouine,289,Sujet_6,Description_19,Type_3,05/24/2023
+C28946026,Nom_988,Prenom_512,42.12563423976642,Homme,Profession_79,Kasserine,117,Sujet_10,Description_1,Type_3,08/12/2023
+C93205205,Nom_607,Prenom_323,38.30241172714155,Homme,Profession_13,Le Kef,332,Sujet_7,Description_18,Type_1,01/21/2023
+C34988892,Nom_545,Prenom_232,27.57855289586506,Femme,Profession_93,Gabes,953,Sujet_1,Description_6,Type_1,12/23/2023
+C40525586,Nom_220,Prenom_841,67.26947166725776,Homme,Profession_26,La Manouba,692,Sujet_10,Description_11,Type_3,04/04/2023
+C70038159,Nom_878,Prenom_672,45.34059687846289,Femme,Profession_40,Medenine,629,Sujet_8,Description_8,Type_5,09/01/2023
+C36302268,Nom_462,Prenom_823,41.203875648953996,Femme,Profession_22,Nabeul,305,Sujet_1,Description_8,Type_4,01/08/2023
+C91657844,Nom_996,Prenom_371,52.75589181525793,Homme,Profession_74,Medenine,602,Sujet_9,Description_2,Type_4,04/07/2023
+C47541144,Nom_605,Prenom_891,47.29262948911166,Homme,Profession_76,Sousse,899,Sujet_5,Description_9,Type_1,03/18/2023
+C84592319,Nom_442,Prenom_906,41.19035351854749,Homme,Profession_55,Kairouan,593,Sujet_1,Description_3,Type_4,06/25/2023
+C91335666,Nom_514,Prenom_787,53.11437697928335,Homme,Profession_44,Jendouba,854,Sujet_4,Description_3,Type_2,09/05/2023
+C47334490,Nom_644,Prenom_55,5.4656913500796875,Femme,Profession_53,Beja,434,Sujet_4,Description_18,Type_1,05/06/2023
+C50891024,Nom_494,Prenom_217,47.564395032803915,Femme,Profession_34,Sousse,259,Sujet_7,Description_10,Type_2,10/27/2023
+C78862925,Nom_740,Prenom_168,42.34910397413813,Homme,Profession_11,Gafsa,149,Sujet_5,Description_5,Type_4,09/23/2023
+C84271351,Nom_331,Prenom_581,29.643368313779405,Femme,Profession_14,Bizerte,793,Sujet_10,Description_4,Type_4,02/10/2023
+C94759961,Nom_555,Prenom_611,46.062172633425405,Homme,Profession_95,Mahdia,325,Sujet_10,Description_2,Type_3,12/27/2023
+C65150331,Nom_729,Prenom_781,17.106372941552646,Femme,Profession_80,Tataouine,727,Sujet_2,Description_18,Type_4,09/02/2023
+C99315971,Nom_679,Prenom_885,49.13964629131503,Homme,Profession_33,Jendouba,963,Sujet_5,Description_10,Type_2,10/01/2023
+C22313786,Nom_464,Prenom_370,47.84285756881894,Homme,Profession_30,Gafsa,231,Sujet_6,Description_8,Type_4,09/12/2023
+C55552961,Nom_439,Prenom_518,37.83341412944176,Femme,Profession_80,Medenine,911,Sujet_3,Description_6,Type_1,06/14/2023
+C48234523,Nom_195,Prenom_260,36.30567436249316,Femme,Profession_69,Sidi Bouzid,215,Sujet_3,Description_17,Type_2,02/05/2023
+C57040513,Nom_722,Prenom_515,43.541993754034436,Homme,Profession_80,Mahdia,871,Sujet_9,Description_10,Type_1,07/23/2023
+C27483385,Nom_998,Prenom_934,37.46342765922471,Femme,Profession_38,Gabes,716,Sujet_1,Description_9,Type_2,07/15/2023
+C10049810,Nom_761,Prenom_210,24.20329871339129,Femme,Profession_70,Beja,532,Sujet_8,Description_7,Type_4,12/07/2023
+C78459125,Nom_559,Prenom_656,33.979280563194635,Femme,Profession_28,Monastir,541,Sujet_5,Description_2,Type_1,03/22/2023
+C19880708,Nom_765,Prenom_489,30.113993502407364,Femme,Profession_89,Tunis,926,Sujet_8,Description_3,Type_5,08/05/2023
+C57979017,Nom_536,Prenom_585,47.71927854668039,Femme,Profession_51,Gabes,385,Sujet_4,Description_5,Type_4,10/01/2023
+C26022417,Nom_523,Prenom_578,43.953305813766136,Femme,Profession_87,Monastir,606,Sujet_9,Description_4,Type_5,02/24/2023
+C27707510,Nom_874,Prenom_989,44.17515202195541,Homme,Profession_15,Tunis,852,Sujet_2,Description_1,Type_1,02/22/2023
+C70389876,Nom_126,Prenom_133,52.484997204847915,Femme,Profession_65,Gafsa,383,Sujet_2,Description_11,Type_3,04/25/2023
+C69440816,Nom_178,Prenom_913,46.250941849642544,Homme,Profession_5,La Manouba,146,Sujet_8,Description_12,Type_4,05/02/2023
+C66121477,Nom_698,Prenom_582,26.67094063305312,Homme,Profession_84,Medenine,744,Sujet_4,Description_2,Type_2,09/23/2023
+C12240235,Nom_481,Prenom_298,30.714560825470155,Homme,Profession_78,Ben Arous,775,Sujet_6,Description_5,Type_3,08/02/2023
+C63782648,Nom_393,Prenom_136,28.032247909450213,Femme,Profession_48,Sfax,795,Sujet_9,Description_7,Type_4,01/09/2023
+C40176088,Nom_153,Prenom_431,41.312726632465974,Homme,Profession_7,Gafsa,723,Sujet_3,Description_12,Type_4,02/25/2023
+C67071552,Nom_195,Prenom_292,24.818055644767995,Femme,Profession_2,Medenine,131,Sujet_5,Description_15,Type_1,11/17/2023
+C13022484,Nom_750,Prenom_342,40.97625220251362,Homme,Profession_88,Sidi Bouzid,804,Sujet_10,Description_5,Type_4,07/17/2023
+C16127764,Nom_536,Prenom_780,33.3015408996694,Femme,Profession_6,Kasserine,156,Sujet_2,Description_3,Type_3,03/21/2023
+C70516673,Nom_425,Prenom_484,45.278165606720954,Homme,Profession_36,Mahdia,276,Sujet_5,Description_15,Type_1,10/26/2023
+C55590093,Nom_860,Prenom_856,40.00553744905976,Femme,Profession_27,Nabeul,257,Sujet_10,Description_3,Type_1,03/27/2023
+C87025667,Nom_320,Prenom_801,38.23796760155521,Femme,Profession_40,Le Kef,199,Sujet_5,Description_13,Type_5,03/18/2023
+C23938973,Nom_241,Prenom_333,46.25688247263379,Femme,Profession_19,Zaghouan,514,Sujet_9,Description_3,Type_3,05/01/2023
+C53132497,Nom_525,Prenom_304,23.807658254653003,Femme,Profession_67,Siliana,208,Sujet_4,Description_20,Type_1,08/17/2023
+C52045357,Nom_421,Prenom_993,27.05601346564034,Femme,Profession_44,Gafsa,686,Sujet_2,Description_16,Type_5,05/06/2023
+C48408037,Nom_771,Prenom_933,38.73111575897676,Femme,Profession_69,Nabeul,524,Sujet_9,Description_14,Type_3,08/10/2023
+C74217305,Nom_460,Prenom_32,39.80950221490719,Homme,Profession_44,Sfax,452,Sujet_6,Description_7,Type_1,05/25/2023
+C80274201,Nom_527,Prenom_760,40.84420817659051,Homme,Profession_94,Zaghouan,125,Sujet_6,Description_1,Type_2,12/06/2023
+C79973479,Nom_164,Prenom_543,26.69707634427558,Homme,Profession_23,Gabes,933,Sujet_4,Description_8,Type_2,11/12/2023
+C22766163,Nom_812,Prenom_380,51.75563196741804,Femme,Profession_26,Beja,218,Sujet_10,Description_2,Type_1,05/17/2023
+C88970104,Nom_350,Prenom_631,13.493600074784936,Femme,Profession_51,Bizerte,408,Sujet_8,Description_4,Type_1,10/19/2023
+C79486203,Nom_18,Prenom_447,31.692628330342853,Femme,Profession_55,Siliana,273,Sujet_3,Description_19,Type_1,10/05/2023
+C35074616,Nom_261,Prenom_158,34.46649543848398,Homme,Profession_59,Ariana,199,Sujet_6,Description_11,Type_4,11/27/2023
+C91649839,Nom_499,Prenom_937,41.1968045799942,Homme,Profession_1,Bizerte,767,Sujet_3,Description_16,Type_5,07/24/2023
+C98456291,Nom_51,Prenom_495,27.81256221668039,Homme,Profession_67,Ariana,362,Sujet_10,Description_2,Type_4,02/16/2023
+C99813586,Nom_951,Prenom_737,23.14123411993328,Homme,Profession_9,Monastir,699,Sujet_6,Description_3,Type_3,02/13/2023
+C99163834,Nom_391,Prenom_765,39.52756001948966,Femme,Profession_79,La Manouba,432,Sujet_4,Description_17,Type_5,02/27/2023
+C72041642,Nom_767,Prenom_256,29.74935643882856,Homme,Profession_43,Gafsa,807,Sujet_5,Description_17,Type_4,04/10/2023
+C72408918,Nom_581,Prenom_651,45.20671493493137,Femme,Profession_65,Ariana,358,Sujet_8,Description_16,Type_3,06/07/2023
+C15341751,Nom_114,Prenom_155,52.88058185928505,Femme,Profession_54,Ben Arous,882,Sujet_4,Description_10,Type_5,09/27/2023
+C55770372,Nom_488,Prenom_227,28.62795533489684,Femme,Profession_50,Ben Arous,968,Sujet_6,Description_17,Type_2,01/06/2023
+C65786674,Nom_503,Prenom_788,42.971201683092225,Femme,Profession_53,Jendouba,202,Sujet_9,Description_3,Type_1,02/19/2023
+C58016920,Nom_705,Prenom_474,28.19228723065427,Femme,Profession_85,Zaghouan,789,Sujet_8,Description_9,Type_2,09/11/2023
+C51318677,Nom_333,Prenom_99,49.89614909199706,Femme,Profession_86,Zaghouan,585,Sujet_3,Description_15,Type_5,12/02/2023
+C93312297,Nom_649,Prenom_619,24.838377695340036,Femme,Profession_95,Le Kef,470,Sujet_9,Description_3,Type_3,06/21/2023
+C19376443,Nom_522,Prenom_167,27.908208052059273,Femme,Profession_51,Ben Arous,297,Sujet_2,Description_5,Type_3,02/07/2023
+C58513057,Nom_857,Prenom_278,32.5324547053926,Homme,Profession_85,Siliana,827,Sujet_2,Description_16,Type_4,09/16/2023
+C58703064,Nom_908,Prenom_896,44.19038898673988,Homme,Profession_35,Le Kef,363,Sujet_10,Description_14,Type_4,11/11/2023
+C13221772,Nom_752,Prenom_582,33.81910673702936,Femme,Profession_36,Sidi Bouzid,227,Sujet_10,Description_15,Type_1,09/05/2023
+C91656245,Nom_793,Prenom_844,44.957443496850104,Homme,Profession_3,La Manouba,571,Sujet_2,Description_17,Type_3,01/13/2023
+C91534862,Nom_62,Prenom_813,39.37327621814178,Homme,Profession_15,Zaghouan,219,Sujet_4,Description_1,Type_3,04/06/2023
+C97360003,Nom_937,Prenom_372,45.62031949185164,Femme,Profession_72,Medenine,590,Sujet_9,Description_17,Type_1,11/16/2023
+C95535780,Nom_821,Prenom_871,27.86593573826196,Homme,Profession_96,Kebili,415,Sujet_9,Description_20,Type_3,03/08/2023
+C73596521,Nom_255,Prenom_396,52.79111223159029,Femme,Profession_52,Kebili,476,Sujet_1,Description_4,Type_4,01/16/2023
+C58115012,Nom_492,Prenom_751,32.948875925260076,Femme,Profession_26,Sousse,108,Sujet_7,Description_3,Type_5,09/15/2023
+C75299256,Nom_533,Prenom_148,35.03196253844601,Femme,Profession_78,Medenine,922,Sujet_3,Description_16,Type_4,05/19/2023
+C49573286,Nom_330,Prenom_206,37.377264607485166,Homme,Profession_72,Tozeur,540,Sujet_3,Description_16,Type_2,10/24/2023
+C21077407,Nom_262,Prenom_246,16.74056175488817,Homme,Profession_8,Jendouba,457,Sujet_4,Description_15,Type_5,07/23/2023
+C18407384,Nom_271,Prenom_806,36.97873453285665,Femme,Profession_29,Kebili,452,Sujet_8,Description_6,Type_3,01/03/2023
+C11913126,Nom_849,Prenom_940,39.913274480907916,Femme,Profession_49,Le Kef,743,Sujet_8,Description_2,Type_2,07/23/2023
+C88280074,Nom_103,Prenom_225,27.61345628723275,Femme,Profession_89,Kairouan,252,Sujet_1,Description_17,Type_4,01/11/2023
+C83614764,Nom_387,Prenom_56,28.410202006432478,Homme,Profession_31,Monastir,538,Sujet_8,Description_18,Type_3,09/01/2023
+C36057305,Nom_432,Prenom_744,19.727989918190538,Femme,Profession_34,Mahdia,527,Sujet_1,Description_1,Type_3,12/24/2023
+C24934060,Nom_305,Prenom_324,26.984676379802572,Femme,Profession_17,Nabeul,220,Sujet_6,Description_14,Type_4,03/04/2023
+C74226862,Nom_903,Prenom_815,45.40648263790827,Femme,Profession_61,Medenine,335,Sujet_3,Description_2,Type_4,11/05/2023
+C61794198,Nom_107,Prenom_431,47.59202510884044,Homme,Profession_68,Gafsa,571,Sujet_2,Description_16,Type_3,04/03/2023
+C72841622,Nom_611,Prenom_100,46.0892503014022,Femme,Profession_97,Kebili,284,Sujet_6,Description_6,Type_4,11/27/2023
+C63576989,Nom_993,Prenom_919,41.6383158111864,Homme,Profession_54,Mahdia,583,Sujet_4,Description_2,Type_4,01/05/2023
+C13750197,Nom_123,Prenom_840,9.986286715228115,Femme,Profession_63,Ariana,433,Sujet_1,Description_4,Type_5,01/26/2023
+C96464578,Nom_540,Prenom_429,29.301198685840166,Homme,Profession_35,Bizerte,847,Sujet_2,Description_11,Type_4,11/19/2023
+C46586848,Nom_23,Prenom_970,34.2760453425978,Homme,Profession_68,Mahdia,410,Sujet_9,Description_12,Type_3,05/11/2023
+C21346769,Nom_905,Prenom_765,18.338588759186184,Femme,Profession_64,Tozeur,627,Sujet_10,Description_13,Type_5,06/14/2023
+C81963395,Nom_663,Prenom_921,44.70933937704653,Femme,Profession_15,Jendouba,312,Sujet_10,Description_11,Type_5,07/24/2023
+C15973652,Nom_21,Prenom_655,35.80119716705638,Femme,Profession_48,La Manouba,885,Sujet_4,Description_2,Type_1,09/15/2023
+C36822471,Nom_205,Prenom_663,43.844501776908366,Homme,Profession_48,Ariana,639,Sujet_3,Description_13,Type_4,01/02/2023
+C35412318,Nom_669,Prenom_701,44.35419085954903,Femme,Profession_50,Sfax,368,Sujet_6,Description_18,Type_1,09/11/2023
+C68171480,Nom_179,Prenom_818,19.284680872033366,Homme,Profession_72,Bizerte,723,Sujet_8,Description_18,Type_3,12/06/2023
+C44287823,Nom_765,Prenom_261,33.167727846755255,Homme,Profession_2,Gabes,466,Sujet_10,Description_2,Type_3,07/18/2023
+C73610257,Nom_130,Prenom_672,35.38435052921891,Homme,Profession_78,Tataouine,477,Sujet_6,Description_10,Type_3,04/11/2023
+C60585952,Nom_643,Prenom_354,39.91631066505624,Femme,Profession_11,La Manouba,314,Sujet_2,Description_19,Type_1,04/18/2023
+C64003647,Nom_707,Prenom_942,29.40967847999153,Femme,Profession_62,Kairouan,557,Sujet_10,Description_19,Type_4,02/03/2023
+C42930428,Nom_697,Prenom_236,39.78052095410377,Femme,Profession_78,Gabes,746,Sujet_3,Description_19,Type_2,03/18/2023
+C16120197,Nom_931,Prenom_726,29.444916166931687,Homme,Profession_96,Le Kef,552,Sujet_4,Description_7,Type_1,05/03/2023
+C47116315,Nom_36,Prenom_625,7.714032930921562,Homme,Profession_60,Beja,234,Sujet_10,Description_8,Type_1,02/24/2023
+C70836719,Nom_361,Prenom_870,35.46023832206783,Femme,Profession_16,La Manouba,320,Sujet_6,Description_4,Type_2,01/28/2023
+C74802693,Nom_426,Prenom_28,28.606834511385365,Femme,Profession_60,Tataouine,798,Sujet_7,Description_12,Type_4,07/04/2023
+C24400076,Nom_155,Prenom_308,33.81210469382617,Homme,Profession_69,Kairouan,747,Sujet_7,Description_9,Type_1,08/03/2023
+C57729926,Nom_883,Prenom_986,34.1577329083321,Homme,Profession_95,Nabeul,705,Sujet_6,Description_6,Type_2,03/15/2023
+C82383251,Nom_555,Prenom_338,45.88014281305066,Homme,Profession_27,Beja,756,Sujet_10,Description_5,Type_3,02/23/2023
+C39826832,Nom_209,Prenom_463,33.57808967423988,Femme,Profession_96,Siliana,400,Sujet_3,Description_15,Type_1,04/11/2023
+C69872892,Nom_854,Prenom_733,41.17707336590031,Femme,Profession_58,Nabeul,994,Sujet_7,Description_10,Type_4,11/06/2023
+C59483158,Nom_881,Prenom_867,23.853978543137256,Femme,Profession_18,Monastir,300,Sujet_10,Description_10,Type_2,08/06/2023
+C12170988,Nom_461,Prenom_686,20.881639344642373,Homme,Profession_27,Ariana,412,Sujet_7,Description_2,Type_4,01/22/2023
+C45468313,Nom_820,Prenom_697,34.47835597436324,Homme,Profession_32,Zaghouan,503,Sujet_9,Description_3,Type_1,10/05/2023
+C62096784,Nom_847,Prenom_330,35.25332691448152,Homme,Profession_30,La Manouba,417,Sujet_4,Description_1,Type_5,10/06/2023
+C45957249,Nom_762,Prenom_448,45.189168716705844,Homme,Profession_51,Beja,672,Sujet_5,Description_17,Type_4,12/23/2023
+C95913020,Nom_369,Prenom_498,44.18146663446653,Homme,Profession_71,Tozeur,510,Sujet_4,Description_16,Type_4,10/18/2023
+C96104562,Nom_876,Prenom_808,45.16663579046963,Femme,Profession_47,Tataouine,275,Sujet_8,Description_1,Type_3,12/11/2023
+C85070155,Nom_478,Prenom_470,29.91462805523576,Femme,Profession_52,Beja,879,Sujet_3,Description_8,Type_4,09/04/2023
+C60516670,Nom_85,Prenom_981,42.521322532666666,Homme,Profession_53,Ariana,206,Sujet_8,Description_3,Type_4,06/28/2023
+C14196126,Nom_129,Prenom_1,30.898370871470835,Homme,Profession_91,Kebili,438,Sujet_7,Description_6,Type_4,06/04/2023
+C43507688,Nom_265,Prenom_544,35.22161842987733,Femme,Profession_33,Zaghouan,761,Sujet_5,Description_7,Type_4,01/25/2023
+C68769851,Nom_218,Prenom_282,44.71332968863251,Homme,Profession_46,Sfax,898,Sujet_1,Description_11,Type_3,09/24/2023
+C68844093,Nom_270,Prenom_964,39.903310590773714,Homme,Profession_77,Siliana,321,Sujet_4,Description_18,Type_4,01/06/2023
+C73171822,Nom_252,Prenom_146,42.08766219584238,Homme,Profession_46,Monastir,899,Sujet_9,Description_9,Type_3,06/13/2023
+C17577360,Nom_723,Prenom_383,35.361185535021264,Homme,Profession_54,Zaghouan,744,Sujet_7,Description_2,Type_2,11/11/2023
+C74106546,Nom_888,Prenom_310,27.15637385126861,Homme,Profession_21,Le Kef,278,Sujet_4,Description_16,Type_5,10/12/2023
+C83687571,Nom_200,Prenom_390,30.597228715390152,Femme,Profession_22,Tunis,696,Sujet_3,Description_17,Type_3,05/28/2023
+C50318531,Nom_868,Prenom_478,43.331136027341536,Homme,Profession_57,Medenine,734,Sujet_3,Description_6,Type_4,03/17/2023
+C61891705,Nom_762,Prenom_818,20.221858912114747,Femme,Profession_13,Le Kef,586,Sujet_10,Description_18,Type_5,07/20/2023
+C89027795,Nom_606,Prenom_499,36.01355743775483,Homme,Profession_68,Sfax,454,Sujet_7,Description_15,Type_1,12/05/2023
+C42912014,Nom_958,Prenom_329,24.69712406409429,Homme,Profession_66,Medenine,643,Sujet_4,Description_8,Type_2,06/01/2023
+C64197393,Nom_911,Prenom_90,33.5413956055108,Femme,Profession_87,Ariana,918,Sujet_8,Description_17,Type_1,11/08/2023
+C80587587,Nom_134,Prenom_388,41.898324286957674,Homme,Profession_35,Sousse,134,Sujet_3,Description_9,Type_5,04/25/2023
+C75395731,Nom_774,Prenom_625,43.51196748609377,Homme,Profession_91,Gafsa,669,Sujet_3,Description_16,Type_3,02/09/2023
+C66112761,Nom_394,Prenom_141,40.60590696505001,Femme,Profession_72,Zaghouan,155,Sujet_10,Description_7,Type_2,09/19/2023
+C51351217,Nom_554,Prenom_49,40.53610984741141,Femme,Profession_70,Kairouan,940,Sujet_2,Description_1,Type_2,06/21/2023
+C62809062,Nom_713,Prenom_689,47.14911032236849,Femme,Profession_43,Tunis,736,Sujet_5,Description_8,Type_3,03/15/2023
+C99562516,Nom_864,Prenom_327,40.07099444265168,Homme,Profession_3,Sousse,762,Sujet_7,Description_1,Type_2,03/01/2023
+C81574570,Nom_357,Prenom_410,39.0302837659645,Femme,Profession_82,Ben Arous,664,Sujet_10,Description_1,Type_5,12/08/2023
+C82073646,Nom_264,Prenom_648,48.48376443323829,Femme,Profession_87,Gafsa,378,Sujet_10,Description_2,Type_5,06/18/2023
+C16557782,Nom_979,Prenom_501,38.42124730595958,Femme,Profession_87,Sfax,865,Sujet_5,Description_1,Type_5,11/17/2023
+C25239174,Nom_965,Prenom_127,31.824798473485945,Homme,Profession_89,Tunis,811,Sujet_10,Description_1,Type_1,09/26/2023
+C22061561,Nom_92,Prenom_168,43.0314625401925,Homme,Profession_4,Gafsa,201,Sujet_8,Description_8,Type_1,04/21/2023
+C91569672,Nom_882,Prenom_489,47.80510399693516,Homme,Profession_1,Monastir,222,Sujet_8,Description_12,Type_4,11/22/2023
+C92356552,Nom_830,Prenom_259,37.710484903865996,Femme,Profession_20,Mahdia,894,Sujet_9,Description_11,Type_5,06/02/2023
+C74385848,Nom_71,Prenom_256,50.8552890742677,Homme,Profession_85,Medenine,872,Sujet_5,Description_4,Type_3,04/22/2023
+C26836869,Nom_158,Prenom_571,35.693852985908435,Femme,Profession_10,Sidi Bouzid,349,Sujet_2,Description_13,Type_4,01/16/2023
+C66310465,Nom_219,Prenom_561,57.33113845525335,Homme,Profession_87,Sidi Bouzid,705,Sujet_4,Description_19,Type_5,04/26/2023
+C78220542,Nom_386,Prenom_769,25.844207173944405,Femme,Profession_13,Bizerte,456,Sujet_1,Description_5,Type_1,11/11/2023
+C62719585,Nom_486,Prenom_824,48.62125989084592,Femme,Profession_97,Gabes,850,Sujet_4,Description_20,Type_3,10/08/2023
+C13119515,Nom_449,Prenom_125,45.02402501473611,Femme,Profession_46,La Manouba,529,Sujet_9,Description_1,Type_4,12/20/2023
+C37733038,Nom_416,Prenom_467,24.573909274068242,Homme,Profession_24,Beja,870,Sujet_5,Description_6,Type_5,11/07/2023
+C34682732,Nom_97,Prenom_780,25.24848856434693,Femme,Profession_83,La Manouba,483,Sujet_10,Description_19,Type_2,08/23/2023
+C60748869,Nom_290,Prenom_412,51.496797718781345,Homme,Profession_95,Kebili,878,Sujet_2,Description_15,Type_2,08/27/2023
+C61220730,Nom_279,Prenom_410,31.90069976142592,Femme,Profession_95,Kebili,518,Sujet_7,Description_18,Type_5,02/05/2023
+C12448491,Nom_305,Prenom_620,41.809923240357115,Femme,Profession_28,Sousse,654,Sujet_5,Description_17,Type_5,06/26/2023
+C83238791,Nom_700,Prenom_163,19.673099319520674,Homme,Profession_89,Bizerte,813,Sujet_5,Description_11,Type_1,09/10/2023
+C85324346,Nom_490,Prenom_895,46.419954402820025,Homme,Profession_22,Tunis,741,Sujet_10,Description_4,Type_2,07/12/2023
+C73431248,Nom_504,Prenom_414,32.44492260120316,Femme,Profession_34,Tunis,159,Sujet_1,Description_12,Type_1,04/18/2023
+C69155328,Nom_468,Prenom_811,27.55708147008601,Femme,Profession_31,Beja,266,Sujet_5,Description_20,Type_4,07/13/2023
+C39413047,Nom_69,Prenom_751,36.70496512713058,Femme,Profession_63,Kebili,604,Sujet_7,Description_12,Type_1,01/21/2023
+C46525652,Nom_420,Prenom_502,59.30416009125266,Homme,Profession_25,Beja,396,Sujet_3,Description_5,Type_1,08/11/2023
+C91225625,Nom_741,Prenom_155,57.19811309107368,Homme,Profession_47,Kebili,732,Sujet_2,Description_11,Type_3,01/18/2023
+C32863009,Nom_113,Prenom_587,35.03628646945384,Femme,Profession_79,Nabeul,876,Sujet_4,Description_15,Type_1,03/24/2023
+C48793932,Nom_480,Prenom_307,41.65304986122696,Femme,Profession_26,Mahdia,171,Sujet_4,Description_9,Type_2,09/21/2023
+C69034482,Nom_108,Prenom_928,31.165857625057434,Homme,Profession_28,Monastir,701,Sujet_2,Description_19,Type_4,04/14/2023
+C99846596,Nom_669,Prenom_738,35.68290426672478,Homme,Profession_15,Kebili,597,Sujet_2,Description_13,Type_5,04/10/2023
+C69142988,Nom_407,Prenom_344,28.68892899868396,Homme,Profession_40,Ben Arous,908,Sujet_10,Description_3,Type_3,07/10/2023
+C90843430,Nom_154,Prenom_839,49.34429006042333,Homme,Profession_37,Jendouba,326,Sujet_4,Description_17,Type_1,11/09/2023
+C57017787,Nom_230,Prenom_350,49.41201137647161,Homme,Profession_96,Siliana,525,Sujet_6,Description_7,Type_2,12/10/2023
+C66838459,Nom_34,Prenom_393,32.79523437165089,Homme,Profession_35,Ariana,761,Sujet_7,Description_20,Type_4,04/14/2023
+C45584327,Nom_60,Prenom_616,48.17877317149434,Femme,Profession_92,Tozeur,918,Sujet_3,Description_18,Type_4,10/09/2023
+C55798592,Nom_545,Prenom_107,29.795969365219253,Homme,Profession_35,Tataouine,933,Sujet_3,Description_14,Type_2,06/20/2023
+C46246027,Nom_863,Prenom_813,11.998426878741164,Femme,Profession_46,Kebili,441,Sujet_6,Description_6,Type_4,01/10/2023
+C69245769,Nom_601,Prenom_517,39.71589581408425,Homme,Profession_88,Sidi Bouzid,104,Sujet_3,Description_9,Type_5,06/02/2023
+C68200048,Nom_662,Prenom_6,33.87314158515947,Homme,Profession_21,Tataouine,401,Sujet_8,Description_4,Type_3,11/24/2023
+C58513099,Nom_488,Prenom_71,37.827361725580275,Femme,Profession_70,Mahdia,557,Sujet_7,Description_17,Type_1,07/18/2023
+C69038905,Nom_691,Prenom_456,46.34862512823017,Femme,Profession_10,Kasserine,580,Sujet_1,Description_20,Type_3,11/23/2023
+C10323840,Nom_601,Prenom_775,33.588779916221384,Homme,Profession_77,Ariana,475,Sujet_7,Description_6,Type_3,11/20/2023
+C61746092,Nom_181,Prenom_151,37.70956313402676,Femme,Profession_19,Jendouba,484,Sujet_4,Description_14,Type_1,04/28/2023
+C25651243,Nom_350,Prenom_943,48.143209343818846,Femme,Profession_86,Zaghouan,468,Sujet_7,Description_17,Type_4,08/03/2023
+C24220060,Nom_789,Prenom_671,41.538231747942284,Homme,Profession_95,Mahdia,481,Sujet_6,Description_14,Type_2,11/14/2023
+C28085648,Nom_760,Prenom_818,20.011807209287934,Femme,Profession_85,Kairouan,978,Sujet_1,Description_7,Type_1,06/22/2023
+C56862216,Nom_615,Prenom_304,58.90419778288166,Femme,Profession_99,La Manouba,809,Sujet_1,Description_10,Type_2,03/10/2023
+C27919762,Nom_210,Prenom_523,36.782112325390116,Homme,Profession_61,Ben Arous,477,Sujet_7,Description_14,Type_4,07/08/2023
+C30196092,Nom_95,Prenom_250,44.911199191733,Femme,Profession_42,Medenine,577,Sujet_4,Description_20,Type_1,06/07/2023
+C98143076,Nom_280,Prenom_172,43.91758363490876,Homme,Profession_60,Ben Arous,561,Sujet_3,Description_19,Type_2,06/01/2023
+C58131190,Nom_393,Prenom_481,28.452569110351682,Femme,Profession_15,Mahdia,791,Sujet_2,Description_14,Type_5,12/12/2023
+C38582175,Nom_632,Prenom_990,32.22502743420966,Homme,Profession_95,Beja,228,Sujet_7,Description_9,Type_2,09/19/2023
+C15271927,Nom_713,Prenom_790,51.61498656462105,Homme,Profession_26,Nabeul,220,Sujet_3,Description_1,Type_2,09/07/2023
+C12356216,Nom_35,Prenom_808,15.501106620107507,Femme,Profession_88,Sfax,349,Sujet_3,Description_1,Type_4,03/04/2023
+C26117915,Nom_920,Prenom_546,28.10085250942165,Femme,Profession_3,Zaghouan,617,Sujet_3,Description_19,Type_1,09/21/2023
+C91015218,Nom_865,Prenom_994,51.888490486811044,Femme,Profession_21,Gafsa,832,Sujet_7,Description_16,Type_3,01/20/2023
+C32809306,Nom_43,Prenom_856,20.695863168174693,Homme,Profession_30,Ben Arous,294,Sujet_5,Description_13,Type_5,11/01/2023
+C74501440,Nom_589,Prenom_254,44.826598725255536,Femme,Profession_72,Zaghouan,820,Sujet_7,Description_11,Type_3,03/02/2023
+C83386140,Nom_548,Prenom_392,44.12727047988609,Homme,Profession_89,Sfax,834,Sujet_8,Description_6,Type_4,03/27/2023
+C90324701,Nom_229,Prenom_245,39.16237511505982,Homme,Profession_18,Le Kef,192,Sujet_2,Description_5,Type_2,03/24/2023
+C98523991,Nom_509,Prenom_404,44.29582589315453,Homme,Profession_8,Kairouan,601,Sujet_5,Description_17,Type_2,11/04/2023
+C14086974,Nom_814,Prenom_919,49.119605534958225,Femme,Profession_32,Ariana,169,Sujet_8,Description_18,Type_4,06/18/2023
+C34828861,Nom_448,Prenom_765,49.480622714020654,Homme,Profession_83,Sousse,657,Sujet_5,Description_20,Type_5,08/21/2023
+C94362561,Nom_222,Prenom_195,53.33336435757325,Femme,Profession_75,Zaghouan,484,Sujet_9,Description_9,Type_2,03/14/2023
+C31433798,Nom_910,Prenom_228,29.904500156092105,Femme,Profession_11,Gabes,490,Sujet_7,Description_17,Type_2,11/10/2023
+C56283611,Nom_302,Prenom_491,23.504186166162246,Femme,Profession_50,Siliana,292,Sujet_4,Description_9,Type_2,01/28/2023
+C15362095,Nom_140,Prenom_182,19.375576792746784,Homme,Profession_43,Sousse,638,Sujet_8,Description_19,Type_1,07/27/2023
+C64869341,Nom_569,Prenom_576,46.8906556315855,Homme,Profession_14,Medenine,625,Sujet_6,Description_3,Type_5,11/06/2023
+C64209209,Nom_666,Prenom_63,30.13537503120402,Femme,Profession_44,Sidi Bouzid,991,Sujet_3,Description_16,Type_3,07/21/2023
+C78390184,Nom_31,Prenom_979,57.373461934790654,Femme,Profession_8,Sousse,333,Sujet_9,Description_8,Type_2,02/07/2023
+C32418292,Nom_372,Prenom_848,40.860279061896286,Homme,Profession_82,Bizerte,889,Sujet_5,Description_11,Type_4,03/03/2023
+C88583789,Nom_447,Prenom_327,26.563154328994912,Homme,Profession_4,Gabes,417,Sujet_10,Description_14,Type_3,07/16/2023
+C30499341,Nom_20,Prenom_574,19.105474100809833,Homme,Profession_86,Le Kef,108,Sujet_5,Description_18,Type_4,04/24/2023
+C50077665,Nom_580,Prenom_42,38.794962484540996,Homme,Profession_5,Ariana,234,Sujet_9,Description_13,Type_4,09/03/2023
+C36831344,Nom_567,Prenom_158,55.86400176092219,Femme,Profession_55,Sidi Bouzid,655,Sujet_3,Description_2,Type_4,01/03/2023
+C48250593,Nom_709,Prenom_171,32.2623581713607,Femme,Profession_10,Gabes,681,Sujet_4,Description_5,Type_3,05/08/2023
+C60043446,Nom_311,Prenom_888,45.72762160427879,Femme,Profession_59,Zaghouan,594,Sujet_1,Description_9,Type_5,10/20/2023
+C26532690,Nom_879,Prenom_611,29.052462072870384,Femme,Profession_40,Kebili,124,Sujet_8,Description_7,Type_3,05/20/2023
+C12763443,Nom_120,Prenom_83,39.4631603755761,Homme,Profession_18,Ariana,535,Sujet_1,Description_10,Type_1,04/03/2023
+C45961323,Nom_60,Prenom_958,47.844140709925384,Femme,Profession_100,Bizerte,486,Sujet_9,Description_7,Type_4,12/27/2023
+C48029889,Nom_548,Prenom_196,30.152761426411118,Femme,Profession_20,Tataouine,785,Sujet_9,Description_15,Type_1,04/17/2023
+C98218565,Nom_791,Prenom_977,45.81806216989514,Femme,Profession_22,Kairouan,952,Sujet_1,Description_16,Type_5,12/10/2023
+C91306248,Nom_101,Prenom_868,14.443146369581441,Homme,Profession_62,Le Kef,895,Sujet_7,Description_17,Type_2,12/15/2023
+C52654474,Nom_602,Prenom_250,44.36166197171468,Homme,Profession_14,Medenine,119,Sujet_8,Description_12,Type_4,10/03/2023
+C29724497,Nom_45,Prenom_29,24.536843871357824,Homme,Profession_73,Ariana,918,Sujet_8,Description_15,Type_4,02/13/2023
+C75684512,Nom_347,Prenom_911,31.74557473771969,Femme,Profession_82,Gafsa,245,Sujet_1,Description_19,Type_3,10/24/2023
+C40673029,Nom_487,Prenom_67,40.78130691638623,Femme,Profession_81,Sidi Bouzid,304,Sujet_5,Description_3,Type_3,09/19/2023
+C25695548,Nom_367,Prenom_944,28.85610160624941,Homme,Profession_4,Tataouine,521,Sujet_10,Description_4,Type_3,04/06/2023
+C23592457,Nom_423,Prenom_186,28.571488846457243,Homme,Profession_92,Sfax,146,Sujet_1,Description_15,Type_3,03/24/2023
+C84741152,Nom_53,Prenom_915,33.960130018228895,Femme,Profession_34,Tozeur,747,Sujet_3,Description_16,Type_2,01/13/2023
+C22986611,Nom_269,Prenom_171,31.908507124805283,Homme,Profession_90,Ben Arous,882,Sujet_6,Description_1,Type_3,07/14/2023
+C11070322,Nom_622,Prenom_614,51.13739492072084,Homme,Profession_37,Nabeul,411,Sujet_8,Description_11,Type_1,10/04/2023
+C53196392,Nom_951,Prenom_746,17.549470858448256,Femme,Profession_41,Nabeul,644,Sujet_1,Description_13,Type_5,11/22/2023
+C60776329,Nom_560,Prenom_91,32.29995110079961,Homme,Profession_66,Le Kef,165,Sujet_3,Description_16,Type_4,04/15/2023
+C37145955,Nom_958,Prenom_588,27.493490699058157,Femme,Profession_54,Sidi Bouzid,209,Sujet_3,Description_3,Type_2,09/27/2023
+C75066486,Nom_719,Prenom_911,58.944983956167654,Femme,Profession_55,Gabes,300,Sujet_7,Description_6,Type_3,07/06/2023
+C34318862,Nom_563,Prenom_657,20.990430935318297,Femme,Profession_36,Kasserine,975,Sujet_8,Description_20,Type_4,09/15/2023
+C86601508,Nom_217,Prenom_83,64.1993646648956,Femme,Profession_34,Nabeul,971,Sujet_10,Description_1,Type_3,08/25/2023
+C54726010,Nom_324,Prenom_293,35.60154188764973,Femme,Profession_34,Zaghouan,587,Sujet_6,Description_8,Type_3,12/04/2023
+C70112470,Nom_226,Prenom_107,38.17989615890313,Femme,Profession_73,Monastir,952,Sujet_2,Description_1,Type_4,06/17/2023
+C91415577,Nom_66,Prenom_533,25.12966745109806,Femme,Profession_85,Sousse,412,Sujet_9,Description_3,Type_2,04/12/2023
+C30776063,Nom_441,Prenom_871,42.36851031843485,Homme,Profession_31,Jendouba,418,Sujet_7,Description_18,Type_5,05/23/2023
+C55331387,Nom_293,Prenom_268,58.95847182653837,Femme,Profession_30,Tozeur,472,Sujet_10,Description_6,Type_4,02/07/2023
+C23284919,Nom_750,Prenom_716,32.02672845133725,Femme,Profession_51,Nabeul,296,Sujet_7,Description_4,Type_2,04/21/2023
+C21471698,Nom_446,Prenom_980,35.76965252673031,Homme,Profession_97,Zaghouan,175,Sujet_8,Description_19,Type_4,04/18/2023
+C99295857,Nom_558,Prenom_393,39.03138506225547,Homme,Profession_57,Jendouba,568,Sujet_10,Description_1,Type_1,11/01/2023
+C67509791,Nom_771,Prenom_129,36.71061775961003,Homme,Profession_44,Beja,452,Sujet_6,Description_16,Type_1,06/13/2023
+C85316715,Nom_608,Prenom_135,46.110307200575065,Homme,Profession_16,Jendouba,349,Sujet_8,Description_1,Type_1,04/01/2023
+C40161700,Nom_760,Prenom_186,48.78072647994426,Homme,Profession_63,Sidi Bouzid,928,Sujet_10,Description_3,Type_3,09/17/2023
+C22175493,Nom_299,Prenom_736,41.666724281540425,Homme,Profession_41,Mahdia,808,Sujet_6,Description_2,Type_3,05/26/2023
+C51891654,Nom_692,Prenom_440,39.25422483456317,Homme,Profession_23,Le Kef,455,Sujet_1,Description_12,Type_2,04/24/2023
+C23750939,Nom_32,Prenom_809,39.13930826221602,Femme,Profession_85,Kebili,747,Sujet_10,Description_10,Type_1,04/18/2023
+C35413945,Nom_440,Prenom_501,24.43258080877556,Homme,Profession_8,Zaghouan,528,Sujet_10,Description_16,Type_1,12/15/2023
+C10249198,Nom_135,Prenom_4,10.407475341756935,Homme,Profession_99,Beja,282,Sujet_3,Description_18,Type_3,04/10/2023
+C42879537,Nom_616,Prenom_557,46.785892358879835,Femme,Profession_15,Tozeur,582,Sujet_7,Description_6,Type_4,03/27/2023
+C87356098,Nom_693,Prenom_69,35.92009708123779,Femme,Profession_21,Kairouan,764,Sujet_3,Description_16,Type_3,09/10/2023
+C30588003,Nom_790,Prenom_966,51.22566796151576,Homme,Profession_92,Sousse,189,Sujet_4,Description_13,Type_2,10/27/2023
+C34203886,Nom_698,Prenom_320,51.6270520361309,Homme,Profession_13,Zaghouan,240,Sujet_9,Description_5,Type_1,04/14/2023
+C22746922,Nom_757,Prenom_242,46.03339285930258,Homme,Profession_86,Siliana,143,Sujet_1,Description_19,Type_3,03/06/2023
+C12572969,Nom_251,Prenom_648,38.94220239277501,Femme,Profession_82,Sidi Bouzid,100,Sujet_5,Description_14,Type_4,07/28/2023
+C74949271,Nom_30,Prenom_602,41.66719241805978,Homme,Profession_58,Sidi Bouzid,821,Sujet_7,Description_17,Type_2,06/28/2023
+C92774804,Nom_788,Prenom_27,28.59165477506261,Homme,Profession_97,Sfax,674,Sujet_9,Description_13,Type_1,11/16/2023
+C80017972,Nom_356,Prenom_100,27.244646833789506,Homme,Profession_20,Nabeul,293,Sujet_7,Description_17,Type_2,06/14/2023
+C44539807,Nom_205,Prenom_566,38.201676374198165,Femme,Profession_40,Sousse,193,Sujet_1,Description_16,Type_2,01/20/2023
+C20887043,Nom_313,Prenom_750,33.27829131413017,Femme,Profession_74,Kasserine,379,Sujet_3,Description_14,Type_4,01/04/2023
+C53626973,Nom_803,Prenom_431,36.737516035088085,Homme,Profession_78,Ariana,695,Sujet_1,Description_10,Type_3,08/20/2023
+C55711593,Nom_190,Prenom_529,33.72955569347708,Homme,Profession_26,Siliana,955,Sujet_6,Description_8,Type_3,04/20/2023
+C96115400,Nom_314,Prenom_528,37.025087832864195,Femme,Profession_66,Ben Arous,115,Sujet_9,Description_17,Type_3,01/03/2023
+C20717405,Nom_647,Prenom_610,26.454410842856603,Femme,Profession_87,Sfax,943,Sujet_7,Description_3,Type_5,11/13/2023
+C62173779,Nom_871,Prenom_660,32.80566179260334,Homme,Profession_4,Le Kef,758,Sujet_3,Description_18,Type_5,03/08/2023
+C22084335,Nom_551,Prenom_386,31.994365221849968,Homme,Profession_72,Ariana,721,Sujet_10,Description_3,Type_3,07/10/2023
+C43752871,Nom_352,Prenom_304,38.067371497428105,Homme,Profession_77,Kasserine,982,Sujet_3,Description_18,Type_4,06/20/2023
+C31992075,Nom_463,Prenom_22,39.068581752529525,Femme,Profession_68,Tunis,982,Sujet_3,Description_3,Type_3,08/05/2023
+C93518655,Nom_454,Prenom_427,49.779981621849146,Femme,Profession_56,Zaghouan,957,Sujet_4,Description_9,Type_3,05/01/2023
+C91757663,Nom_140,Prenom_550,27.171895654206722,Homme,Profession_55,Tunis,965,Sujet_3,Description_20,Type_4,08/16/2023
+C53854419,Nom_910,Prenom_160,26.77657159156308,Homme,Profession_43,Sfax,476,Sujet_9,Description_4,Type_5,06/01/2023
+C35932227,Nom_917,Prenom_326,33.80926044878479,Femme,Profession_2,La Manouba,230,Sujet_3,Description_9,Type_5,12/24/2023
+C42430218,Nom_778,Prenom_297,38.36904855539312,Homme,Profession_3,Nabeul,319,Sujet_10,Description_19,Type_1,04/01/2023
+C27758623,Nom_127,Prenom_186,36.07849426262176,Femme,Profession_68,Bizerte,841,Sujet_10,Description_10,Type_1,07/24/2023
+C71104331,Nom_421,Prenom_809,42.70200868485401,Homme,Profession_72,Bizerte,851,Sujet_3,Description_8,Type_4,12/26/2023
+C50453208,Nom_33,Prenom_506,30.778962216008214,Femme,Profession_73,Sousse,758,Sujet_8,Description_6,Type_3,04/15/2023
+C89300355,Nom_413,Prenom_313,34.867284534257685,Femme,Profession_75,Mahdia,857,Sujet_4,Description_4,Type_4,02/16/2023
+C46805929,Nom_345,Prenom_295,40.58825526402752,Homme,Profession_8,Kebili,752,Sujet_8,Description_16,Type_4,02/18/2023
+C19425054,Nom_12,Prenom_890,49.63053949021861,Homme,Profession_23,Zaghouan,859,Sujet_3,Description_18,Type_4,02/10/2023
+C82176872,Nom_344,Prenom_684,25.003787170215087,Femme,Profession_57,Tataouine,830,Sujet_2,Description_8,Type_1,08/21/2023
+C49034627,Nom_556,Prenom_813,43.43518939113528,Homme,Profession_1,Jendouba,965,Sujet_9,Description_16,Type_5,09/17/2023
+C56724290,Nom_119,Prenom_595,31.627264910511194,Femme,Profession_91,Nabeul,280,Sujet_2,Description_16,Type_1,02/02/2023
+C10550271,Nom_129,Prenom_743,39.68823048251798,Femme,Profession_62,La Manouba,270,Sujet_9,Description_7,Type_1,06/08/2023
+C43151945,Nom_34,Prenom_423,32.32315827905174,Femme,Profession_80,Kebili,771,Sujet_6,Description_19,Type_3,04/10/2023
+C87714051,Nom_127,Prenom_352,49.67653506739982,Homme,Profession_97,Ariana,283,Sujet_1,Description_5,Type_5,05/25/2023
+C62423763,Nom_917,Prenom_772,17.355919256167542,Homme,Profession_99,Kairouan,511,Sujet_7,Description_12,Type_3,04/26/2023
+C84599508,Nom_627,Prenom_261,16.40233427077529,Femme,Profession_100,Kairouan,961,Sujet_10,Description_12,Type_3,09/02/2023
+C30434811,Nom_256,Prenom_619,38.21645054924922,Femme,Profession_88,Bizerte,259,Sujet_9,Description_3,Type_5,08/23/2023
+C26534662,Nom_52,Prenom_580,33.78851369986909,Femme,Profession_70,Monastir,581,Sujet_4,Description_19,Type_2,07/10/2023
+C81335694,Nom_287,Prenom_212,39.279091987423115,Femme,Profession_93,Sousse,624,Sujet_6,Description_15,Type_5,05/26/2023
+C94210416,Nom_716,Prenom_165,39.07688975130592,Homme,Profession_30,Nabeul,658,Sujet_1,Description_7,Type_5,06/21/2023
+C77246597,Nom_886,Prenom_553,19.056421853643705,Homme,Profession_53,Le Kef,301,Sujet_5,Description_11,Type_3,09/03/2023
+C82799939,Nom_341,Prenom_991,37.43224987124689,Homme,Profession_35,Le Kef,450,Sujet_10,Description_11,Type_1,04/26/2023
+C71395653,Nom_22,Prenom_854,37.3955371269304,Femme,Profession_35,La Manouba,481,Sujet_3,Description_6,Type_5,12/13/2023
+C39232901,Nom_399,Prenom_255,63.47957476303465,Femme,Profession_53,Kasserine,275,Sujet_8,Description_15,Type_3,01/11/2023
+C66253339,Nom_495,Prenom_6,47.81464573226849,Femme,Profession_29,Bizerte,267,Sujet_2,Description_1,Type_1,04/03/2023
+C22033866,Nom_258,Prenom_794,45.84053054700053,Homme,Profession_46,Kebili,452,Sujet_1,Description_7,Type_3,09/04/2023
+C79496696,Nom_580,Prenom_435,35.90488512651702,Homme,Profession_23,Bizerte,308,Sujet_9,Description_11,Type_5,02/07/2023
+C65710642,Nom_246,Prenom_234,27.869087380860822,Femme,Profession_87,Gafsa,881,Sujet_4,Description_19,Type_5,03/09/2023
+C53252065,Nom_980,Prenom_926,8.024055097389013,Femme,Profession_65,Gabes,213,Sujet_9,Description_15,Type_5,05/25/2023
+C21826023,Nom_158,Prenom_736,45.06463820347794,Femme,Profession_75,Sfax,484,Sujet_1,Description_7,Type_1,02/01/2023
+C76666383,Nom_198,Prenom_787,10.776286709034647,Homme,Profession_80,Siliana,955,Sujet_8,Description_2,Type_2,01/09/2023
+C13672062,Nom_125,Prenom_193,45.15815165182051,Femme,Profession_63,Siliana,503,Sujet_3,Description_13,Type_4,09/19/2023
+C14017254,Nom_704,Prenom_605,26.128877628086435,Femme,Profession_93,Monastir,683,Sujet_8,Description_2,Type_5,08/22/2023
+C49705597,Nom_751,Prenom_481,42.379461496013626,Homme,Profession_55,Ben Arous,730,Sujet_5,Description_19,Type_2,05/18/2023
+C52943069,Nom_663,Prenom_828,31.588257147133355,Homme,Profession_56,Ariana,334,Sujet_2,Description_14,Type_4,06/10/2023
+C40004815,Nom_700,Prenom_358,31.652622391680907,Femme,Profession_92,Ariana,380,Sujet_10,Description_19,Type_5,11/06/2023
+C14225217,Nom_416,Prenom_581,40.375423662779305,Femme,Profession_19,Sidi Bouzid,129,Sujet_7,Description_16,Type_2,02/02/2023
+C68514218,Nom_771,Prenom_198,29.16159683185397,Homme,Profession_92,Ariana,501,Sujet_9,Description_3,Type_2,05/12/2023
+C62065357,Nom_226,Prenom_367,32.33180756311122,Femme,Profession_15,Tataouine,811,Sujet_7,Description_11,Type_1,08/06/2023
+C30524415,Nom_189,Prenom_436,41.486346444763036,Femme,Profession_45,Beja,426,Sujet_3,Description_16,Type_3,06/13/2023
+C64532921,Nom_277,Prenom_316,37.28809129607897,Femme,Profession_40,Beja,858,Sujet_3,Description_13,Type_2,06/17/2023
+C29939305,Nom_225,Prenom_174,44.88209036759932,Homme,Profession_54,Gabes,706,Sujet_1,Description_13,Type_2,01/05/2023
+C60765251,Nom_806,Prenom_625,41.87037563509941,Homme,Profession_63,Bizerte,613,Sujet_9,Description_16,Type_3,03/25/2023
+C16285088,Nom_918,Prenom_767,33.9183784610123,Homme,Profession_79,Beja,704,Sujet_1,Description_13,Type_1,08/22/2023
+C58978666,Nom_571,Prenom_438,35.71896952329339,Homme,Profession_68,Ben Arous,618,Sujet_6,Description_5,Type_3,12/23/2023
+C47194597,Nom_494,Prenom_725,38.61952958715325,Femme,Profession_14,Kasserine,863,Sujet_1,Description_20,Type_4,01/05/2023
+C65765631,Nom_941,Prenom_451,53.81628522984657,Femme,Profession_31,Tunis,962,Sujet_3,Description_3,Type_3,06/15/2023
+C70550351,Nom_437,Prenom_968,41.30995185515139,Femme,Profession_28,Kairouan,839,Sujet_8,Description_17,Type_5,12/07/2023
+C89039089,Nom_544,Prenom_550,37.37654351176294,Femme,Profession_80,Kasserine,831,Sujet_4,Description_7,Type_3,09/23/2023
+C69463247,Nom_229,Prenom_375,42.98410232252528,Homme,Profession_80,Jendouba,175,Sujet_9,Description_17,Type_3,01/01/2023
+C15236500,Nom_504,Prenom_860,27.783379670383262,Homme,Profession_96,La Manouba,442,Sujet_6,Description_3,Type_4,12/20/2023
+C97211467,Nom_808,Prenom_860,41.85960821845334,Homme,Profession_20,Le Kef,993,Sujet_7,Description_14,Type_5,09/07/2023
+C51993871,Nom_898,Prenom_680,39.04095713820388,Femme,Profession_17,Sidi Bouzid,862,Sujet_4,Description_13,Type_3,07/04/2023
+C53539626,Nom_518,Prenom_99,39.35260791234527,Homme,Profession_67,Siliana,927,Sujet_9,Description_7,Type_5,06/09/2023
+C73401216,Nom_264,Prenom_208,34.44710075499689,Homme,Profession_32,Monastir,146,Sujet_6,Description_16,Type_1,05/09/2023
+C17764897,Nom_158,Prenom_170,35.99272990968473,Homme,Profession_56,Le Kef,796,Sujet_1,Description_20,Type_4,12/20/2023
+C51193685,Nom_695,Prenom_142,30.504315147023576,Homme,Profession_91,Kairouan,174,Sujet_6,Description_12,Type_4,05/05/2023
+C50249335,Nom_584,Prenom_838,47.792889534393865,Homme,Profession_14,Ariana,728,Sujet_8,Description_10,Type_2,09/19/2023
+C28453807,Nom_545,Prenom_58,30.526269123295894,Femme,Profession_50,Tataouine,183,Sujet_1,Description_17,Type_3,04/09/2023
+C48577481,Nom_217,Prenom_959,32.38841546969495,Femme,Profession_29,Nabeul,215,Sujet_4,Description_14,Type_4,06/12/2023
+C73275314,Nom_304,Prenom_862,46.1437293937001,Homme,Profession_15,Kairouan,824,Sujet_3,Description_4,Type_5,02/03/2023
+C31680252,Nom_325,Prenom_161,54.246413155506076,Femme,Profession_48,Siliana,838,Sujet_7,Description_17,Type_5,11/27/2023
+C21511163,Nom_535,Prenom_777,33.03515543717243,Femme,Profession_91,Kasserine,424,Sujet_6,Description_20,Type_1,10/17/2023
+C57575186,Nom_105,Prenom_914,19.149297671346336,Homme,Profession_8,Siliana,481,Sujet_7,Description_13,Type_5,06/10/2023
+C19525113,Nom_84,Prenom_99,29.684736125066166,Femme,Profession_42,Tozeur,570,Sujet_3,Description_10,Type_3,06/01/2023
+C58363980,Nom_190,Prenom_861,26.74536139158617,Homme,Profession_100,Nabeul,283,Sujet_10,Description_14,Type_2,09/14/2023
+C70350596,Nom_983,Prenom_786,42.22357255629827,Femme,Profession_54,Gabes,300,Sujet_8,Description_7,Type_1,04/20/2023
+C10492394,Nom_257,Prenom_633,30.30615348931666,Homme,Profession_33,Le Kef,585,Sujet_2,Description_16,Type_4,08/22/2023
+C51093793,Nom_397,Prenom_772,24.87251269904003,Homme,Profession_58,Tozeur,517,Sujet_9,Description_13,Type_5,07/07/2023
+C39786033,Nom_506,Prenom_908,34.50768720346117,Homme,Profession_42,Sfax,415,Sujet_8,Description_8,Type_1,07/16/2023
+C30681733,Nom_808,Prenom_467,24.91149401159304,Homme,Profession_84,Nabeul,679,Sujet_5,Description_16,Type_5,06/26/2023
+C72372383,Nom_770,Prenom_890,66.81720060644143,Homme,Profession_32,Nabeul,408,Sujet_2,Description_8,Type_5,08/19/2023
+C26149167,Nom_680,Prenom_175,33.975969320635166,Homme,Profession_92,Mahdia,253,Sujet_4,Description_11,Type_5,04/02/2023
+C97799247,Nom_861,Prenom_169,69.41065942594112,Homme,Profession_68,Mahdia,413,Sujet_2,Description_17,Type_2,11/22/2023
+C81243806,Nom_469,Prenom_120,58.76358096697598,Femme,Profession_96,Jendouba,598,Sujet_10,Description_16,Type_3,09/18/2023
+C76324220,Nom_719,Prenom_176,36.66324142472523,Femme,Profession_14,Ariana,684,Sujet_5,Description_16,Type_1,01/02/2023
+C19513264,Nom_589,Prenom_610,65.21929305780236,Femme,Profession_85,Kebili,272,Sujet_10,Description_3,Type_5,02/15/2023
+C18915664,Nom_3,Prenom_407,26.465464997467834,Femme,Profession_15,La Manouba,552,Sujet_2,Description_1,Type_1,04/18/2023
+C79367980,Nom_514,Prenom_939,35.73275036325343,Femme,Profession_60,Ariana,467,Sujet_2,Description_1,Type_3,02/05/2023
+C14300497,Nom_841,Prenom_308,51.97747365303972,Femme,Profession_57,Tozeur,959,Sujet_1,Description_5,Type_4,08/15/2023
+C72882825,Nom_902,Prenom_168,22.444547787960808,Femme,Profession_2,Jendouba,933,Sujet_8,Description_12,Type_3,05/08/2023
+C56837752,Nom_157,Prenom_721,28.893801587105205,Homme,Profession_37,Jendouba,535,Sujet_9,Description_14,Type_4,07/26/2023
+C14212866,Nom_664,Prenom_748,26.484084540762954,Homme,Profession_37,Bizerte,796,Sujet_5,Description_14,Type_4,12/03/2023
+C23306905,Nom_163,Prenom_400,28.6470769905077,Homme,Profession_61,Le Kef,461,Sujet_6,Description_16,Type_2,10/25/2023
+C24952383,Nom_547,Prenom_153,34.174375925951615,Homme,Profession_99,Mahdia,339,Sujet_7,Description_4,Type_1,11/15/2023
+C48423416,Nom_855,Prenom_255,38.762012125229305,Femme,Profession_10,Beja,587,Sujet_9,Description_1,Type_4,11/01/2023
+C16236126,Nom_532,Prenom_412,24.54986025908684,Homme,Profession_75,Sfax,134,Sujet_4,Description_1,Type_5,03/19/2023
+C46080299,Nom_471,Prenom_900,18.98446536710337,Femme,Profession_60,Ben Arous,101,Sujet_9,Description_2,Type_2,09/04/2023
+C11444752,Nom_24,Prenom_183,44.105994983267905,Homme,Profession_12,Kasserine,692,Sujet_6,Description_20,Type_2,04/20/2023
+C36517689,Nom_45,Prenom_682,44.13636076414763,Homme,Profession_63,Ariana,352,Sujet_6,Description_13,Type_5,09/20/2023
+C66651820,Nom_97,Prenom_290,26.079318903093412,Femme,Profession_4,Bizerte,446,Sujet_6,Description_16,Type_5,03/17/2023
+C60737435,Nom_917,Prenom_823,36.83648495453771,Femme,Profession_57,Tunis,445,Sujet_8,Description_1,Type_4,11/20/2023
+C47985987,Nom_425,Prenom_874,48.668581251522504,Homme,Profession_52,Le Kef,504,Sujet_5,Description_9,Type_1,07/04/2023
+C31616821,Nom_766,Prenom_219,28.665403418794547,Femme,Profession_9,Jendouba,401,Sujet_8,Description_12,Type_1,07/04/2023
+C89150244,Nom_666,Prenom_387,50.81068683381028,Homme,Profession_73,Tunis,754,Sujet_7,Description_19,Type_5,08/06/2023
+C54014114,Nom_925,Prenom_135,53.46894042867493,Femme,Profession_97,Tunis,140,Sujet_5,Description_18,Type_2,06/18/2023
+C20746813,Nom_22,Prenom_768,33.25882891996364,Femme,Profession_56,Kebili,369,Sujet_10,Description_4,Type_2,09/05/2023
+C89903540,Nom_402,Prenom_165,37.48595358388828,Homme,Profession_36,Kebili,216,Sujet_2,Description_16,Type_1,01/08/2023
+C40428916,Nom_417,Prenom_45,37.70764000877335,Homme,Profession_64,La Manouba,568,Sujet_4,Description_9,Type_2,06/02/2023
+C24605624,Nom_902,Prenom_509,44.08175659012495,Homme,Profession_25,Tunis,173,Sujet_9,Description_11,Type_4,10/21/2023
+C66895683,Nom_685,Prenom_728,26.813598530245006,Homme,Profession_35,Sousse,480,Sujet_4,Description_20,Type_1,02/23/2023
+C40074933,Nom_967,Prenom_306,38.03051404486154,Femme,Profession_7,Bizerte,380,Sujet_6,Description_3,Type_2,08/18/2023
+C54820206,Nom_886,Prenom_819,27.674911511935566,Femme,Profession_17,Siliana,489,Sujet_6,Description_11,Type_3,07/02/2023
+C37293524,Nom_880,Prenom_372,20.887005538589797,Femme,Profession_98,Gafsa,659,Sujet_5,Description_20,Type_4,04/05/2023
+C13894501,Nom_253,Prenom_145,52.99145643811634,Homme,Profession_39,Tozeur,518,Sujet_3,Description_1,Type_3,11/28/2023
+C53905409,Nom_480,Prenom_894,36.96649858541651,Homme,Profession_17,Tataouine,537,Sujet_7,Description_4,Type_2,10/25/2023
+C99305951,Nom_712,Prenom_331,42.545423290853606,Homme,Profession_81,Beja,901,Sujet_1,Description_11,Type_3,02/24/2023
+C67681455,Nom_998,Prenom_830,30.707521321786935,Homme,Profession_12,Tunis,513,Sujet_1,Description_8,Type_1,12/03/2023
+C13237451,Nom_493,Prenom_442,29.94157046468292,Homme,Profession_84,Tunis,791,Sujet_10,Description_7,Type_3,10/24/2023
+C30994674,Nom_18,Prenom_549,9.852416965803837,Homme,Profession_52,Sidi Bouzid,970,Sujet_9,Description_3,Type_5,10/09/2023
+C58840824,Nom_127,Prenom_123,43.55599555826903,Homme,Profession_56,Tataouine,574,Sujet_6,Description_20,Type_5,01/05/2023
+C73106401,Nom_971,Prenom_424,48.05250658805879,Homme,Profession_8,Sousse,227,Sujet_2,Description_17,Type_5,04/05/2023
+C72401545,Nom_239,Prenom_306,40.03592621774517,Homme,Profession_12,Jendouba,272,Sujet_1,Description_11,Type_1,12/01/2023
+C28519460,Nom_212,Prenom_698,15.544595777774148,Homme,Profession_29,Sfax,901,Sujet_5,Description_9,Type_1,01/19/2023
+C49374952,Nom_772,Prenom_35,37.13782662449028,Homme,Profession_95,Kasserine,910,Sujet_7,Description_10,Type_1,07/18/2023
+C86540435,Nom_720,Prenom_560,13.605400445777356,Homme,Profession_80,Sfax,176,Sujet_8,Description_16,Type_1,01/01/2023
+C77055107,Nom_986,Prenom_197,26.65138721750544,Homme,Profession_47,Kebili,148,Sujet_9,Description_4,Type_5,06/16/2023
+C20084601,Nom_386,Prenom_235,46.51599970114887,Femme,Profession_50,Beja,622,Sujet_7,Description_17,Type_1,11/18/2023
+C57533064,Nom_358,Prenom_261,27.00291434192186,Homme,Profession_2,Le Kef,128,Sujet_3,Description_17,Type_5,12/28/2023
+C39256908,Nom_8,Prenom_631,28.032102161284215,Homme,Profession_95,Beja,144,Sujet_7,Description_8,Type_4,05/02/2023
+C88246638,Nom_656,Prenom_771,44.32189631677602,Femme,Profession_26,Ariana,193,Sujet_8,Description_17,Type_3,05/14/2023
+C27019907,Nom_911,Prenom_53,23.84595429819392,Homme,Profession_60,Bizerte,328,Sujet_8,Description_16,Type_3,12/04/2023
+C71883615,Nom_78,Prenom_671,45.18543440746897,Femme,Profession_92,Kairouan,737,Sujet_9,Description_15,Type_5,05/16/2023
+C12609140,Nom_354,Prenom_569,15.550431408219445,Homme,Profession_31,Siliana,138,Sujet_6,Description_3,Type_5,11/01/2023
+C63106906,Nom_543,Prenom_652,43.2096723033802,Homme,Profession_95,Ariana,744,Sujet_10,Description_20,Type_2,02/26/2023
+C19791369,Nom_853,Prenom_551,52.217000277026344,Femme,Profession_58,Medenine,321,Sujet_6,Description_2,Type_2,06/07/2023
+C66287059,Nom_521,Prenom_357,28.520055252301713,Homme,Profession_85,Mahdia,597,Sujet_9,Description_6,Type_1,03/02/2023
+C82021316,Nom_293,Prenom_325,37.419463901813245,Femme,Profession_35,Tozeur,572,Sujet_7,Description_19,Type_3,06/10/2023
+C52799967,Nom_334,Prenom_408,40.13642373265497,Femme,Profession_53,Gafsa,229,Sujet_7,Description_13,Type_1,05/22/2023
+C15008271,Nom_758,Prenom_678,49.08112970717258,Femme,Profession_83,Bizerte,286,Sujet_2,Description_3,Type_4,03/06/2023
+C59475664,Nom_77,Prenom_454,55.9853509218576,Homme,Profession_79,Siliana,646,Sujet_10,Description_15,Type_5,12/12/2023
+C72050261,Nom_327,Prenom_432,46.4505834173228,Homme,Profession_71,Mahdia,915,Sujet_5,Description_9,Type_3,02/14/2023
+C16160679,Nom_118,Prenom_238,33.32454366432455,Femme,Profession_26,Jendouba,935,Sujet_6,Description_12,Type_2,06/25/2023
+C51216112,Nom_790,Prenom_375,48.8279698292673,Homme,Profession_66,Siliana,366,Sujet_9,Description_20,Type_4,07/27/2023
+C14398479,Nom_29,Prenom_132,32.61456225040612,Homme,Profession_99,Zaghouan,954,Sujet_4,Description_8,Type_1,07/07/2023
+C27699831,Nom_273,Prenom_188,27.24458854303105,Homme,Profession_76,Sidi Bouzid,553,Sujet_7,Description_6,Type_5,06/06/2023
+C84326183,Nom_802,Prenom_358,35.92191477482158,Homme,Profession_16,Tozeur,354,Sujet_8,Description_1,Type_2,04/20/2023
+C82962377,Nom_299,Prenom_599,22.767187122485826,Homme,Profession_52,Tunis,884,Sujet_4,Description_17,Type_3,07/16/2023
+C11602199,Nom_546,Prenom_240,31.915495575281774,Homme,Profession_42,Kebili,862,Sujet_3,Description_5,Type_1,11/20/2023
+C30974570,Nom_992,Prenom_212,39.985389479318634,Femme,Profession_90,Sidi Bouzid,464,Sujet_3,Description_20,Type_3,07/28/2023
+C71752204,Nom_257,Prenom_529,23.829165782925983,Homme,Profession_87,Monastir,304,Sujet_5,Description_15,Type_5,05/01/2023
+C97035111,Nom_446,Prenom_254,32.05470972369105,Femme,Profession_58,Mahdia,628,Sujet_1,Description_3,Type_5,03/23/2023
+C87104187,Nom_643,Prenom_448,48.09306050158109,Homme,Profession_25,Mahdia,159,Sujet_9,Description_20,Type_5,10/11/2023
+C48894902,Nom_324,Prenom_471,47.3519664640274,Femme,Profession_91,Kairouan,423,Sujet_2,Description_2,Type_4,02/20/2023
+C55596586,Nom_171,Prenom_849,28.803262367169246,Homme,Profession_41,Monastir,300,Sujet_2,Description_12,Type_4,08/15/2023
+C69995148,Nom_433,Prenom_817,33.06695546239764,Homme,Profession_67,Tunis,104,Sujet_3,Description_2,Type_2,10/19/2023
+C72561820,Nom_551,Prenom_647,53.487073579678466,Homme,Profession_79,Le Kef,608,Sujet_9,Description_20,Type_1,06/03/2023
+C23590991,Nom_541,Prenom_273,55.72859261607614,Femme,Profession_56,Monastir,111,Sujet_4,Description_14,Type_4,12/27/2023
+C96933695,Nom_892,Prenom_117,51.07563784293017,Homme,Profession_3,Beja,733,Sujet_3,Description_17,Type_1,03/27/2023
+C13195297,Nom_16,Prenom_499,20.910287824267037,Femme,Profession_65,Kasserine,662,Sujet_6,Description_1,Type_2,08/18/2023
+C86718788,Nom_93,Prenom_59,32.10839490580274,Femme,Profession_1,Sousse,114,Sujet_10,Description_15,Type_4,12/03/2023
+C37110674,Nom_353,Prenom_701,23.066529468591263,Homme,Profession_15,Bizerte,113,Sujet_1,Description_3,Type_4,11/26/2023
+C85512362,Nom_754,Prenom_407,47.591835682452846,Femme,Profession_94,Zaghouan,746,Sujet_7,Description_17,Type_2,01/14/2023
+C89946760,Nom_484,Prenom_787,55.092460070627936,Homme,Profession_80,Sidi Bouzid,636,Sujet_6,Description_3,Type_3,03/20/2023
+C59343540,Nom_422,Prenom_519,36.247081127613654,Homme,Profession_25,Kebili,397,Sujet_6,Description_19,Type_3,01/05/2023
+C77599650,Nom_446,Prenom_697,40.53269895659341,Homme,Profession_20,Nabeul,765,Sujet_10,Description_14,Type_3,02/12/2023
+C80911098,Nom_201,Prenom_163,40.86372010529541,Homme,Profession_83,Ben Arous,854,Sujet_10,Description_17,Type_2,01/22/2023
+C84452988,Nom_300,Prenom_727,33.53376721816905,Homme,Profession_13,Ariana,719,Sujet_4,Description_3,Type_1,07/16/2023
+C40887663,Nom_53,Prenom_699,26.23697871134814,Homme,Profession_69,Sidi Bouzid,170,Sujet_3,Description_10,Type_5,05/22/2023
+C10030969,Nom_446,Prenom_757,37.07774301632339,Femme,Profession_49,Ben Arous,883,Sujet_8,Description_20,Type_5,01/17/2023
+C90057397,Nom_317,Prenom_804,41.340156058990004,Femme,Profession_94,Ariana,497,Sujet_5,Description_17,Type_1,06/21/2023
+C56017488,Nom_393,Prenom_10,27.06804427612182,Homme,Profession_39,Monastir,207,Sujet_6,Description_19,Type_1,04/17/2023
+C47354557,Nom_455,Prenom_111,38.81243608317921,Femme,Profession_69,Jendouba,333,Sujet_9,Description_12,Type_1,03/18/2023
+C11324439,Nom_253,Prenom_835,34.6078653800735,Homme,Profession_64,Jendouba,432,Sujet_6,Description_18,Type_5,05/17/2023
+C98070788,Nom_182,Prenom_377,45.04671081576765,Femme,Profession_50,Tataouine,644,Sujet_8,Description_18,Type_5,03/12/2023
+C91865619,Nom_423,Prenom_493,37.33950913598289,Femme,Profession_61,Ben Arous,630,Sujet_1,Description_13,Type_5,05/01/2023
+C44691840,Nom_795,Prenom_746,37.9507343545785,Femme,Profession_92,Sfax,486,Sujet_3,Description_12,Type_4,04/03/2023
+C95831924,Nom_753,Prenom_774,32.999222548743795,Femme,Profession_55,Gabes,294,Sujet_10,Description_11,Type_3,11/11/2023
+C29759859,Nom_80,Prenom_500,29.31466042103298,Homme,Profession_43,Beja,747,Sujet_7,Description_5,Type_2,04/25/2023
+C87307748,Nom_331,Prenom_792,26.42974103361322,Femme,Profession_91,Ben Arous,906,Sujet_10,Description_20,Type_4,03/18/2023
+C38379234,Nom_363,Prenom_479,49.55897250370122,Femme,Profession_16,Tunis,138,Sujet_1,Description_4,Type_5,06/16/2023
+C14126859,Nom_710,Prenom_354,34.00935351299883,Homme,Profession_90,Beja,386,Sujet_8,Description_11,Type_3,10/19/2023
+C89097155,Nom_388,Prenom_825,35.32488240634619,Homme,Profession_58,Jendouba,335,Sujet_5,Description_3,Type_3,06/03/2023
+C42391761,Nom_613,Prenom_289,12.566517366435988,Femme,Profession_12,Sousse,428,Sujet_9,Description_2,Type_3,09/14/2023
+C69760709,Nom_974,Prenom_450,39.44211407203791,Femme,Profession_54,Medenine,314,Sujet_3,Description_1,Type_5,02/16/2023
+C64956503,Nom_811,Prenom_872,35.60505364212157,Homme,Profession_46,Tunis,503,Sujet_9,Description_12,Type_2,05/07/2023
+C68406704,Nom_293,Prenom_484,39.26009655220279,Homme,Profession_35,Siliana,733,Sujet_4,Description_9,Type_1,03/11/2023
+C85276503,Nom_83,Prenom_654,45.09786710354285,Femme,Profession_18,Beja,112,Sujet_3,Description_5,Type_1,01/26/2023
+C71240141,Nom_33,Prenom_995,46.54781963165986,Homme,Profession_49,Siliana,880,Sujet_7,Description_11,Type_2,05/14/2023
+C10847612,Nom_333,Prenom_108,42.10517103780667,Homme,Profession_24,Ben Arous,444,Sujet_3,Description_9,Type_1,11/24/2023
+C67343388,Nom_637,Prenom_477,52.51858562279261,Homme,Profession_43,Siliana,421,Sujet_1,Description_7,Type_1,10/23/2023
+C56193495,Nom_870,Prenom_515,43.43959585452715,Homme,Profession_55,Sidi Bouzid,891,Sujet_6,Description_8,Type_1,05/18/2023
+C26897494,Nom_642,Prenom_811,26.32056108096985,Femme,Profession_6,Tunis,701,Sujet_4,Description_15,Type_1,12/19/2023
+C10804364,Nom_925,Prenom_179,31.19564095204673,Homme,Profession_59,Gabes,866,Sujet_4,Description_20,Type_5,09/13/2023
+C29765088,Nom_424,Prenom_54,22.017530043852673,Homme,Profession_69,Beja,868,Sujet_5,Description_18,Type_3,12/23/2023
+C58106093,Nom_124,Prenom_46,28.02521208285204,Homme,Profession_60,Tataouine,176,Sujet_4,Description_9,Type_1,08/08/2023
+C34711392,Nom_860,Prenom_793,29.89763694005269,Homme,Profession_11,Beja,307,Sujet_4,Description_19,Type_1,03/22/2023
+C39579056,Nom_785,Prenom_385,24.346431869522295,Femme,Profession_94,Zaghouan,918,Sujet_5,Description_15,Type_2,10/17/2023
+C25483930,Nom_771,Prenom_175,28.610171002620525,Homme,Profession_9,Gafsa,627,Sujet_4,Description_17,Type_4,10/22/2023
+C47940896,Nom_263,Prenom_375,43.93234549340823,Femme,Profession_74,Gabes,775,Sujet_2,Description_5,Type_1,10/10/2023
+C87912833,Nom_839,Prenom_110,48.008649029118686,Femme,Profession_68,Le Kef,641,Sujet_3,Description_3,Type_1,02/06/2023
+C64982432,Nom_394,Prenom_610,25.49229334477234,Homme,Profession_23,Sfax,410,Sujet_10,Description_5,Type_1,09/01/2023
+C43814293,Nom_300,Prenom_853,24.298579854331532,Homme,Profession_44,Tozeur,873,Sujet_5,Description_13,Type_2,11/07/2023
+C20557367,Nom_58,Prenom_377,52.64357058700304,Homme,Profession_4,Ariana,226,Sujet_2,Description_7,Type_5,11/07/2023
+C80697515,Nom_670,Prenom_903,43.41702060869842,Femme,Profession_77,Siliana,751,Sujet_7,Description_5,Type_4,12/28/2023
+C31528512,Nom_986,Prenom_49,41.82761905788538,Homme,Profession_24,Tataouine,102,Sujet_4,Description_3,Type_1,04/09/2023
+C98696855,Nom_330,Prenom_442,46.322569148361154,Homme,Profession_99,La Manouba,273,Sujet_4,Description_19,Type_2,05/21/2023
+C38355821,Nom_145,Prenom_656,32.029279977230516,Homme,Profession_94,La Manouba,610,Sujet_1,Description_8,Type_1,04/02/2023
+C10387506,Nom_63,Prenom_396,38.370949723276595,Homme,Profession_39,Ariana,874,Sujet_6,Description_9,Type_2,10/16/2023
+C73800215,Nom_102,Prenom_41,54.48150528317349,Femme,Profession_55,Monastir,247,Sujet_10,Description_17,Type_1,10/24/2023
+C35479758,Nom_38,Prenom_142,27.63232799825542,Femme,Profession_97,Jendouba,364,Sujet_4,Description_7,Type_4,08/03/2023
+C79748726,Nom_58,Prenom_77,26.738295132127988,Homme,Profession_76,Zaghouan,310,Sujet_2,Description_4,Type_2,03/03/2023
+C46568542,Nom_665,Prenom_148,28.04069613293494,Homme,Profession_66,Medenine,462,Sujet_1,Description_4,Type_4,08/12/2023
+C39930792,Nom_677,Prenom_89,25.143452657106025,Homme,Profession_99,Beja,919,Sujet_1,Description_9,Type_5,06/18/2023
+C66132046,Nom_135,Prenom_633,60.226970727466245,Homme,Profession_17,Beja,889,Sujet_6,Description_15,Type_3,05/28/2023
+C80103679,Nom_150,Prenom_650,53.85008853920523,Homme,Profession_8,Ariana,392,Sujet_3,Description_14,Type_3,05/25/2023
+C55426811,Nom_855,Prenom_571,37.03167292029975,Femme,Profession_8,Sousse,361,Sujet_4,Description_8,Type_1,04/10/2023
+C45660349,Nom_465,Prenom_644,24.18177939934334,Homme,Profession_79,Nabeul,482,Sujet_6,Description_8,Type_4,11/04/2023
+C94474717,Nom_768,Prenom_638,41.75366587362349,Homme,Profession_17,Tunis,564,Sujet_2,Description_14,Type_5,12/14/2023
+C24894518,Nom_63,Prenom_547,43.13176756765807,Homme,Profession_66,Beja,606,Sujet_5,Description_1,Type_4,03/11/2023
+C80536231,Nom_689,Prenom_999,38.16634268013092,Homme,Profession_80,Gabes,484,Sujet_9,Description_2,Type_2,05/01/2023
+C17601773,Nom_923,Prenom_670,28.038759191393996,Femme,Profession_58,Kebili,866,Sujet_5,Description_2,Type_4,09/05/2023
+C94997648,Nom_128,Prenom_162,50.239233209994424,Homme,Profession_43,Kebili,110,Sujet_2,Description_11,Type_1,09/05/2023
+C64598968,Nom_326,Prenom_450,33.315831961363216,Femme,Profession_36,Tataouine,969,Sujet_2,Description_13,Type_2,04/16/2023
+C30164790,Nom_492,Prenom_926,31.573784142365362,Femme,Profession_23,Le Kef,528,Sujet_8,Description_20,Type_3,01/20/2023
+C63511998,Nom_347,Prenom_836,44.81772388143611,Homme,Profession_49,Kebili,951,Sujet_9,Description_18,Type_4,06/16/2023
+C70483696,Nom_669,Prenom_268,35.74466564592168,Femme,Profession_35,Ben Arous,415,Sujet_9,Description_19,Type_2,05/05/2023
+C88648255,Nom_97,Prenom_601,35.170508591445476,Femme,Profession_10,Sfax,671,Sujet_7,Description_19,Type_3,10/07/2023
+C28742322,Nom_334,Prenom_8,31.43446548008867,Femme,Profession_58,Sfax,495,Sujet_10,Description_20,Type_2,06/19/2023
+C94237176,Nom_382,Prenom_777,26.501090393907504,Femme,Profession_32,Le Kef,885,Sujet_4,Description_20,Type_3,11/26/2023
+C36799441,Nom_774,Prenom_358,48.21542693256845,Homme,Profession_77,Gabes,614,Sujet_4,Description_12,Type_3,10/14/2023
+C80269147,Nom_719,Prenom_183,46.814718370360836,Homme,Profession_48,La Manouba,880,Sujet_6,Description_10,Type_3,11/24/2023
+C26219153,Nom_514,Prenom_984,53.57771815482714,Homme,Profession_88,Tunis,132,Sujet_9,Description_17,Type_2,06/17/2023
+C69896459,Nom_355,Prenom_767,44.0415842854707,Femme,Profession_84,Gafsa,322,Sujet_8,Description_1,Type_5,12/11/2023
+C81234960,Nom_177,Prenom_150,17.95550768759886,Homme,Profession_52,Ariana,941,Sujet_8,Description_11,Type_4,10/10/2023
+C50623221,Nom_466,Prenom_605,36.356394935465765,Femme,Profession_82,Kebili,137,Sujet_8,Description_3,Type_1,02/14/2023
+C24511744,Nom_792,Prenom_312,40.633409003790184,Femme,Profession_18,Jendouba,620,Sujet_9,Description_16,Type_5,07/13/2023
+C57168157,Nom_642,Prenom_220,46.21590319419937,Femme,Profession_2,Kairouan,704,Sujet_10,Description_1,Type_2,07/25/2023
+C71646991,Nom_241,Prenom_837,29.903382273341776,Femme,Profession_30,Medenine,385,Sujet_10,Description_15,Type_4,11/08/2023
+C27426826,Nom_454,Prenom_882,45.47473390994058,Femme,Profession_14,Beja,390,Sujet_6,Description_15,Type_5,06/09/2023
+C28714316,Nom_313,Prenom_207,24.268853091793375,Homme,Profession_96,La Manouba,330,Sujet_9,Description_18,Type_1,01/10/2023
+C17397729,Nom_648,Prenom_753,43.10120916211932,Femme,Profession_90,Sidi Bouzid,781,Sujet_8,Description_2,Type_1,08/02/2023
+C22483922,Nom_793,Prenom_456,46.9945826125569,Homme,Profession_90,Zaghouan,545,Sujet_7,Description_5,Type_1,08/14/2023
+C93224656,Nom_152,Prenom_67,46.26161450531558,Femme,Profession_43,Kasserine,868,Sujet_5,Description_10,Type_4,03/01/2023
+C51050138,Nom_816,Prenom_481,39.388536344872705,Homme,Profession_65,Monastir,457,Sujet_9,Description_10,Type_3,02/05/2023
+C48832981,Nom_844,Prenom_875,31.71241803576602,Femme,Profession_31,Ben Arous,965,Sujet_3,Description_13,Type_4,08/15/2023
+C54544135,Nom_763,Prenom_342,23.390878376972495,Femme,Profession_38,Monastir,292,Sujet_5,Description_19,Type_5,07/12/2023
+C24900163,Nom_357,Prenom_75,28.84926530879156,Femme,Profession_59,Tunis,729,Sujet_4,Description_9,Type_2,09/24/2023
+C12371218,Nom_645,Prenom_213,46.81823714237814,Homme,Profession_71,Tataouine,260,Sujet_6,Description_6,Type_1,12/25/2023
+C21761777,Nom_982,Prenom_264,44.072987409156056,Homme,Profession_27,Tataouine,618,Sujet_8,Description_20,Type_2,12/03/2023
+C35912304,Nom_371,Prenom_122,52.229278184425525,Femme,Profession_73,Tozeur,348,Sujet_6,Description_18,Type_1,10/25/2023
+C84687213,Nom_253,Prenom_412,27.75164167595499,Homme,Profession_18,Zaghouan,405,Sujet_3,Description_18,Type_2,10/16/2023
+C44274696,Nom_226,Prenom_281,39.27917646547101,Homme,Profession_92,Jendouba,706,Sujet_8,Description_1,Type_4,04/05/2023
+C32555723,Nom_698,Prenom_104,32.80225660713464,Femme,Profession_35,Ariana,930,Sujet_1,Description_11,Type_5,11/05/2023
+C80345029,Nom_226,Prenom_415,42.16287479972182,Femme,Profession_36,Sfax,869,Sujet_1,Description_18,Type_1,05/17/2023
+C19849386,Nom_504,Prenom_985,49.71516061158144,Femme,Profession_57,Sfax,373,Sujet_2,Description_9,Type_5,02/13/2023
+C59210432,Nom_103,Prenom_304,14.17200276409919,Femme,Profession_35,Bizerte,429,Sujet_1,Description_6,Type_2,12/23/2023
+C97979833,Nom_226,Prenom_748,44.53224586860651,Homme,Profession_87,Sidi Bouzid,791,Sujet_8,Description_8,Type_5,06/24/2023
+C93304413,Nom_434,Prenom_41,38.764699054848094,Femme,Profession_40,Monastir,738,Sujet_3,Description_11,Type_3,12/05/2023
+C11125295,Nom_97,Prenom_345,38.474754655544764,Homme,Profession_76,Kebili,960,Sujet_6,Description_20,Type_5,04/19/2023
+C85456823,Nom_773,Prenom_975,48.439183075400514,Homme,Profession_95,Mahdia,378,Sujet_4,Description_11,Type_3,07/14/2023
+C67182286,Nom_752,Prenom_996,39.08574939824891,Homme,Profession_2,Zaghouan,700,Sujet_8,Description_14,Type_3,11/16/2023
+C13536341,Nom_816,Prenom_698,31.925257843222727,Femme,Profession_97,Beja,148,Sujet_8,Description_16,Type_1,07/16/2023
+C11356026,Nom_530,Prenom_771,50.97862330722665,Femme,Profession_3,Beja,280,Sujet_5,Description_15,Type_1,02/22/2023
+C83747489,Nom_577,Prenom_950,23.907222648811356,Femme,Profession_21,Kebili,911,Sujet_9,Description_6,Type_4,02/03/2023
+C39283269,Nom_428,Prenom_137,49.239157125578934,Femme,Profession_80,Sousse,216,Sujet_8,Description_8,Type_2,05/07/2023
+C15416229,Nom_745,Prenom_296,33.978400874233685,Femme,Profession_61,Kairouan,423,Sujet_2,Description_20,Type_5,10/03/2023
+C11738749,Nom_538,Prenom_165,63.055702777743136,Homme,Profession_24,Ariana,996,Sujet_10,Description_13,Type_5,03/06/2023
+C99091670,Nom_114,Prenom_801,32.69346141452265,Femme,Profession_59,Kairouan,218,Sujet_3,Description_20,Type_5,01/21/2023
+C35708778,Nom_821,Prenom_741,40.94395277346863,Femme,Profession_45,Kebili,452,Sujet_9,Description_6,Type_4,10/11/2023
+C94225711,Nom_238,Prenom_348,31.27377959201798,Homme,Profession_65,Monastir,263,Sujet_8,Description_9,Type_2,09/05/2023
+C74362966,Nom_542,Prenom_163,41.304085773532876,Femme,Profession_5,Ben Arous,700,Sujet_6,Description_7,Type_3,09/23/2023
+C18261424,Nom_3,Prenom_71,18.984499967983147,Femme,Profession_78,Sidi Bouzid,149,Sujet_4,Description_6,Type_1,09/01/2023
+C75515350,Nom_279,Prenom_176,40.66598627899597,Femme,Profession_80,Tataouine,536,Sujet_7,Description_9,Type_2,08/18/2023
+C52264959,Nom_560,Prenom_995,44.678442781979086,Homme,Profession_92,Sidi Bouzid,366,Sujet_9,Description_14,Type_5,01/26/2023
+C27525052,Nom_645,Prenom_16,27.715325758057645,Homme,Profession_50,Gabes,200,Sujet_2,Description_9,Type_5,11/25/2023
+C12990227,Nom_749,Prenom_638,55.23393276678818,Femme,Profession_17,Sidi Bouzid,475,Sujet_8,Description_5,Type_3,03/07/2023
+C41460626,Nom_705,Prenom_460,30.380646535458762,Homme,Profession_69,Jendouba,154,Sujet_1,Description_11,Type_3,05/18/2023
+C44814862,Nom_162,Prenom_280,41.96675995923208,Femme,Profession_100,Medenine,348,Sujet_10,Description_19,Type_5,05/27/2023
+C96676516,Nom_262,Prenom_931,47.96912755569408,Homme,Profession_31,Sidi Bouzid,248,Sujet_8,Description_2,Type_2,08/04/2023
+C15369827,Nom_264,Prenom_608,38.13805885675062,Homme,Profession_42,Tozeur,491,Sujet_2,Description_1,Type_4,12/26/2023
+C80174397,Nom_807,Prenom_836,35.85789316965036,Homme,Profession_83,Ariana,954,Sujet_5,Description_12,Type_1,01/01/2023
+C44092097,Nom_998,Prenom_571,38.5052148048653,Homme,Profession_21,Zaghouan,915,Sujet_3,Description_7,Type_1,12/03/2023
+C99244672,Nom_789,Prenom_796,18.607836099024958,Homme,Profession_34,Tunis,375,Sujet_7,Description_19,Type_4,04/06/2023
+C51012967,Nom_232,Prenom_1,22.091135741838812,Femme,Profession_68,Gabes,478,Sujet_9,Description_3,Type_5,02/23/2023
+C56228739,Nom_776,Prenom_586,35.452051136031905,Femme,Profession_78,Sousse,546,Sujet_4,Description_6,Type_4,03/28/2023
+C11312001,Nom_420,Prenom_831,42.9115929132592,Homme,Profession_24,Beja,803,Sujet_1,Description_10,Type_3,03/17/2023
+C77977402,Nom_235,Prenom_585,28.390235230543283,Homme,Profession_2,Medenine,700,Sujet_4,Description_7,Type_2,11/24/2023
+C70457539,Nom_12,Prenom_830,32.441525732090696,Femme,Profession_37,Beja,251,Sujet_1,Description_13,Type_1,12/21/2023
+C41582026,Nom_394,Prenom_168,64.81032514071494,Homme,Profession_18,Sidi Bouzid,270,Sujet_2,Description_10,Type_3,10/14/2023
+C17530818,Nom_73,Prenom_31,41.72470817764852,Homme,Profession_26,Sidi Bouzid,986,Sujet_2,Description_10,Type_1,07/28/2023
+C26072528,Nom_175,Prenom_42,47.40875455659558,Homme,Profession_93,Kebili,957,Sujet_4,Description_8,Type_1,02/08/2023
+C96326788,Nom_321,Prenom_787,35.60668991738644,Homme,Profession_83,Beja,340,Sujet_7,Description_12,Type_3,04/06/2023
+C65640078,Nom_481,Prenom_547,50.67982286453087,Femme,Profession_55,Tunis,407,Sujet_3,Description_15,Type_3,02/20/2023
+C33683571,Nom_229,Prenom_237,39.80161349309513,Homme,Profession_32,Sfax,140,Sujet_3,Description_9,Type_4,08/01/2023
+C16739684,Nom_131,Prenom_915,40.26657398098346,Homme,Profession_32,Ben Arous,272,Sujet_4,Description_14,Type_1,05/18/2023
+C77979858,Nom_495,Prenom_330,39.23774147522255,Femme,Profession_81,La Manouba,841,Sujet_10,Description_9,Type_1,02/22/2023
+C58065016,Nom_934,Prenom_845,55.05848756671236,Femme,Profession_89,La Manouba,322,Sujet_2,Description_20,Type_1,09/14/2023
+C73824513,Nom_946,Prenom_524,42.14226134113511,Femme,Profession_97,Le Kef,166,Sujet_8,Description_6,Type_2,03/28/2023
+C27838873,Nom_888,Prenom_17,40.2657846739188,Homme,Profession_12,Medenine,803,Sujet_2,Description_3,Type_4,01/28/2023
+C21966984,Nom_350,Prenom_315,49.792981831492625,Femme,Profession_5,Tozeur,183,Sujet_2,Description_14,Type_1,01/13/2023
+C19924937,Nom_643,Prenom_591,45.87578042783528,Femme,Profession_72,Gafsa,691,Sujet_10,Description_2,Type_1,12/07/2023
+C38229894,Nom_257,Prenom_186,38.77050403435527,Femme,Profession_15,Tunis,358,Sujet_1,Description_5,Type_3,08/15/2023
+C68431061,Nom_732,Prenom_345,40.53717194269557,Femme,Profession_73,Gabes,398,Sujet_1,Description_20,Type_1,01/17/2023
+C82138450,Nom_998,Prenom_684,30.806847113171468,Homme,Profession_9,Beja,571,Sujet_9,Description_12,Type_3,04/19/2023
+C92015408,Nom_526,Prenom_233,41.610254021184154,Femme,Profession_95,Beja,325,Sujet_5,Description_13,Type_4,01/14/2023
+C32106792,Nom_73,Prenom_716,39.49547373168986,Femme,Profession_75,Monastir,329,Sujet_8,Description_6,Type_2,01/18/2023
+C30709517,Nom_300,Prenom_627,37.11716548015122,Femme,Profession_58,Zaghouan,326,Sujet_3,Description_6,Type_2,09/18/2023
+C95445806,Nom_674,Prenom_150,35.646336723140074,Femme,Profession_84,Tozeur,617,Sujet_2,Description_17,Type_3,03/25/2023
+C40859285,Nom_323,Prenom_511,62.18624092813104,Homme,Profession_45,Gafsa,124,Sujet_5,Description_17,Type_5,09/03/2023
+C17382047,Nom_319,Prenom_32,28.61870411420292,Femme,Profession_26,Tataouine,510,Sujet_8,Description_19,Type_3,03/10/2023
+C82084134,Nom_44,Prenom_440,42.28600178217688,Femme,Profession_15,Medenine,626,Sujet_4,Description_17,Type_4,04/18/2023
+C73730319,Nom_904,Prenom_274,10.628091249318128,Femme,Profession_69,Sousse,144,Sujet_8,Description_15,Type_2,12/23/2023
+C16986102,Nom_497,Prenom_514,34.00986928231412,Femme,Profession_48,Kebili,394,Sujet_4,Description_9,Type_1,12/09/2023
+C45857608,Nom_272,Prenom_517,36.87542860848625,Femme,Profession_12,Tunis,795,Sujet_10,Description_8,Type_5,02/17/2023
+C41727084,Nom_687,Prenom_626,54.605085257164006,Homme,Profession_95,Kebili,501,Sujet_8,Description_8,Type_4,09/11/2023
+C62442611,Nom_843,Prenom_90,34.52416275834698,Femme,Profession_27,Kasserine,771,Sujet_2,Description_18,Type_3,01/05/2023
+C18783535,Nom_703,Prenom_460,37.155886578426504,Femme,Profession_96,Mahdia,811,Sujet_5,Description_16,Type_2,10/04/2023
+C77341932,Nom_620,Prenom_401,45.48736559349399,Femme,Profession_12,Ariana,916,Sujet_6,Description_2,Type_3,04/14/2023
+C71129615,Nom_192,Prenom_82,43.35609070554056,Femme,Profession_59,Jendouba,430,Sujet_1,Description_13,Type_2,05/05/2023
+C43130450,Nom_571,Prenom_471,35.79611222508746,Femme,Profession_44,Ariana,563,Sujet_3,Description_3,Type_3,11/18/2023
+C58183100,Nom_578,Prenom_182,33.74662262346092,Femme,Profession_7,Siliana,325,Sujet_2,Description_8,Type_5,10/28/2023
+C25465306,Nom_111,Prenom_969,36.54544874268462,Femme,Profession_74,Mahdia,202,Sujet_3,Description_11,Type_4,07/24/2023
+C28948696,Nom_966,Prenom_396,45.163264836161005,Homme,Profession_55,Tozeur,691,Sujet_2,Description_9,Type_1,10/02/2023
+C90315756,Nom_963,Prenom_104,34.90047929855991,Homme,Profession_74,Mahdia,211,Sujet_1,Description_8,Type_3,09/01/2023
+C30247628,Nom_114,Prenom_381,41.84117897675143,Homme,Profession_59,Kasserine,664,Sujet_6,Description_5,Type_2,02/13/2023
+C59556091,Nom_790,Prenom_743,56.19530860537218,Homme,Profession_91,Kasserine,250,Sujet_4,Description_16,Type_5,11/20/2023
+C24857959,Nom_628,Prenom_919,35.02011221638284,Homme,Profession_52,Siliana,779,Sujet_6,Description_8,Type_4,12/22/2023
+C21998238,Nom_54,Prenom_638,34.14337400636828,Femme,Profession_50,Sfax,736,Sujet_9,Description_16,Type_1,11/21/2023
+C57633652,Nom_827,Prenom_275,40.79853091418706,Femme,Profession_63,Ben Arous,661,Sujet_7,Description_12,Type_5,12/13/2023
+C94836186,Nom_131,Prenom_422,39.818638520521354,Femme,Profession_44,Gabes,583,Sujet_9,Description_6,Type_3,02/06/2023
+C85951903,Nom_258,Prenom_713,30.61774022871144,Femme,Profession_84,Gafsa,302,Sujet_9,Description_19,Type_3,03/24/2023
+C79031823,Nom_206,Prenom_171,47.264746013790436,Homme,Profession_49,Ben Arous,212,Sujet_5,Description_6,Type_4,08/06/2023
+C65846920,Nom_696,Prenom_876,41.55464428720589,Femme,Profession_55,Tunis,270,Sujet_3,Description_4,Type_1,11/16/2023
+C21845137,Nom_614,Prenom_840,47.76944691283405,Homme,Profession_69,Tataouine,741,Sujet_7,Description_19,Type_5,08/20/2023
+C88980607,Nom_459,Prenom_153,52.82997069504958,Femme,Profession_75,Kairouan,885,Sujet_3,Description_18,Type_5,05/17/2023
+C55511332,Nom_365,Prenom_326,46.50968797262074,Homme,Profession_69,Sidi Bouzid,956,Sujet_8,Description_18,Type_1,04/19/2023
+C89681226,Nom_520,Prenom_505,42.050581294806655,Femme,Profession_97,Sfax,482,Sujet_2,Description_2,Type_4,01/10/2023
+C98894971,Nom_124,Prenom_624,42.13687998473787,Homme,Profession_43,Medenine,437,Sujet_5,Description_2,Type_5,08/17/2023
+C88936668,Nom_373,Prenom_392,41.25123461652685,Femme,Profession_1,Sidi Bouzid,928,Sujet_10,Description_20,Type_5,07/22/2023
+C38400866,Nom_396,Prenom_83,24.520370862471914,Homme,Profession_60,Monastir,231,Sujet_10,Description_1,Type_5,02/13/2023
+C57046678,Nom_69,Prenom_571,46.58719084754742,Homme,Profession_44,Ben Arous,474,Sujet_2,Description_6,Type_1,10/26/2023
+C44956545,Nom_869,Prenom_653,25.016757421537413,Homme,Profession_91,Monastir,935,Sujet_7,Description_10,Type_2,06/17/2023
+C33641212,Nom_367,Prenom_703,35.84363720894327,Femme,Profession_89,Kebili,845,Sujet_2,Description_6,Type_3,03/24/2023
+C37595604,Nom_248,Prenom_328,39.66976283943657,Femme,Profession_45,Medenine,217,Sujet_1,Description_6,Type_2,02/18/2023
+C54268838,Nom_430,Prenom_849,45.479467780809884,Homme,Profession_26,Sousse,553,Sujet_3,Description_11,Type_1,10/20/2023
+C64508342,Nom_597,Prenom_810,29.90715407494701,Homme,Profession_86,Bizerte,668,Sujet_2,Description_4,Type_2,12/13/2023
+C32881050,Nom_721,Prenom_703,44.66038030754303,Homme,Profession_41,Sidi Bouzid,753,Sujet_5,Description_9,Type_4,12/23/2023
+C15548402,Nom_589,Prenom_166,33.999674057099156,Homme,Profession_17,Nabeul,120,Sujet_8,Description_15,Type_4,12/02/2023
+C80045514,Nom_156,Prenom_565,25.423903065688833,Femme,Profession_91,Medenine,660,Sujet_7,Description_3,Type_4,03/23/2023
+C83981237,Nom_829,Prenom_613,44.98804767191712,Homme,Profession_81,Le Kef,974,Sujet_7,Description_6,Type_5,12/08/2023
+C88576233,Nom_840,Prenom_30,62.08100657039936,Femme,Profession_5,Gafsa,215,Sujet_4,Description_20,Type_2,09/14/2023
+C46723284,Nom_990,Prenom_921,41.258240282481204,Femme,Profession_95,Tozeur,285,Sujet_1,Description_7,Type_2,12/26/2023
+C89784533,Nom_501,Prenom_415,42.32476080330727,Femme,Profession_21,Tunis,592,Sujet_8,Description_18,Type_2,12/10/2023
+C23374926,Nom_963,Prenom_309,16.125977930570127,Homme,Profession_35,Kairouan,398,Sujet_1,Description_1,Type_4,12/21/2023
+C22171004,Nom_843,Prenom_825,27.698780104743037,Homme,Profession_33,Bizerte,449,Sujet_5,Description_5,Type_1,04/05/2023
+C71968381,Nom_719,Prenom_948,36.17016057372115,Femme,Profession_84,Kebili,159,Sujet_2,Description_8,Type_2,03/27/2023
+C38356578,Nom_814,Prenom_64,48.15212423616,Femme,Profession_72,Sousse,377,Sujet_10,Description_13,Type_1,03/26/2023
+C12719174,Nom_827,Prenom_655,26.87198168783091,Femme,Profession_73,Kasserine,718,Sujet_9,Description_9,Type_5,06/14/2023
+C72370716,Nom_828,Prenom_676,37.44516037938767,Femme,Profession_77,Kairouan,684,Sujet_6,Description_16,Type_1,03/19/2023
+C83121745,Nom_402,Prenom_140,45.18534199805849,Femme,Profession_35,Tataouine,268,Sujet_7,Description_16,Type_2,09/14/2023
+C52783162,Nom_801,Prenom_431,31.40959477635259,Homme,Profession_55,Jendouba,818,Sujet_1,Description_14,Type_3,07/01/2023
+C76077290,Nom_839,Prenom_663,30.841021475651495,Femme,Profession_55,Bizerte,194,Sujet_7,Description_5,Type_1,02/10/2023
+C76396689,Nom_72,Prenom_569,43.77220721565707,Homme,Profession_45,Bizerte,278,Sujet_1,Description_15,Type_3,08/11/2023
+C20260048,Nom_547,Prenom_470,41.479153614439475,Femme,Profession_24,Kebili,530,Sujet_2,Description_17,Type_2,05/23/2023
+C11692817,Nom_997,Prenom_262,43.27574098349105,Femme,Profession_75,Tozeur,646,Sujet_1,Description_7,Type_1,06/06/2023
+C79884310,Nom_283,Prenom_785,44.56736562011265,Homme,Profession_76,Beja,589,Sujet_8,Description_1,Type_5,12/07/2023
+C57016682,Nom_776,Prenom_404,42.23711430441922,Femme,Profession_19,Kasserine,316,Sujet_6,Description_20,Type_3,09/17/2023
+C30697039,Nom_917,Prenom_560,30.68071433486437,Homme,Profession_94,Nabeul,864,Sujet_1,Description_15,Type_1,08/11/2023
+C62223281,Nom_128,Prenom_210,37.004235567319895,Homme,Profession_40,Sfax,331,Sujet_5,Description_2,Type_1,11/23/2023
+C24335208,Nom_580,Prenom_231,42.393242679602295,Homme,Profession_32,Mahdia,806,Sujet_2,Description_9,Type_1,12/24/2023
+C58557890,Nom_206,Prenom_237,27.337885177261885,Femme,Profession_75,Ariana,268,Sujet_10,Description_3,Type_1,12/12/2023
+C49328435,Nom_351,Prenom_993,29.234636522032666,Femme,Profession_81,Tunis,722,Sujet_5,Description_17,Type_1,11/26/2023
+C93026013,Nom_178,Prenom_227,29.44301879433992,Homme,Profession_24,Tunis,585,Sujet_5,Description_12,Type_4,10/23/2023
+C43473223,Nom_599,Prenom_312,30.387758556849448,Femme,Profession_54,Sfax,383,Sujet_10,Description_7,Type_4,10/27/2023
+C79042656,Nom_317,Prenom_118,32.547275284063616,Homme,Profession_93,Gafsa,199,Sujet_7,Description_2,Type_3,10/15/2023
+C84592177,Nom_294,Prenom_534,42.7875934412876,Homme,Profession_4,Gabes,281,Sujet_1,Description_1,Type_4,12/27/2023
+C51225249,Nom_553,Prenom_191,41.36888316772259,Homme,Profession_30,Beja,268,Sujet_8,Description_3,Type_2,01/05/2023
+C74580248,Nom_533,Prenom_323,13.425127229799465,Homme,Profession_82,Tunis,149,Sujet_6,Description_15,Type_4,12/21/2023
+C36220164,Nom_207,Prenom_799,32.86827061999792,Femme,Profession_37,La Manouba,174,Sujet_5,Description_2,Type_3,12/06/2023
+C47135279,Nom_257,Prenom_283,40.173531915249264,Femme,Profession_80,Mahdia,100,Sujet_9,Description_18,Type_2,03/15/2023
+C75366200,Nom_784,Prenom_477,40.58314684622917,Femme,Profession_97,Tozeur,995,Sujet_6,Description_12,Type_2,09/01/2023
+C15340578,Nom_214,Prenom_190,37.711346252351504,Femme,Profession_7,Tunis,459,Sujet_6,Description_19,Type_4,09/12/2023
+C93673247,Nom_310,Prenom_869,40.17566640885481,Homme,Profession_82,Le Kef,990,Sujet_1,Description_10,Type_2,04/27/2023
+C10450081,Nom_515,Prenom_489,46.87921421624206,Femme,Profession_50,Kairouan,547,Sujet_9,Description_4,Type_4,02/28/2023
+C99526658,Nom_340,Prenom_884,19.86827910220475,Homme,Profession_49,Sousse,383,Sujet_1,Description_18,Type_2,11/07/2023
+C33512856,Nom_209,Prenom_827,35.97833338732651,Homme,Profession_83,Mahdia,876,Sujet_3,Description_10,Type_4,03/17/2023
+C38106161,Nom_496,Prenom_104,31.769074675426886,Homme,Profession_74,La Manouba,291,Sujet_5,Description_9,Type_5,12/25/2023
+C94867694,Nom_658,Prenom_798,36.3594277661161,Homme,Profession_35,Kebili,310,Sujet_1,Description_9,Type_5,07/17/2023
+C37412757,Nom_889,Prenom_479,23.144632414803418,Femme,Profession_14,Mahdia,131,Sujet_9,Description_12,Type_1,11/17/2023
+C56543861,Nom_688,Prenom_184,46.23523334097306,Femme,Profession_37,Zaghouan,485,Sujet_6,Description_6,Type_4,05/09/2023
+C58014455,Nom_155,Prenom_976,37.70500033277547,Femme,Profession_94,Sousse,446,Sujet_2,Description_12,Type_1,10/25/2023
+C33982490,Nom_737,Prenom_564,45.8814738874563,Femme,Profession_29,Nabeul,171,Sujet_8,Description_7,Type_3,05/12/2023
+C73790762,Nom_853,Prenom_629,43.41537856294499,Femme,Profession_8,Tozeur,911,Sujet_9,Description_17,Type_4,01/27/2023
+C83831500,Nom_826,Prenom_153,26.610413694906043,Femme,Profession_38,Monastir,951,Sujet_1,Description_15,Type_3,02/08/2023
+C41013739,Nom_850,Prenom_702,29.30469405434677,Femme,Profession_34,Kasserine,665,Sujet_10,Description_14,Type_4,04/18/2023
+C46791452,Nom_288,Prenom_118,43.44016349843754,Homme,Profession_37,Monastir,104,Sujet_7,Description_18,Type_5,02/05/2023
+C16414292,Nom_164,Prenom_696,34.455758803015435,Femme,Profession_84,Nabeul,771,Sujet_10,Description_16,Type_1,05/18/2023
+C79462870,Nom_363,Prenom_142,42.03123720705371,Femme,Profession_5,Gabes,859,Sujet_7,Description_2,Type_2,03/19/2023
+C28649516,Nom_32,Prenom_200,29.82830930073286,Homme,Profession_19,Kebili,947,Sujet_4,Description_19,Type_5,08/27/2023
+C44906613,Nom_207,Prenom_260,42.569603687160864,Homme,Profession_74,Tunis,748,Sujet_1,Description_6,Type_2,06/09/2023
+C31333316,Nom_641,Prenom_747,26.536917988470265,Homme,Profession_27,Zaghouan,407,Sujet_8,Description_15,Type_3,12/03/2023
+C41040079,Nom_63,Prenom_984,32.62732048586663,Homme,Profession_51,Mahdia,604,Sujet_10,Description_5,Type_4,11/28/2023
+C48282424,Nom_850,Prenom_377,43.5962354736485,Homme,Profession_52,Zaghouan,301,Sujet_1,Description_16,Type_5,03/13/2023
+C61718280,Nom_719,Prenom_700,45.59330404693509,Homme,Profession_77,La Manouba,754,Sujet_1,Description_16,Type_2,07/25/2023
+C72911662,Nom_396,Prenom_60,51.656350261185814,Femme,Profession_20,Zaghouan,221,Sujet_7,Description_20,Type_5,11/23/2023
+C86292294,Nom_200,Prenom_26,40.36393925012358,Femme,Profession_42,La Manouba,309,Sujet_10,Description_4,Type_4,10/11/2023
+C17871488,Nom_132,Prenom_711,23.09583737173897,Femme,Profession_56,Gafsa,851,Sujet_9,Description_18,Type_1,04/04/2023
+C38596137,Nom_169,Prenom_797,47.051335743831395,Homme,Profession_73,Gabes,360,Sujet_4,Description_20,Type_2,06/04/2023
+C47522668,Nom_685,Prenom_371,46.23786821938583,Homme,Profession_6,Sousse,914,Sujet_1,Description_3,Type_3,03/05/2023
+C89462908,Nom_53,Prenom_15,43.27577514007505,Homme,Profession_39,Sidi Bouzid,475,Sujet_8,Description_18,Type_1,04/19/2023
+C83357829,Nom_245,Prenom_608,42.500194613804354,Femme,Profession_54,Gafsa,713,Sujet_10,Description_11,Type_5,04/08/2023
+C74522513,Nom_767,Prenom_933,26.680261624597414,Femme,Profession_86,Tunis,259,Sujet_8,Description_2,Type_3,11/27/2023
+C90124359,Nom_470,Prenom_828,45.8136555314329,Homme,Profession_30,Sfax,811,Sujet_6,Description_13,Type_4,04/26/2023
+C84261257,Nom_446,Prenom_261,38.643324859728914,Homme,Profession_46,Tozeur,608,Sujet_6,Description_18,Type_1,01/05/2023
+C97423718,Nom_691,Prenom_733,28.688727536546388,Femme,Profession_3,Beja,544,Sujet_3,Description_17,Type_4,12/01/2023
+C43888288,Nom_800,Prenom_793,16.670063627529426,Femme,Profession_51,Sousse,855,Sujet_3,Description_2,Type_4,12/19/2023
+C57412585,Nom_575,Prenom_665,49.64097900280995,Homme,Profession_51,Medenine,774,Sujet_9,Description_19,Type_1,05/12/2023
+C61232261,Nom_938,Prenom_107,50.87112318678101,Femme,Profession_82,Bizerte,199,Sujet_3,Description_17,Type_5,06/27/2023
+C85216860,Nom_436,Prenom_4,43.92170099069527,Femme,Profession_69,Kasserine,462,Sujet_9,Description_4,Type_2,01/11/2023
+C94874960,Nom_785,Prenom_196,20.634729209099323,Homme,Profession_16,Sousse,285,Sujet_8,Description_8,Type_1,05/19/2023
+C36121071,Nom_471,Prenom_54,44.136273840235965,Femme,Profession_95,Tozeur,916,Sujet_7,Description_14,Type_4,09/09/2023
+C18092426,Nom_901,Prenom_772,17.373798831993483,Femme,Profession_81,Tunis,404,Sujet_10,Description_19,Type_4,07/09/2023
+C43082228,Nom_743,Prenom_170,33.412883790031174,Femme,Profession_39,Tozeur,635,Sujet_7,Description_11,Type_5,07/24/2023
+C31863333,Nom_284,Prenom_701,40.22527908711793,Femme,Profession_5,Le Kef,854,Sujet_1,Description_14,Type_3,01/16/2023
+C71727340,Nom_103,Prenom_672,36.225644323279056,Femme,Profession_49,Zaghouan,744,Sujet_3,Description_15,Type_1,01/14/2023
+C48591608,Nom_129,Prenom_836,34.302912387951636,Homme,Profession_75,Kairouan,867,Sujet_2,Description_17,Type_2,01/23/2023
+C44851255,Nom_670,Prenom_183,31.361483547632304,Femme,Profession_84,Sousse,732,Sujet_7,Description_10,Type_1,12/16/2023
+C70666423,Nom_299,Prenom_90,39.580807797750424,Femme,Profession_83,Le Kef,640,Sujet_9,Description_14,Type_2,02/23/2023
+C81113830,Nom_335,Prenom_569,35.994699367356766,Homme,Profession_16,Kebili,754,Sujet_2,Description_3,Type_4,11/15/2023
+C99044527,Nom_751,Prenom_373,40.10046954767936,Femme,Profession_82,Ariana,755,Sujet_10,Description_18,Type_1,12/28/2023
+C94858291,Nom_384,Prenom_316,39.432967618753004,Femme,Profession_84,Tozeur,646,Sujet_7,Description_13,Type_5,01/10/2023
+C33716100,Nom_956,Prenom_909,39.85063441442813,Homme,Profession_18,Kebili,391,Sujet_9,Description_12,Type_3,05/26/2023
+C86566983,Nom_322,Prenom_924,28.992099542559167,Femme,Profession_85,La Manouba,119,Sujet_5,Description_13,Type_5,06/20/2023
+C14190068,Nom_894,Prenom_906,13.442844382216702,Femme,Profession_36,Tunis,242,Sujet_6,Description_20,Type_5,02/27/2023
+C84305104,Nom_233,Prenom_933,31.548221609999175,Homme,Profession_78,Beja,881,Sujet_9,Description_12,Type_2,11/09/2023
+C83986207,Nom_144,Prenom_982,33.966028026305494,Homme,Profession_77,Le Kef,237,Sujet_3,Description_9,Type_1,04/10/2023
+C27793868,Nom_247,Prenom_210,34.99792923707049,Femme,Profession_86,Gabes,715,Sujet_10,Description_19,Type_2,08/23/2023
+C38041923,Nom_696,Prenom_725,24.153269485098114,Femme,Profession_70,Jendouba,406,Sujet_5,Description_19,Type_2,11/02/2023
+C76604979,Nom_957,Prenom_969,30.612500236032254,Femme,Profession_10,Sidi Bouzid,528,Sujet_9,Description_11,Type_3,01/07/2023
+C48021544,Nom_210,Prenom_773,45.94261495778545,Femme,Profession_28,La Manouba,490,Sujet_5,Description_5,Type_1,07/28/2023
+C32018298,Nom_807,Prenom_880,39.94185951886108,Femme,Profession_14,Gabes,655,Sujet_7,Description_4,Type_4,12/18/2023
+C43341494,Nom_928,Prenom_525,32.55525063109714,Femme,Profession_82,Nabeul,561,Sujet_8,Description_18,Type_3,08/16/2023
+C48329532,Nom_114,Prenom_260,52.98548445031457,Homme,Profession_67,Kasserine,929,Sujet_10,Description_5,Type_2,01/25/2023
+C10315824,Nom_560,Prenom_458,49.226464575415704,Homme,Profession_29,Bizerte,830,Sujet_1,Description_5,Type_5,06/12/2023
+C43180006,Nom_914,Prenom_153,46.078905708117844,Homme,Profession_87,Zaghouan,712,Sujet_8,Description_20,Type_1,10/01/2023
+C74387807,Nom_321,Prenom_90,19.622545868341966,Femme,Profession_69,Zaghouan,415,Sujet_2,Description_12,Type_1,07/28/2023
+C83669498,Nom_975,Prenom_660,31.338984431434646,Homme,Profession_69,Beja,590,Sujet_6,Description_5,Type_5,06/17/2023
+C54894743,Nom_55,Prenom_224,25.497679859967022,Homme,Profession_90,Zaghouan,720,Sujet_4,Description_10,Type_2,10/27/2023
+C58776024,Nom_652,Prenom_894,43.89944491254677,Homme,Profession_43,Nabeul,813,Sujet_10,Description_2,Type_2,08/06/2023
+C36221659,Nom_902,Prenom_129,42.485147665006316,Femme,Profession_97,Kairouan,202,Sujet_5,Description_9,Type_3,12/11/2023
+C11820011,Nom_304,Prenom_784,37.59112621110349,Femme,Profession_8,Gafsa,368,Sujet_3,Description_14,Type_2,11/05/2023
+C59128025,Nom_749,Prenom_644,37.88976474460724,Homme,Profession_26,Nabeul,683,Sujet_1,Description_6,Type_2,09/05/2023
+C88038614,Nom_648,Prenom_735,49.11656032380113,Femme,Profession_56,Gabes,954,Sujet_4,Description_16,Type_4,01/21/2023
+C28824007,Nom_836,Prenom_836,50.89678832910896,Homme,Profession_81,Kairouan,789,Sujet_7,Description_17,Type_2,02/24/2023
+C45825108,Nom_409,Prenom_264,26.496486026912343,Femme,Profession_65,Kasserine,126,Sujet_3,Description_1,Type_3,12/13/2023
+C85992800,Nom_879,Prenom_97,39.8205568357454,Homme,Profession_50,Mahdia,519,Sujet_1,Description_2,Type_5,03/27/2023
+C50418443,Nom_976,Prenom_635,49.250865664074546,Femme,Profession_49,Sfax,470,Sujet_10,Description_8,Type_4,03/26/2023
+C41765160,Nom_356,Prenom_693,34.469907293635,Femme,Profession_46,Le Kef,293,Sujet_6,Description_11,Type_5,10/19/2023
+C22173881,Nom_382,Prenom_816,48.79221467745515,Femme,Profession_1,Tozeur,772,Sujet_7,Description_19,Type_2,11/08/2023
+C56356464,Nom_300,Prenom_179,48.6399957668883,Homme,Profession_100,Gafsa,117,Sujet_2,Description_3,Type_4,09/03/2023
+C60582335,Nom_811,Prenom_421,56.9170379238487,Homme,Profession_29,Ariana,489,Sujet_10,Description_11,Type_5,05/18/2023
+C22675830,Nom_105,Prenom_270,41.14317888424243,Homme,Profession_14,Sidi Bouzid,521,Sujet_9,Description_6,Type_2,07/12/2023
+C64599498,Nom_604,Prenom_10,32.890682476199224,Homme,Profession_97,La Manouba,909,Sujet_8,Description_2,Type_1,12/09/2023
+C92214795,Nom_886,Prenom_617,36.59657693537086,Homme,Profession_21,Tozeur,869,Sujet_1,Description_16,Type_2,11/16/2023
+C90282109,Nom_90,Prenom_211,46.84841612080607,Homme,Profession_22,Monastir,162,Sujet_5,Description_20,Type_1,12/27/2023
+C32414698,Nom_521,Prenom_889,37.41630857578098,Femme,Profession_44,Beja,863,Sujet_1,Description_11,Type_5,01/17/2023
+C79046419,Nom_264,Prenom_132,33.17477941185908,Femme,Profession_35,Gabes,396,Sujet_6,Description_14,Type_3,03/12/2023
+C37411976,Nom_893,Prenom_988,39.64938043432545,Femme,Profession_87,Tozeur,407,Sujet_9,Description_18,Type_5,01/16/2023
+C71623589,Nom_760,Prenom_169,40.926925353945684,Homme,Profession_99,Monastir,972,Sujet_2,Description_9,Type_5,12/10/2023
+C96390801,Nom_385,Prenom_268,40.29016105911963,Femme,Profession_90,Medenine,788,Sujet_8,Description_12,Type_5,03/18/2023
+C83916927,Nom_314,Prenom_602,35.462578913081025,Homme,Profession_87,Jendouba,139,Sujet_10,Description_10,Type_4,12/12/2023
+C95452642,Nom_554,Prenom_816,37.00259577736513,Homme,Profession_30,Zaghouan,634,Sujet_10,Description_14,Type_5,10/23/2023
+C14162868,Nom_59,Prenom_536,55.79269727985915,Homme,Profession_70,Gabes,213,Sujet_10,Description_19,Type_5,06/15/2023
+C51910714,Nom_41,Prenom_316,46.73733275781854,Homme,Profession_88,Bizerte,144,Sujet_3,Description_16,Type_3,02/18/2023
+C34734440,Nom_759,Prenom_683,32.33725746526755,Homme,Profession_88,Bizerte,101,Sujet_9,Description_12,Type_1,01/24/2023
+C28822818,Nom_793,Prenom_750,23.68284118594537,Femme,Profession_42,Kasserine,166,Sujet_5,Description_11,Type_3,09/02/2023
+C91258238,Nom_615,Prenom_56,41.43517912217247,Femme,Profession_30,Gafsa,716,Sujet_5,Description_17,Type_2,09/18/2023
+C85751567,Nom_864,Prenom_503,31.05539182433507,Femme,Profession_70,Bizerte,814,Sujet_10,Description_17,Type_2,08/13/2023
+C29086383,Nom_174,Prenom_711,42.927236448217094,Femme,Profession_9,Gabes,125,Sujet_5,Description_3,Type_5,11/18/2023
+C81306388,Nom_288,Prenom_29,43.107425270236924,Femme,Profession_56,Beja,107,Sujet_3,Description_7,Type_1,04/26/2023
+C14940201,Nom_381,Prenom_774,28.10157699383059,Femme,Profession_58,Bizerte,840,Sujet_8,Description_17,Type_4,05/11/2023
+C17410110,Nom_916,Prenom_327,36.45996459713576,Femme,Profession_18,Monastir,905,Sujet_8,Description_10,Type_1,07/28/2023
+C16514369,Nom_366,Prenom_804,44.26579579279197,Homme,Profession_88,Siliana,836,Sujet_7,Description_6,Type_4,12/05/2023
+C60725929,Nom_977,Prenom_879,49.907311192807015,Homme,Profession_43,Jendouba,804,Sujet_7,Description_8,Type_3,10/05/2023
+C66164180,Nom_710,Prenom_780,24.59660304992949,Femme,Profession_98,Siliana,276,Sujet_2,Description_10,Type_2,08/22/2023
+C11940071,Nom_96,Prenom_631,50.9885556349099,Homme,Profession_72,Monastir,148,Sujet_6,Description_4,Type_1,06/18/2023
+C16294888,Nom_976,Prenom_104,27.20861180268326,Femme,Profession_17,Beja,723,Sujet_8,Description_4,Type_5,04/20/2023
+C12144812,Nom_736,Prenom_335,27.734154441873926,Homme,Profession_97,Monastir,120,Sujet_3,Description_14,Type_2,09/28/2023
+C54062066,Nom_773,Prenom_166,32.96296912112579,Femme,Profession_10,Sfax,620,Sujet_6,Description_8,Type_1,01/12/2023
+C85301537,Nom_41,Prenom_434,38.4757118644042,Femme,Profession_14,Kairouan,255,Sujet_6,Description_3,Type_3,06/07/2023
+C35025434,Nom_280,Prenom_93,43.90568737025272,Homme,Profession_13,Siliana,566,Sujet_7,Description_4,Type_4,01/25/2023
+C26866107,Nom_465,Prenom_985,39.120989503748,Homme,Profession_47,Bizerte,301,Sujet_6,Description_11,Type_5,03/05/2023
+C33701138,Nom_400,Prenom_475,21.978453579511278,Homme,Profession_46,Nabeul,781,Sujet_8,Description_8,Type_3,07/23/2023
+C46208141,Nom_886,Prenom_429,40.34346731088571,Homme,Profession_58,Zaghouan,878,Sujet_2,Description_1,Type_2,03/26/2023
+C30290676,Nom_586,Prenom_680,29.39705305374339,Homme,Profession_84,Kasserine,524,Sujet_10,Description_14,Type_1,08/01/2023
+C10827527,Nom_738,Prenom_596,46.79769209422334,Homme,Profession_50,Zaghouan,375,Sujet_10,Description_2,Type_3,10/12/2023
+C47078118,Nom_398,Prenom_626,39.573400749315425,Femme,Profession_25,Gafsa,442,Sujet_2,Description_4,Type_1,03/05/2023
+C27374936,Nom_260,Prenom_308,57.56088491371446,Femme,Profession_22,Monastir,659,Sujet_1,Description_15,Type_3,11/28/2023
+C98506097,Nom_423,Prenom_330,35.75839257359772,Homme,Profession_45,Tataouine,852,Sujet_5,Description_7,Type_3,08/18/2023
+C32058740,Nom_605,Prenom_13,40.06216000464437,Homme,Profession_95,Gafsa,905,Sujet_7,Description_14,Type_1,10/15/2023
+C64353827,Nom_568,Prenom_521,44.812859313962804,Femme,Profession_86,Kairouan,412,Sujet_6,Description_2,Type_4,02/02/2023
+C40472158,Nom_407,Prenom_305,29.05021133672946,Femme,Profession_45,Kairouan,571,Sujet_1,Description_7,Type_1,01/08/2023
+C26860823,Nom_854,Prenom_715,29.150365684219512,Femme,Profession_88,Tunis,207,Sujet_7,Description_8,Type_2,08/22/2023
+C46867426,Nom_279,Prenom_723,38.49016497486479,Femme,Profession_68,Kebili,493,Sujet_2,Description_16,Type_1,07/21/2023
+C45840082,Nom_481,Prenom_405,38.46253824717692,Homme,Profession_6,Mahdia,419,Sujet_10,Description_8,Type_5,03/26/2023
+C48127663,Nom_561,Prenom_400,39.12112019781047,Femme,Profession_42,Siliana,502,Sujet_5,Description_11,Type_3,03/28/2023
+C45862769,Nom_611,Prenom_50,52.98852229840914,Homme,Profession_44,Kasserine,201,Sujet_9,Description_4,Type_4,05/13/2023
+C69647653,Nom_14,Prenom_675,33.79435446286161,Homme,Profession_34,Tunis,784,Sujet_5,Description_15,Type_4,02/18/2023
+C63840564,Nom_783,Prenom_558,59.308088235097216,Homme,Profession_84,Ben Arous,564,Sujet_5,Description_7,Type_5,11/17/2023
+C77003280,Nom_428,Prenom_505,43.2648680943199,Homme,Profession_2,Beja,577,Sujet_4,Description_19,Type_4,07/19/2023
+C23598375,Nom_529,Prenom_940,46.75524291652006,Femme,Profession_54,Sfax,601,Sujet_6,Description_10,Type_4,09/04/2023
+C55800208,Nom_650,Prenom_299,35.71382838001002,Femme,Profession_55,Sfax,208,Sujet_8,Description_10,Type_2,11/22/2023
+C87639955,Nom_915,Prenom_845,43.44789699207255,Homme,Profession_64,Siliana,110,Sujet_3,Description_8,Type_1,03/12/2023
+C71958535,Nom_799,Prenom_868,45.04967604788179,Homme,Profession_44,Kasserine,152,Sujet_3,Description_19,Type_1,12/28/2023
+C20779799,Nom_884,Prenom_830,41.05104325337397,Homme,Profession_8,Mahdia,812,Sujet_9,Description_9,Type_4,07/23/2023
+C49268935,Nom_140,Prenom_282,21.731350652420943,Femme,Profession_96,Kairouan,246,Sujet_2,Description_9,Type_5,10/03/2023
+C45312817,Nom_113,Prenom_817,31.91776348507765,Homme,Profession_24,Tozeur,635,Sujet_9,Description_14,Type_5,12/21/2023
+C13484236,Nom_514,Prenom_986,42.2218247232685,Femme,Profession_30,Sfax,480,Sujet_6,Description_2,Type_2,11/28/2023
+C77899663,Nom_275,Prenom_434,27.764981325496397,Homme,Profession_16,Kasserine,101,Sujet_1,Description_16,Type_5,08/02/2023
+C19821750,Nom_537,Prenom_542,36.971911206166084,Homme,Profession_32,La Manouba,959,Sujet_6,Description_5,Type_4,04/09/2023
+C91646428,Nom_377,Prenom_599,23.471330876682234,Femme,Profession_91,Beja,840,Sujet_8,Description_5,Type_2,04/11/2023
+C37541341,Nom_638,Prenom_891,47.47396919077981,Femme,Profession_16,Ariana,447,Sujet_8,Description_16,Type_3,06/25/2023
+C46324307,Nom_764,Prenom_868,29.17902896516256,Femme,Profession_96,Sidi Bouzid,509,Sujet_10,Description_12,Type_4,03/21/2023
+C78388975,Nom_222,Prenom_549,58.22939704020821,Femme,Profession_3,Kairouan,610,Sujet_3,Description_10,Type_3,11/07/2023
+C22197531,Nom_537,Prenom_606,39.51058904006039,Femme,Profession_46,Jendouba,163,Sujet_10,Description_5,Type_1,11/14/2023
+C93759844,Nom_110,Prenom_578,36.79012307822553,Homme,Profession_63,Medenine,872,Sujet_10,Description_4,Type_3,10/15/2023
+C69896148,Nom_209,Prenom_30,43.411621967704136,Femme,Profession_6,Bizerte,545,Sujet_2,Description_16,Type_2,03/22/2023
+C18865509,Nom_965,Prenom_528,33.888231265601505,Femme,Profession_13,Monastir,637,Sujet_9,Description_3,Type_3,01/14/2023
+C31984048,Nom_369,Prenom_394,47.17026350094717,Femme,Profession_72,Siliana,565,Sujet_5,Description_17,Type_3,01/16/2023
+C94968542,Nom_875,Prenom_215,47.16718276984112,Femme,Profession_4,Kebili,526,Sujet_3,Description_16,Type_5,01/27/2023
+C72957569,Nom_19,Prenom_414,49.141782978455836,Homme,Profession_6,Kasserine,996,Sujet_5,Description_13,Type_5,07/22/2023
+C57865419,Nom_998,Prenom_283,33.82773865173268,Femme,Profession_44,Tozeur,419,Sujet_6,Description_5,Type_1,08/04/2023
+C39688501,Nom_869,Prenom_974,45.15022049652279,Homme,Profession_90,Kairouan,657,Sujet_9,Description_11,Type_5,03/20/2023
+C50324474,Nom_940,Prenom_425,35.721929154453775,Homme,Profession_67,Tataouine,245,Sujet_7,Description_10,Type_1,09/06/2023
+C56369138,Nom_103,Prenom_335,41.47299418007689,Femme,Profession_57,Bizerte,832,Sujet_9,Description_14,Type_2,11/06/2023
+C95808397,Nom_490,Prenom_672,42.27840451813016,Femme,Profession_86,Jendouba,881,Sujet_7,Description_4,Type_5,02/12/2023
+C86025964,Nom_301,Prenom_815,42.39801397709865,Femme,Profession_53,Medenine,651,Sujet_2,Description_3,Type_4,12/11/2023
+C36580935,Nom_581,Prenom_201,31.915458149201562,Femme,Profession_27,Siliana,559,Sujet_7,Description_2,Type_1,05/04/2023
+C38913460,Nom_438,Prenom_943,17.677338776737223,Homme,Profession_49,Medenine,843,Sujet_1,Description_8,Type_4,03/08/2023
+C57090737,Nom_855,Prenom_532,32.165413988369224,Femme,Profession_3,Zaghouan,920,Sujet_9,Description_5,Type_2,11/22/2023
+C27436635,Nom_263,Prenom_223,41.99839845174341,Femme,Profession_58,Nabeul,986,Sujet_8,Description_9,Type_5,02/08/2023
+C37266035,Nom_621,Prenom_53,45.28459291597737,Homme,Profession_9,Kasserine,548,Sujet_9,Description_9,Type_3,10/01/2023
+C27509591,Nom_122,Prenom_138,33.01541125384544,Homme,Profession_21,Kebili,553,Sujet_2,Description_7,Type_1,01/24/2023
+C75999343,Nom_618,Prenom_427,43.99352769457013,Homme,Profession_20,Beja,432,Sujet_3,Description_17,Type_3,11/03/2023
+C39334110,Nom_877,Prenom_161,36.17202154619654,Femme,Profession_39,Gabes,560,Sujet_9,Description_14,Type_1,08/23/2023
+C90754873,Nom_943,Prenom_318,50.28492023559396,Homme,Profession_35,Medenine,186,Sujet_9,Description_3,Type_5,10/15/2023
+C49554111,Nom_465,Prenom_354,59.0057140026277,Femme,Profession_61,Nabeul,997,Sujet_2,Description_16,Type_5,06/17/2023
+C35716327,Nom_634,Prenom_12,54.815240058618826,Femme,Profession_82,Jendouba,830,Sujet_1,Description_5,Type_2,05/22/2023
+C45882932,Nom_182,Prenom_966,38.08812684448609,Femme,Profession_52,Kasserine,414,Sujet_3,Description_16,Type_4,08/23/2023
+C93080847,Nom_417,Prenom_326,39.34996447266212,Homme,Profession_81,Nabeul,372,Sujet_10,Description_6,Type_1,07/24/2023
+C78809467,Nom_31,Prenom_708,23.55559368564439,Homme,Profession_72,Le Kef,132,Sujet_3,Description_11,Type_2,09/05/2023
+C96502052,Nom_856,Prenom_708,39.81222678399822,Homme,Profession_72,La Manouba,749,Sujet_5,Description_8,Type_1,06/04/2023
+C79521936,Nom_73,Prenom_482,40.12077969769914,Femme,Profession_68,Jendouba,823,Sujet_4,Description_13,Type_3,07/04/2023
+C36410089,Nom_138,Prenom_234,42.02296085548232,Homme,Profession_54,Kairouan,818,Sujet_1,Description_13,Type_5,07/13/2023
+C48737647,Nom_300,Prenom_970,27.783744837863917,Femme,Profession_19,Gafsa,839,Sujet_2,Description_16,Type_3,03/03/2023
+C51763752,Nom_254,Prenom_504,14.6614123509747,Homme,Profession_61,Siliana,737,Sujet_9,Description_1,Type_1,06/28/2023
+C18421788,Nom_251,Prenom_723,34.65645567640943,Femme,Profession_77,Ben Arous,552,Sujet_4,Description_15,Type_3,12/23/2023
+C10541733,Nom_667,Prenom_163,34.7412951999042,Homme,Profession_86,Zaghouan,598,Sujet_1,Description_14,Type_4,12/20/2023
+C72433166,Nom_717,Prenom_69,25.030570143440826,Homme,Profession_21,Le Kef,396,Sujet_4,Description_13,Type_2,11/12/2023
+C12485602,Nom_344,Prenom_60,46.63972119591459,Femme,Profession_58,Kairouan,677,Sujet_2,Description_4,Type_2,07/04/2023
+C64759691,Nom_55,Prenom_454,22.29509452279067,Homme,Profession_95,Tunis,359,Sujet_6,Description_13,Type_3,08/07/2023
+C31724536,Nom_340,Prenom_341,33.703640254602384,Homme,Profession_4,Sousse,537,Sujet_2,Description_5,Type_4,05/14/2023
+C87518488,Nom_996,Prenom_306,30.440270066265022,Femme,Profession_60,Tataouine,149,Sujet_10,Description_7,Type_2,12/20/2023
+C82821147,Nom_306,Prenom_708,41.94788000508929,Homme,Profession_57,Monastir,774,Sujet_2,Description_8,Type_3,05/20/2023
+C78919098,Nom_815,Prenom_355,35.03435496425497,Homme,Profession_48,La Manouba,888,Sujet_9,Description_6,Type_3,11/13/2023
+C28395394,Nom_154,Prenom_311,23.54430912639263,Homme,Profession_30,Nabeul,603,Sujet_5,Description_17,Type_1,03/04/2023
+C24415383,Nom_243,Prenom_443,34.701542865154835,Homme,Profession_31,Mahdia,420,Sujet_10,Description_8,Type_4,01/08/2023
+C55267870,Nom_88,Prenom_158,45.95386555483742,Homme,Profession_67,Zaghouan,720,Sujet_9,Description_4,Type_3,12/28/2023
+C15665037,Nom_256,Prenom_938,46.540742381017566,Homme,Profession_78,Bizerte,395,Sujet_8,Description_5,Type_2,07/11/2023
+C67883274,Nom_135,Prenom_125,24.398825326636707,Femme,Profession_99,Beja,673,Sujet_8,Description_6,Type_2,10/20/2023
+C39406335,Nom_378,Prenom_640,42.9298129868658,Femme,Profession_29,Gabes,924,Sujet_5,Description_16,Type_3,11/26/2023
+C96251023,Nom_111,Prenom_159,31.94028504221799,Femme,Profession_81,Mahdia,662,Sujet_1,Description_14,Type_5,06/13/2023
+C82508815,Nom_971,Prenom_793,33.287021203641295,Homme,Profession_15,Beja,562,Sujet_10,Description_1,Type_3,10/01/2023
+C68166389,Nom_207,Prenom_240,36.386247226978526,Homme,Profession_54,Mahdia,514,Sujet_2,Description_11,Type_2,08/04/2023
+C14218198,Nom_606,Prenom_302,32.49943559834742,Homme,Profession_79,Medenine,243,Sujet_5,Description_7,Type_2,12/08/2023
+C77626841,Nom_912,Prenom_138,44.32118859969161,Femme,Profession_64,Tozeur,146,Sujet_9,Description_5,Type_1,12/15/2023
+C71021378,Nom_73,Prenom_249,14.376351470459412,Femme,Profession_3,Medenine,912,Sujet_9,Description_3,Type_1,03/27/2023
+C58809518,Nom_592,Prenom_421,14.797379047374868,Femme,Profession_64,Tunis,644,Sujet_7,Description_3,Type_1,06/24/2023
+C43331092,Nom_219,Prenom_326,32.27723735272184,Femme,Profession_11,Sidi Bouzid,498,Sujet_7,Description_18,Type_4,03/08/2023
+C32820061,Nom_628,Prenom_90,42.894490662024374,Homme,Profession_1,Bizerte,778,Sujet_9,Description_6,Type_2,07/10/2023
+C78326243,Nom_110,Prenom_958,39.43592976065124,Femme,Profession_74,Kairouan,330,Sujet_3,Description_9,Type_2,04/20/2023
+C83273256,Nom_577,Prenom_544,35.26433537254395,Femme,Profession_89,Kebili,760,Sujet_7,Description_11,Type_1,08/13/2023
+C72056731,Nom_710,Prenom_127,37.117560110099234,Femme,Profession_6,Nabeul,163,Sujet_2,Description_9,Type_4,02/09/2023
+C89912250,Nom_571,Prenom_54,18.98435326327238,Homme,Profession_59,Beja,136,Sujet_8,Description_5,Type_2,07/10/2023
+C62035786,Nom_374,Prenom_851,31.680614083880045,Homme,Profession_31,Nabeul,661,Sujet_5,Description_16,Type_3,08/16/2023
+C71530447,Nom_225,Prenom_794,25.275843718205664,Homme,Profession_55,Le Kef,949,Sujet_9,Description_12,Type_2,07/22/2023
+C74658963,Nom_573,Prenom_427,34.33726086085408,Homme,Profession_49,Gafsa,370,Sujet_3,Description_14,Type_3,10/11/2023
+C60892321,Nom_252,Prenom_948,29.490679624231127,Femme,Profession_56,Sfax,451,Sujet_6,Description_2,Type_2,12/23/2023
+C91939982,Nom_10,Prenom_857,62.6229107904622,Homme,Profession_95,Tataouine,366,Sujet_6,Description_12,Type_2,10/24/2023
+C10088993,Nom_634,Prenom_644,28.906562863146778,Homme,Profession_66,Bizerte,699,Sujet_9,Description_12,Type_3,04/22/2023
+C68727370,Nom_522,Prenom_619,47.666257477490575,Femme,Profession_99,Nabeul,373,Sujet_2,Description_12,Type_5,10/18/2023
+C32950723,Nom_54,Prenom_315,28.438229027447335,Homme,Profession_15,Ariana,507,Sujet_8,Description_14,Type_1,05/02/2023
+C62156422,Nom_801,Prenom_294,42.69297802178723,Homme,Profession_3,Zaghouan,654,Sujet_1,Description_12,Type_4,01/19/2023
+C39759824,Nom_36,Prenom_987,32.89158047752382,Homme,Profession_31,Kairouan,860,Sujet_6,Description_5,Type_2,09/13/2023
+C72913166,Nom_79,Prenom_967,31.478970901785132,Femme,Profession_65,Tozeur,411,Sujet_10,Description_16,Type_5,12/23/2023
+C50748180,Nom_544,Prenom_28,46.70651132155621,Homme,Profession_33,Monastir,481,Sujet_1,Description_15,Type_1,12/24/2023
+C45430144,Nom_330,Prenom_105,52.02928764065974,Femme,Profession_60,Sidi Bouzid,454,Sujet_9,Description_12,Type_3,12/12/2023
+C46282493,Nom_560,Prenom_213,53.203940395113655,Femme,Profession_98,Medenine,253,Sujet_9,Description_4,Type_4,04/13/2023
+C98278864,Nom_264,Prenom_453,40.53548869095225,Homme,Profession_31,Sidi Bouzid,909,Sujet_8,Description_9,Type_3,10/17/2023
+C46801416,Nom_190,Prenom_46,29.76514809675354,Femme,Profession_6,Kasserine,339,Sujet_9,Description_20,Type_2,07/22/2023
+C40137146,Nom_27,Prenom_5,33.99616653865003,Homme,Profession_74,Ariana,774,Sujet_8,Description_1,Type_2,12/08/2023
+C52244375,Nom_788,Prenom_111,31.755414709678963,Femme,Profession_32,Gafsa,561,Sujet_4,Description_5,Type_4,08/20/2023
+C44836685,Nom_708,Prenom_642,45.31157095327026,Homme,Profession_35,Ariana,626,Sujet_5,Description_18,Type_2,12/28/2023
+C76960437,Nom_949,Prenom_521,34.58166013020182,Femme,Profession_28,Sousse,524,Sujet_2,Description_6,Type_4,05/25/2023
+C94539224,Nom_32,Prenom_264,33.66839514006199,Homme,Profession_63,Bizerte,193,Sujet_9,Description_9,Type_2,06/03/2023
+C22607033,Nom_589,Prenom_533,21.02284074347,Femme,Profession_28,Sousse,119,Sujet_2,Description_4,Type_4,02/19/2023
+C57726829,Nom_863,Prenom_6,29.565026447301907,Femme,Profession_57,Monastir,304,Sujet_7,Description_10,Type_2,10/17/2023
+C48514135,Nom_452,Prenom_848,41.415195408121264,Femme,Profession_9,Gabes,898,Sujet_9,Description_13,Type_1,12/02/2023
+C18953971,Nom_879,Prenom_684,40.96195239183718,Femme,Profession_79,Gabes,963,Sujet_6,Description_6,Type_5,06/28/2023
+C37318272,Nom_785,Prenom_397,51.31680201541375,Homme,Profession_30,Nabeul,758,Sujet_5,Description_16,Type_3,08/12/2023
+C84247091,Nom_607,Prenom_835,55.71990884883678,Homme,Profession_43,La Manouba,293,Sujet_7,Description_8,Type_2,07/21/2023
+C49755852,Nom_288,Prenom_980,38.735873265696505,Femme,Profession_63,Sfax,864,Sujet_10,Description_13,Type_3,06/15/2023
+C58634222,Nom_114,Prenom_523,40.61329014996311,Homme,Profession_54,Monastir,616,Sujet_10,Description_19,Type_5,03/23/2023
+C10145551,Nom_847,Prenom_373,4.134435411439782,Femme,Profession_81,Mahdia,491,Sujet_6,Description_7,Type_5,10/26/2023
+C32274014,Nom_167,Prenom_180,47.53664911823032,Homme,Profession_82,Bizerte,281,Sujet_3,Description_17,Type_4,01/09/2023
+C80988474,Nom_190,Prenom_701,25.14049132000295,Homme,Profession_8,Monastir,412,Sujet_6,Description_5,Type_1,09/23/2023
+C85496829,Nom_633,Prenom_456,43.71764409442545,Femme,Profession_35,Beja,746,Sujet_7,Description_3,Type_1,04/20/2023
+C58422648,Nom_108,Prenom_648,42.749359195203354,Femme,Profession_82,La Manouba,315,Sujet_10,Description_5,Type_3,05/16/2023
+C90885169,Nom_756,Prenom_182,48.92791819712178,Femme,Profession_77,Kasserine,787,Sujet_8,Description_17,Type_5,08/25/2023
+C72149896,Nom_343,Prenom_746,37.459037609240454,Homme,Profession_65,Zaghouan,290,Sujet_10,Description_4,Type_2,11/12/2023
+C80758414,Nom_895,Prenom_462,37.79556203126808,Homme,Profession_58,Zaghouan,437,Sujet_10,Description_2,Type_4,04/16/2023
+C29306051,Nom_4,Prenom_660,40.33361192023687,Homme,Profession_92,Nabeul,976,Sujet_3,Description_8,Type_1,11/13/2023
+C22338348,Nom_49,Prenom_203,30.32640610019766,Homme,Profession_40,Gafsa,562,Sujet_7,Description_10,Type_2,08/17/2023
+C66325612,Nom_597,Prenom_416,47.93594178177961,Homme,Profession_92,Ariana,115,Sujet_10,Description_9,Type_4,07/12/2023
+C75201843,Nom_477,Prenom_964,10.291931808207796,Femme,Profession_100,Beja,899,Sujet_8,Description_8,Type_1,10/18/2023
+C69301450,Nom_269,Prenom_720,43.707012523653916,Homme,Profession_73,Jendouba,665,Sujet_9,Description_6,Type_1,04/11/2023
+C84944328,Nom_725,Prenom_866,44.678067793441954,Homme,Profession_90,Kebili,245,Sujet_10,Description_7,Type_1,11/25/2023
+C70599308,Nom_139,Prenom_174,41.063898289751954,Homme,Profession_43,Ariana,430,Sujet_1,Description_17,Type_4,04/25/2023
+C53053886,Nom_928,Prenom_390,14.673028778265163,Femme,Profession_91,Jendouba,429,Sujet_2,Description_18,Type_3,02/02/2023
+C68894863,Nom_447,Prenom_189,23.36452801667493,Femme,Profession_72,Siliana,841,Sujet_10,Description_20,Type_2,04/27/2023
+C18156661,Nom_642,Prenom_785,40.12828349797259,Homme,Profession_85,Sousse,919,Sujet_8,Description_3,Type_3,10/08/2023
+C15476243,Nom_967,Prenom_202,31.132584187544317,Femme,Profession_8,Monastir,556,Sujet_4,Description_18,Type_2,05/04/2023
+C75360663,Nom_535,Prenom_375,37.93107442830111,Femme,Profession_55,Sfax,113,Sujet_2,Description_9,Type_4,12/03/2023
+C22369725,Nom_16,Prenom_113,43.29865004280855,Femme,Profession_30,Mahdia,263,Sujet_10,Description_12,Type_3,02/12/2023
+C11938872,Nom_730,Prenom_122,35.18931180941161,Femme,Profession_28,Kasserine,838,Sujet_9,Description_19,Type_2,11/25/2023
+C38458472,Nom_751,Prenom_609,20.712374344434934,Homme,Profession_97,Medenine,491,Sujet_3,Description_6,Type_3,08/21/2023
+C59713207,Nom_659,Prenom_929,41.51873464701577,Homme,Profession_81,Tunis,639,Sujet_5,Description_18,Type_1,04/11/2023
+C34578267,Nom_644,Prenom_158,54.09199665138905,Femme,Profession_15,Kairouan,803,Sujet_1,Description_3,Type_1,10/25/2023
+C59455188,Nom_900,Prenom_668,43.13316357725434,Homme,Profession_92,Beja,819,Sujet_4,Description_10,Type_1,06/25/2023
+C55240037,Nom_885,Prenom_382,39.32023008666671,Femme,Profession_36,Jendouba,982,Sujet_9,Description_6,Type_5,08/21/2023
+C35539251,Nom_208,Prenom_950,37.7298862162256,Femme,Profession_22,Jendouba,375,Sujet_2,Description_3,Type_5,04/01/2023
+C31610988,Nom_963,Prenom_1,39.2821897341478,Homme,Profession_99,Medenine,552,Sujet_2,Description_20,Type_3,04/25/2023
+C62826386,Nom_477,Prenom_280,22.653798472265485,Femme,Profession_86,Mahdia,615,Sujet_1,Description_6,Type_1,04/28/2023
+C67264794,Nom_557,Prenom_555,45.47412606846146,Homme,Profession_52,Le Kef,981,Sujet_3,Description_20,Type_4,07/15/2023
+C98911602,Nom_823,Prenom_23,50.12624330960512,Femme,Profession_64,Nabeul,579,Sujet_6,Description_16,Type_4,02/17/2023
+C64820548,Nom_485,Prenom_782,37.912102534615045,Femme,Profession_86,Kairouan,568,Sujet_10,Description_14,Type_4,04/27/2023
+C65585530,Nom_405,Prenom_227,52.76519423743596,Homme,Profession_54,Gabes,176,Sujet_1,Description_8,Type_2,07/10/2023
+C67068409,Nom_269,Prenom_643,34.58580325595027,Femme,Profession_57,Gabes,318,Sujet_9,Description_12,Type_1,03/26/2023
+C22205498,Nom_16,Prenom_579,43.7455314916685,Homme,Profession_83,Ben Arous,371,Sujet_2,Description_15,Type_2,07/24/2023
+C37452520,Nom_646,Prenom_124,19.20605091165562,Homme,Profession_6,Bizerte,184,Sujet_1,Description_13,Type_5,08/26/2023
+C33349139,Nom_696,Prenom_103,26.995608158961943,Femme,Profession_98,Sousse,129,Sujet_9,Description_6,Type_4,05/26/2023
+C45450702,Nom_891,Prenom_314,64.15761728053246,Homme,Profession_89,Siliana,190,Sujet_8,Description_17,Type_4,11/11/2023
+C85709554,Nom_216,Prenom_350,33.45058885290343,Homme,Profession_100,Monastir,602,Sujet_8,Description_4,Type_3,04/28/2023
+C41083598,Nom_9,Prenom_761,24.01531323839513,Homme,Profession_76,Tataouine,473,Sujet_1,Description_2,Type_5,07/19/2023
+C52021812,Nom_41,Prenom_798,51.17535655762413,Femme,Profession_51,Jendouba,162,Sujet_4,Description_3,Type_4,05/12/2023
+C32999692,Nom_301,Prenom_661,39.750951153426776,Femme,Profession_74,Sfax,260,Sujet_8,Description_3,Type_1,12/05/2023
+C40851388,Nom_665,Prenom_429,31.770090365747325,Homme,Profession_11,Mahdia,494,Sujet_4,Description_2,Type_1,07/28/2023
+C15107871,Nom_114,Prenom_227,51.92790957316016,Homme,Profession_64,Kairouan,164,Sujet_2,Description_15,Type_3,10/06/2023
+C59489485,Nom_478,Prenom_361,31.64319560046513,Femme,Profession_91,Mahdia,428,Sujet_7,Description_1,Type_4,06/10/2023
+C74401494,Nom_788,Prenom_909,27.34278940811725,Femme,Profession_49,Mahdia,588,Sujet_1,Description_12,Type_3,03/12/2023
+C93865465,Nom_629,Prenom_111,22.8100532726228,Femme,Profession_10,Tunis,698,Sujet_9,Description_6,Type_2,01/25/2023
+C35821643,Nom_481,Prenom_568,36.91485925820125,Homme,Profession_68,Sfax,508,Sujet_9,Description_12,Type_1,08/09/2023
+C38798090,Nom_657,Prenom_154,32.11444160478505,Homme,Profession_82,Nabeul,258,Sujet_4,Description_12,Type_3,07/05/2023
+C32769217,Nom_310,Prenom_908,29.994460492989354,Femme,Profession_85,Kairouan,224,Sujet_5,Description_16,Type_1,09/17/2023
+C74362158,Nom_861,Prenom_632,56.63347357285423,Homme,Profession_100,Bizerte,621,Sujet_8,Description_12,Type_3,10/22/2023
+C86064682,Nom_237,Prenom_588,44.72151315031829,Femme,Profession_6,Ben Arous,750,Sujet_3,Description_13,Type_1,09/27/2023
+C63152360,Nom_522,Prenom_948,34.46525455079775,Femme,Profession_53,Monastir,383,Sujet_7,Description_17,Type_5,03/16/2023
+C39770721,Nom_708,Prenom_835,38.86797600555136,Femme,Profession_30,Bizerte,896,Sujet_7,Description_13,Type_4,09/06/2023
+C62585644,Nom_306,Prenom_12,48.23900193737171,Femme,Profession_79,Zaghouan,872,Sujet_10,Description_1,Type_3,03/07/2023
+C15882571,Nom_909,Prenom_242,26.967840282013782,Femme,Profession_89,Ariana,760,Sujet_10,Description_15,Type_1,11/12/2023
+C34507637,Nom_159,Prenom_42,18.336189771920928,Homme,Profession_94,Mahdia,368,Sujet_3,Description_13,Type_4,07/28/2023
+C44620869,Nom_905,Prenom_60,45.650263576718984,Femme,Profession_66,Sousse,555,Sujet_2,Description_15,Type_5,09/21/2023
+C88370225,Nom_432,Prenom_290,35.53626509922971,Homme,Profession_35,Ariana,333,Sujet_10,Description_16,Type_4,08/22/2023
+C42655376,Nom_787,Prenom_786,29.10241914395719,Homme,Profession_66,Kairouan,235,Sujet_6,Description_18,Type_4,10/15/2023
+C50764247,Nom_755,Prenom_257,46.89666108280332,Homme,Profession_89,Jendouba,269,Sujet_8,Description_14,Type_3,03/02/2023
+C49495015,Nom_772,Prenom_672,43.020157799807116,Homme,Profession_13,Mahdia,255,Sujet_10,Description_18,Type_5,03/13/2023
+C72855698,Nom_309,Prenom_942,26.924149927425425,Homme,Profession_36,Ariana,528,Sujet_7,Description_18,Type_1,04/27/2023
+C41725107,Nom_249,Prenom_566,36.04241547084073,Femme,Profession_29,Bizerte,519,Sujet_2,Description_17,Type_2,04/23/2023
+C42405078,Nom_714,Prenom_858,25.484694068797342,Femme,Profession_72,Bizerte,235,Sujet_7,Description_20,Type_5,03/12/2023
+C96899506,Nom_66,Prenom_90,42.296428669385314,Homme,Profession_64,Tozeur,388,Sujet_9,Description_8,Type_5,09/26/2023
+C13857914,Nom_495,Prenom_879,36.72726249949878,Femme,Profession_99,Siliana,927,Sujet_2,Description_4,Type_5,03/12/2023
+C31636810,Nom_593,Prenom_70,26.199617505312773,Homme,Profession_99,Kasserine,576,Sujet_5,Description_20,Type_1,12/18/2023
+C95882514,Nom_170,Prenom_841,27.637741461364428,Homme,Profession_91,Kebili,205,Sujet_7,Description_10,Type_4,10/24/2023
+C23531643,Nom_470,Prenom_382,31.099222747059876,Homme,Profession_50,Beja,695,Sujet_3,Description_5,Type_1,05/09/2023
+C24222711,Nom_741,Prenom_533,16.87536900967508,Homme,Profession_42,Ben Arous,180,Sujet_1,Description_9,Type_5,06/19/2023
+C65657833,Nom_308,Prenom_894,32.26204215364603,Femme,Profession_72,Sousse,698,Sujet_4,Description_13,Type_2,02/20/2023
+C72697042,Nom_927,Prenom_475,31.57538388709802,Homme,Profession_2,Siliana,134,Sujet_4,Description_8,Type_3,12/22/2023
+C57049451,Nom_904,Prenom_467,41.98196124236821,Homme,Profession_42,Sfax,352,Sujet_7,Description_7,Type_3,05/04/2023
+C45658929,Nom_753,Prenom_18,24.71437320245919,Homme,Profession_71,Jendouba,865,Sujet_6,Description_10,Type_3,05/23/2023
+C62509060,Nom_397,Prenom_591,20.42546173999259,Femme,Profession_29,Gabes,956,Sujet_7,Description_13,Type_1,12/15/2023
+C74519704,Nom_738,Prenom_460,15.844871904362357,Femme,Profession_64,Beja,129,Sujet_8,Description_5,Type_4,09/21/2023
+C55520647,Nom_628,Prenom_826,36.64240428418006,Femme,Profession_52,Gafsa,326,Sujet_8,Description_17,Type_1,01/11/2023
+C83545945,Nom_861,Prenom_772,49.640993051025326,Femme,Profession_38,Beja,233,Sujet_7,Description_5,Type_1,03/02/2023
+C10590462,Nom_21,Prenom_684,32.18788129555239,Homme,Profession_31,Monastir,663,Sujet_8,Description_4,Type_3,04/10/2023
+C90761769,Nom_447,Prenom_728,56.33166083553682,Femme,Profession_29,Gafsa,290,Sujet_6,Description_10,Type_3,03/24/2023
+C86416456,Nom_209,Prenom_943,39.47225670809521,Femme,Profession_34,Gabes,129,Sujet_2,Description_5,Type_4,03/03/2023
+C64005456,Nom_776,Prenom_426,41.971688674757885,Femme,Profession_47,Sousse,621,Sujet_10,Description_9,Type_5,06/21/2023
+C21545131,Nom_152,Prenom_278,17.806225281087183,Femme,Profession_49,Le Kef,539,Sujet_5,Description_13,Type_5,08/22/2023
+C28023098,Nom_505,Prenom_549,36.44095602858456,Femme,Profession_3,Jendouba,937,Sujet_2,Description_11,Type_2,08/13/2023
+C29928784,Nom_985,Prenom_963,38.145779221745585,Homme,Profession_58,Tozeur,334,Sujet_5,Description_18,Type_3,07/20/2023
+C81124858,Nom_319,Prenom_876,60.62153615091525,Femme,Profession_67,Sfax,640,Sujet_6,Description_7,Type_5,06/06/2023
+C89422789,Nom_71,Prenom_550,26.800465505188697,Femme,Profession_99,Ben Arous,999,Sujet_4,Description_10,Type_5,11/18/2023
+C15656024,Nom_438,Prenom_729,29.40026868771806,Homme,Profession_71,La Manouba,513,Sujet_2,Description_19,Type_1,04/07/2023
+C68194763,Nom_306,Prenom_567,46.66452379535219,Femme,Profession_43,Nabeul,584,Sujet_7,Description_7,Type_2,02/11/2023
+C53944413,Nom_884,Prenom_861,38.20088657937316,Femme,Profession_18,La Manouba,799,Sujet_6,Description_1,Type_4,04/09/2023
+C54023573,Nom_646,Prenom_279,41.005418827884185,Homme,Profession_24,Ben Arous,671,Sujet_5,Description_17,Type_4,12/28/2023
+C11439780,Nom_723,Prenom_266,45.96880741859077,Homme,Profession_77,Kairouan,508,Sujet_3,Description_20,Type_4,10/05/2023
+C92270349,Nom_573,Prenom_746,39.75962828958517,Homme,Profession_69,Kasserine,121,Sujet_2,Description_12,Type_2,09/14/2023
+C30651174,Nom_46,Prenom_55,26.99918835340648,Femme,Profession_70,Beja,293,Sujet_5,Description_14,Type_5,10/27/2023
+C83609574,Nom_314,Prenom_286,47.41501234524164,Femme,Profession_80,Mahdia,501,Sujet_4,Description_13,Type_4,02/03/2023
+C36319434,Nom_477,Prenom_351,32.64817889386178,Homme,Profession_52,Tozeur,780,Sujet_9,Description_3,Type_3,02/19/2023
+C81975472,Nom_345,Prenom_114,48.13202109082474,Femme,Profession_51,Le Kef,110,Sujet_8,Description_2,Type_4,04/12/2023
+C95196008,Nom_98,Prenom_88,36.5624641025019,Femme,Profession_53,Nabeul,923,Sujet_4,Description_8,Type_3,08/07/2023
+C27474829,Nom_833,Prenom_484,38.44959775984026,Femme,Profession_2,Tataouine,944,Sujet_7,Description_8,Type_2,09/24/2023
+C50480996,Nom_992,Prenom_641,32.12713910720011,Femme,Profession_95,Medenine,762,Sujet_6,Description_19,Type_3,03/02/2023
+C55941661,Nom_535,Prenom_685,40.25356812501272,Homme,Profession_7,Tataouine,741,Sujet_9,Description_16,Type_2,01/17/2023
+C42069648,Nom_416,Prenom_597,48.41883710785843,Homme,Profession_82,Le Kef,322,Sujet_8,Description_16,Type_1,06/02/2023
+C84343373,Nom_273,Prenom_205,22.889144558758147,Homme,Profession_16,Nabeul,802,Sujet_2,Description_14,Type_4,03/25/2023
+C10495747,Nom_213,Prenom_178,30.091154403342298,Homme,Profession_77,Bizerte,923,Sujet_10,Description_16,Type_2,08/19/2023
+C22242404,Nom_614,Prenom_377,44.000249410245374,Femme,Profession_58,Kebili,400,Sujet_9,Description_7,Type_1,08/27/2023
+C66639948,Nom_814,Prenom_970,52.295805959545255,Femme,Profession_50,Zaghouan,479,Sujet_4,Description_11,Type_4,08/17/2023
+C37656674,Nom_208,Prenom_701,24.87631762813076,Homme,Profession_83,Sousse,553,Sujet_2,Description_13,Type_3,02/13/2023
+C59680115,Nom_551,Prenom_97,55.068149543893966,Femme,Profession_28,Siliana,112,Sujet_8,Description_14,Type_3,05/01/2023
+C61053484,Nom_24,Prenom_414,45.29718407754642,Homme,Profession_2,Ariana,918,Sujet_7,Description_7,Type_2,10/25/2023
+C33394481,Nom_477,Prenom_776,23.443146547526077,Femme,Profession_80,Sousse,657,Sujet_1,Description_2,Type_2,06/05/2023
+C44417318,Nom_446,Prenom_515,23.101385413781543,Homme,Profession_75,Tozeur,257,Sujet_3,Description_10,Type_3,03/27/2023
+C26639154,Nom_96,Prenom_296,35.148691655681056,Homme,Profession_37,Tunis,135,Sujet_4,Description_8,Type_1,03/10/2023
+C66919961,Nom_617,Prenom_91,53.09095824017199,Homme,Profession_38,Tunis,477,Sujet_3,Description_16,Type_5,02/25/2023
+C69649839,Nom_332,Prenom_276,32.135601383470686,Homme,Profession_47,Sousse,195,Sujet_7,Description_16,Type_2,05/23/2023
+C18990392,Nom_643,Prenom_822,37.732663094998244,Homme,Profession_6,Bizerte,279,Sujet_10,Description_19,Type_1,05/14/2023
+C90406602,Nom_237,Prenom_162,37.41733433450608,Homme,Profession_21,Tozeur,179,Sujet_2,Description_10,Type_4,04/20/2023
+C85267724,Nom_926,Prenom_940,48.21500690207381,Femme,Profession_56,Le Kef,976,Sujet_10,Description_17,Type_2,12/06/2023
+C81233887,Nom_588,Prenom_484,32.73412905046989,Homme,Profession_73,Le Kef,599,Sujet_7,Description_18,Type_2,03/14/2023
+C17212669,Nom_665,Prenom_975,30.989832053569657,Homme,Profession_80,Tataouine,478,Sujet_10,Description_14,Type_2,06/27/2023
+C58112464,Nom_24,Prenom_887,58.75029231661096,Homme,Profession_22,Siliana,790,Sujet_3,Description_4,Type_3,09/09/2023
+C51366928,Nom_460,Prenom_900,22.293865320982924,Femme,Profession_4,Sfax,503,Sujet_3,Description_5,Type_4,05/12/2023
+C13392145,Nom_744,Prenom_511,45.16223981485822,Femme,Profession_41,Zaghouan,298,Sujet_9,Description_8,Type_5,01/06/2023
+C13191959,Nom_350,Prenom_263,44.44995787763406,Homme,Profession_84,Zaghouan,903,Sujet_7,Description_20,Type_5,02/11/2023
+C97126375,Nom_271,Prenom_277,24.090226953412216,Homme,Profession_33,Beja,248,Sujet_9,Description_5,Type_1,09/05/2023
+C55175710,Nom_545,Prenom_818,42.46803772446949,Femme,Profession_90,Sousse,352,Sujet_2,Description_5,Type_4,11/07/2023
+C23410368,Nom_338,Prenom_473,34.503850685301366,Femme,Profession_97,Nabeul,797,Sujet_3,Description_11,Type_5,12/07/2023
+C53568275,Nom_43,Prenom_773,47.27406730830421,Femme,Profession_3,Nabeul,871,Sujet_1,Description_9,Type_2,02/01/2023
+C70731745,Nom_251,Prenom_416,45.16242579033102,Homme,Profession_14,Tozeur,520,Sujet_2,Description_9,Type_2,05/03/2023
+C79786470,Nom_327,Prenom_52,24.477018930396632,Homme,Profession_2,Siliana,599,Sujet_2,Description_3,Type_5,04/14/2023
+C73867162,Nom_672,Prenom_514,43.205280595559,Homme,Profession_84,Ben Arous,791,Sujet_9,Description_5,Type_5,09/22/2023
+C63133891,Nom_342,Prenom_631,28.046341289126946,Femme,Profession_40,Sousse,811,Sujet_1,Description_20,Type_5,02/05/2023
+C65688047,Nom_832,Prenom_194,32.96839294123666,Homme,Profession_95,Gafsa,954,Sujet_7,Description_8,Type_5,03/07/2023
+C81352887,Nom_524,Prenom_133,64.16585833804547,Femme,Profession_20,Kairouan,806,Sujet_3,Description_6,Type_5,07/09/2023
+C26020734,Nom_610,Prenom_358,17.536668714247273,Homme,Profession_100,Sidi Bouzid,700,Sujet_9,Description_10,Type_4,04/05/2023
+C99592468,Nom_103,Prenom_970,40.42880773426457,Homme,Profession_5,Mahdia,112,Sujet_6,Description_12,Type_2,10/22/2023
+C65665022,Nom_474,Prenom_385,47.55562462727421,Femme,Profession_65,Gafsa,235,Sujet_5,Description_18,Type_1,05/11/2023
+C62246895,Nom_710,Prenom_294,37.282721178232464,Femme,Profession_97,Kasserine,387,Sujet_1,Description_9,Type_3,10/06/2023
+C37760945,Nom_28,Prenom_994,54.62985981538769,Femme,Profession_76,Mahdia,311,Sujet_3,Description_10,Type_1,03/24/2023
+C31950546,Nom_97,Prenom_703,46.719244775595755,Femme,Profession_14,Jendouba,988,Sujet_10,Description_14,Type_2,02/25/2023
+C15379372,Nom_414,Prenom_9,23.19537839968457,Femme,Profession_23,Ariana,559,Sujet_4,Description_15,Type_2,12/10/2023
+C29778298,Nom_221,Prenom_720,33.60024225350054,Homme,Profession_51,Bizerte,407,Sujet_1,Description_9,Type_5,08/02/2023
+C64906318,Nom_288,Prenom_605,31.117299847550264,Femme,Profession_55,La Manouba,389,Sujet_9,Description_8,Type_4,03/04/2023
+C21216827,Nom_344,Prenom_600,40.140884029283676,Femme,Profession_89,Medenine,314,Sujet_10,Description_3,Type_5,06/15/2023
+C58842182,Nom_276,Prenom_958,33.28127687610635,Homme,Profession_30,Tunis,246,Sujet_4,Description_17,Type_3,08/17/2023
+C24641671,Nom_376,Prenom_838,18.336991729084087,Femme,Profession_97,Medenine,436,Sujet_4,Description_15,Type_2,10/28/2023
+C79798033,Nom_575,Prenom_594,48.053110235887395,Femme,Profession_83,Sfax,185,Sujet_3,Description_3,Type_1,12/22/2023
+C68042473,Nom_374,Prenom_817,32.42680867791088,Femme,Profession_23,Kairouan,484,Sujet_1,Description_19,Type_3,07/15/2023
+C25181888,Nom_912,Prenom_604,36.72926905614132,Femme,Profession_67,Medenine,367,Sujet_6,Description_20,Type_4,05/24/2023
+C57357136,Nom_630,Prenom_615,36.76425465306801,Femme,Profession_80,Tozeur,491,Sujet_1,Description_18,Type_4,05/01/2023
+C17706291,Nom_695,Prenom_139,51.728748579633645,Homme,Profession_86,Jendouba,248,Sujet_5,Description_10,Type_5,04/10/2023
+C55572268,Nom_193,Prenom_847,41.30865254610643,Femme,Profession_30,Sfax,190,Sujet_4,Description_6,Type_3,12/22/2023
+C19737857,Nom_242,Prenom_885,46.475337653347495,Femme,Profession_52,Bizerte,489,Sujet_8,Description_13,Type_5,08/24/2023
+C73454141,Nom_60,Prenom_616,48.552229800092405,Homme,Profession_94,La Manouba,761,Sujet_1,Description_18,Type_3,12/19/2023
+C39802997,Nom_610,Prenom_982,44.29306960543297,Homme,Profession_43,Zaghouan,603,Sujet_2,Description_6,Type_3,04/25/2023
+C39193363,Nom_972,Prenom_855,55.180138163355494,Femme,Profession_38,Jendouba,726,Sujet_9,Description_1,Type_5,05/14/2023
+C52255502,Nom_839,Prenom_325,43.13948880299709,Homme,Profession_35,Zaghouan,160,Sujet_2,Description_6,Type_5,05/22/2023
+C10227783,Nom_23,Prenom_328,35.35169935174045,Femme,Profession_4,Mahdia,411,Sujet_9,Description_3,Type_5,05/09/2023
+C79348116,Nom_355,Prenom_495,54.94129284380388,Homme,Profession_4,Tunis,682,Sujet_3,Description_8,Type_1,01/17/2023
+C79194728,Nom_257,Prenom_180,42.614389069671056,Femme,Profession_68,Jendouba,730,Sujet_2,Description_12,Type_4,07/05/2023
+C59613826,Nom_528,Prenom_69,57.45628557204133,Homme,Profession_25,Beja,263,Sujet_1,Description_20,Type_2,04/05/2023
+C90707783,Nom_493,Prenom_525,50.690789540636025,Homme,Profession_44,Siliana,135,Sujet_7,Description_12,Type_2,02/23/2023
+C67581060,Nom_314,Prenom_429,40.01172903355068,Homme,Profession_1,Monastir,250,Sujet_9,Description_9,Type_5,08/09/2023
+C82497335,Nom_983,Prenom_919,39.24747396830247,Femme,Profession_76,Mahdia,820,Sujet_5,Description_15,Type_1,08/22/2023
+C40736809,Nom_219,Prenom_830,30.561378581567133,Femme,Profession_2,Jendouba,582,Sujet_8,Description_12,Type_2,10/04/2023
+C60222043,Nom_392,Prenom_616,24.309157625047675,Homme,Profession_1,Gabes,903,Sujet_8,Description_16,Type_2,05/14/2023
+C43208165,Nom_311,Prenom_173,31.493666274453375,Femme,Profession_42,Bizerte,307,Sujet_5,Description_1,Type_3,04/23/2023
+C48709089,Nom_582,Prenom_79,24.393852073315287,Femme,Profession_59,Sfax,427,Sujet_4,Description_6,Type_4,08/09/2023
+C84051991,Nom_161,Prenom_194,38.39086756742236,Homme,Profession_26,Ariana,246,Sujet_10,Description_15,Type_1,05/21/2023
+C19120145,Nom_892,Prenom_518,55.58979117790003,Femme,Profession_49,La Manouba,558,Sujet_2,Description_17,Type_2,07/19/2023
+C40388398,Nom_498,Prenom_200,21.474628972281,Femme,Profession_38,Siliana,639,Sujet_4,Description_9,Type_3,11/16/2023
+C50010175,Nom_617,Prenom_809,36.11117547314851,Femme,Profession_50,La Manouba,684,Sujet_10,Description_12,Type_2,02/20/2023
+C98179523,Nom_638,Prenom_502,25.50488798881992,Femme,Profession_59,Gafsa,574,Sujet_5,Description_4,Type_3,07/19/2023
+C58823499,Nom_616,Prenom_306,24.596277791223002,Homme,Profession_16,La Manouba,642,Sujet_8,Description_10,Type_3,07/02/2023
+C45042339,Nom_101,Prenom_934,40.71983396486756,Homme,Profession_38,Tozeur,921,Sujet_4,Description_8,Type_5,04/17/2023
+C66923501,Nom_475,Prenom_346,45.485738116201134,Femme,Profession_81,Beja,189,Sujet_6,Description_5,Type_3,12/10/2023
+C84874914,Nom_448,Prenom_285,33.98716658593631,Homme,Profession_39,Nabeul,985,Sujet_2,Description_13,Type_3,06/23/2023
+C64049172,Nom_827,Prenom_792,34.45822984364616,Femme,Profession_100,La Manouba,296,Sujet_9,Description_4,Type_2,04/09/2023
+C72390670,Nom_369,Prenom_163,34.083794348479586,Femme,Profession_1,Ariana,425,Sujet_8,Description_17,Type_3,07/28/2023
+C77734583,Nom_714,Prenom_991,22.565534119070342,Homme,Profession_1,La Manouba,730,Sujet_2,Description_15,Type_1,09/02/2023
+C36387524,Nom_295,Prenom_98,47.31198162471326,Femme,Profession_86,Tataouine,651,Sujet_6,Description_9,Type_1,11/27/2023
+C35907740,Nom_449,Prenom_766,36.48147569055222,Femme,Profession_21,Gabes,495,Sujet_3,Description_10,Type_4,10/06/2023
+C49426703,Nom_97,Prenom_770,53.13533065545308,Femme,Profession_28,Medenine,224,Sujet_8,Description_5,Type_5,08/12/2023
+C54720045,Nom_963,Prenom_191,38.528849885314976,Femme,Profession_56,Monastir,899,Sujet_5,Description_17,Type_3,07/08/2023
+C44415710,Nom_948,Prenom_360,44.76306699032926,Femme,Profession_30,Nabeul,693,Sujet_9,Description_13,Type_5,04/04/2023
+C23547850,Nom_807,Prenom_991,39.33817469788494,Homme,Profession_29,La Manouba,418,Sujet_10,Description_12,Type_3,02/20/2023
+C42730528,Nom_617,Prenom_338,45.91523911700223,Homme,Profession_70,Ariana,960,Sujet_9,Description_19,Type_1,09/20/2023
+C51672335,Nom_995,Prenom_762,47.70642705876729,Homme,Profession_70,Kebili,875,Sujet_3,Description_10,Type_5,07/11/2023
+C80499451,Nom_691,Prenom_83,48.518689203155155,Homme,Profession_81,Tozeur,768,Sujet_9,Description_1,Type_1,07/07/2023
+C75151952,Nom_866,Prenom_388,52.3513440101762,Femme,Profession_22,Jendouba,839,Sujet_4,Description_17,Type_1,05/24/2023
+C88635993,Nom_145,Prenom_220,40.133747967213544,Homme,Profession_13,Tozeur,620,Sujet_3,Description_14,Type_5,06/16/2023
+C16810700,Nom_776,Prenom_993,35.51030646256048,Femme,Profession_6,Ariana,592,Sujet_5,Description_2,Type_4,12/22/2023
+C24774705,Nom_794,Prenom_328,62.83611682491259,Homme,Profession_57,Sidi Bouzid,411,Sujet_4,Description_3,Type_3,08/14/2023
+C94478542,Nom_430,Prenom_938,41.144456351929705,Homme,Profession_9,La Manouba,177,Sujet_6,Description_4,Type_5,07/02/2023
+C44404407,Nom_383,Prenom_410,39.26974544901374,Femme,Profession_65,Kebili,379,Sujet_3,Description_12,Type_4,06/12/2023
+C72856584,Nom_87,Prenom_754,29.931367936725067,Femme,Profession_32,Beja,835,Sujet_10,Description_8,Type_5,03/04/2023
+C94379857,Nom_499,Prenom_22,33.267097738401596,Homme,Profession_71,Bizerte,950,Sujet_6,Description_7,Type_3,04/06/2023
+C40271401,Nom_781,Prenom_512,34.63286013599547,Femme,Profession_17,Ariana,174,Sujet_9,Description_18,Type_5,04/02/2023
+C20261845,Nom_914,Prenom_610,48.262326806555095,Homme,Profession_33,Tozeur,617,Sujet_4,Description_4,Type_2,09/11/2023
+C51833197,Nom_394,Prenom_225,48.512998017386295,Homme,Profession_5,Bizerte,409,Sujet_8,Description_2,Type_2,07/19/2023
+C32516680,Nom_781,Prenom_264,55.21439596035465,Homme,Profession_69,Sfax,679,Sujet_9,Description_14,Type_3,04/16/2023
+C53697017,Nom_209,Prenom_976,35.491389095947014,Homme,Profession_62,Gafsa,202,Sujet_9,Description_3,Type_4,08/14/2023
+C78766555,Nom_705,Prenom_336,47.32814835783658,Homme,Profession_86,Mahdia,386,Sujet_7,Description_10,Type_1,08/21/2023
+C81330444,Nom_891,Prenom_858,42.55978959184652,Femme,Profession_94,Monastir,715,Sujet_2,Description_14,Type_5,02/16/2023
+C53970504,Nom_691,Prenom_131,37.89233922874353,Femme,Profession_70,Kasserine,444,Sujet_8,Description_16,Type_3,08/15/2023
+C71025803,Nom_3,Prenom_282,47.88954255614857,Femme,Profession_50,Tozeur,848,Sujet_10,Description_3,Type_3,11/17/2023
+C92169782,Nom_810,Prenom_450,43.33856618593692,Homme,Profession_93,Kairouan,546,Sujet_9,Description_6,Type_5,11/07/2023
+C13338277,Nom_412,Prenom_463,48.43036028796422,Femme,Profession_11,Le Kef,371,Sujet_9,Description_4,Type_2,07/28/2023
+C14078329,Nom_32,Prenom_791,36.05017535151569,Homme,Profession_38,Gabes,100,Sujet_7,Description_16,Type_5,06/15/2023
+C94416197,Nom_839,Prenom_111,28.89058468897026,Femme,Profession_62,Sousse,563,Sujet_7,Description_9,Type_2,07/09/2023
+C93222691,Nom_454,Prenom_381,35.050468129187394,Homme,Profession_64,Jendouba,365,Sujet_8,Description_4,Type_1,05/23/2023
+C33345291,Nom_815,Prenom_899,10.779891730337066,Homme,Profession_13,Nabeul,575,Sujet_9,Description_19,Type_4,01/01/2023
+C52151455,Nom_346,Prenom_538,31.79536299259395,Femme,Profession_19,Le Kef,771,Sujet_10,Description_8,Type_3,07/14/2023
+C50891144,Nom_285,Prenom_627,38.49324797777462,Homme,Profession_30,Medenine,347,Sujet_7,Description_18,Type_4,08/16/2023
+C86572203,Nom_764,Prenom_772,28.779708711462035,Femme,Profession_39,Kebili,934,Sujet_2,Description_8,Type_1,01/24/2023
+C39933484,Nom_715,Prenom_310,36.232510474147816,Femme,Profession_83,Tozeur,453,Sujet_8,Description_12,Type_2,08/07/2023
+C42795129,Nom_232,Prenom_972,31.73064525651785,Femme,Profession_67,Kairouan,797,Sujet_1,Description_17,Type_1,05/21/2023
+C66378642,Nom_959,Prenom_800,30.52548012875758,Homme,Profession_20,Kebili,988,Sujet_2,Description_8,Type_4,02/16/2023
+C33403033,Nom_101,Prenom_395,39.2841159681082,Homme,Profession_31,Le Kef,305,Sujet_1,Description_4,Type_2,04/15/2023
+C78401376,Nom_138,Prenom_541,39.58912402195008,Homme,Profession_94,Gafsa,680,Sujet_6,Description_14,Type_4,08/05/2023
+C33931852,Nom_418,Prenom_363,44.42058968900956,Homme,Profession_89,Sfax,501,Sujet_8,Description_11,Type_5,11/05/2023
+C32273122,Nom_31,Prenom_779,37.57608969193462,Homme,Profession_40,Kairouan,539,Sujet_4,Description_14,Type_2,06/15/2023
+C77959312,Nom_864,Prenom_997,43.80444766747728,Homme,Profession_9,Kasserine,448,Sujet_10,Description_7,Type_4,11/17/2023
+C94036527,Nom_693,Prenom_455,40.39842486451872,Homme,Profession_33,Sidi Bouzid,580,Sujet_8,Description_10,Type_3,09/13/2023
+C60781764,Nom_777,Prenom_469,42.72658386173554,Femme,Profession_76,Gafsa,297,Sujet_6,Description_8,Type_2,06/27/2023
+C17689384,Nom_741,Prenom_306,47.211793344683166,Homme,Profession_61,Tunis,618,Sujet_8,Description_1,Type_3,05/13/2023
+C11150145,Nom_232,Prenom_382,33.138424493844155,Femme,Profession_32,Ariana,968,Sujet_9,Description_8,Type_5,05/26/2023
+C91035720,Nom_755,Prenom_561,36.77350652903608,Homme,Profession_79,Jendouba,713,Sujet_10,Description_2,Type_4,08/12/2023
+C42341690,Nom_508,Prenom_388,34.83050207767881,Homme,Profession_21,Sidi Bouzid,722,Sujet_8,Description_4,Type_4,10/15/2023
+C14948412,Nom_643,Prenom_538,38.06673584337212,Femme,Profession_87,Gabes,878,Sujet_2,Description_14,Type_5,10/23/2023
+C20185526,Nom_66,Prenom_807,45.45722069898112,Femme,Profession_85,Tozeur,379,Sujet_7,Description_8,Type_3,08/22/2023
+C67993232,Nom_515,Prenom_857,53.22702046709722,Homme,Profession_58,Zaghouan,293,Sujet_7,Description_1,Type_2,08/07/2023
+C61484817,Nom_24,Prenom_262,41.81314334667603,Femme,Profession_7,Sidi Bouzid,869,Sujet_4,Description_17,Type_5,01/11/2023
+C41944701,Nom_785,Prenom_488,33.62864226231355,Femme,Profession_54,Sousse,639,Sujet_6,Description_15,Type_5,02/22/2023
+C19971661,Nom_529,Prenom_412,29.04573230165549,Femme,Profession_17,Sfax,550,Sujet_1,Description_2,Type_3,06/21/2023
+C17421975,Nom_316,Prenom_768,12.891560229232503,Homme,Profession_52,Kasserine,131,Sujet_4,Description_1,Type_1,09/17/2023
+C64500421,Nom_397,Prenom_462,36.74268336075054,Homme,Profession_16,Sousse,380,Sujet_5,Description_18,Type_4,05/18/2023
+C91175308,Nom_893,Prenom_464,33.56862029575836,Homme,Profession_82,Gafsa,141,Sujet_8,Description_18,Type_3,05/27/2023
+C81848420,Nom_283,Prenom_601,18.212674705187766,Homme,Profession_49,Kasserine,341,Sujet_6,Description_12,Type_2,09/07/2023
+C80357141,Nom_404,Prenom_824,18.9331962986453,Homme,Profession_28,Gafsa,266,Sujet_10,Description_3,Type_3,10/10/2023
+C76757509,Nom_34,Prenom_871,37.39301942737293,Femme,Profession_55,Tozeur,594,Sujet_5,Description_16,Type_5,04/01/2023
+C88776086,Nom_698,Prenom_17,21.469114381889657,Homme,Profession_48,Kairouan,878,Sujet_8,Description_4,Type_5,08/16/2023
+C32550635,Nom_120,Prenom_730,22.343728582454364,Homme,Profession_27,Monastir,737,Sujet_2,Description_11,Type_5,06/20/2023
+C64788854,Nom_529,Prenom_697,26.17166932324708,Femme,Profession_11,Ariana,719,Sujet_6,Description_15,Type_5,10/02/2023
+C89106566,Nom_779,Prenom_750,21.654989435079095,Homme,Profession_85,Beja,294,Sujet_7,Description_20,Type_3,11/21/2023
+C80097290,Nom_412,Prenom_233,33.02677262871097,Homme,Profession_21,Gabes,308,Sujet_10,Description_4,Type_4,12/04/2023
+C29195465,Nom_362,Prenom_103,27.28651426764438,Homme,Profession_35,Siliana,814,Sujet_8,Description_5,Type_5,03/18/2023
+C46290415,Nom_449,Prenom_229,32.63908128907628,Femme,Profession_45,Kebili,737,Sujet_7,Description_3,Type_3,07/03/2023
+C47979125,Nom_431,Prenom_343,42.19135296306478,Femme,Profession_74,Sousse,305,Sujet_5,Description_1,Type_1,12/14/2023
+C17518057,Nom_12,Prenom_234,57.48195518043019,Homme,Profession_92,Sousse,101,Sujet_7,Description_7,Type_3,11/10/2023
+C29483049,Nom_544,Prenom_133,23.333782019139505,Homme,Profession_29,Tataouine,175,Sujet_9,Description_1,Type_5,09/10/2023
+C86418824,Nom_650,Prenom_466,19.99961321460178,Homme,Profession_34,Ben Arous,454,Sujet_5,Description_11,Type_3,06/02/2023
+C69537700,Nom_167,Prenom_290,31.5315745573896,Homme,Profession_10,Jendouba,595,Sujet_6,Description_20,Type_1,11/13/2023
+C33556650,Nom_913,Prenom_15,38.7743107597892,Homme,Profession_66,Zaghouan,463,Sujet_2,Description_16,Type_5,05/18/2023
+C14018910,Nom_756,Prenom_740,41.922326446443726,Homme,Profession_45,Medenine,393,Sujet_9,Description_3,Type_3,09/13/2023
+C25291956,Nom_58,Prenom_260,63.80243960872003,Homme,Profession_47,Siliana,831,Sujet_5,Description_5,Type_2,06/15/2023
+C59950596,Nom_318,Prenom_669,28.511071174430025,Homme,Profession_83,Le Kef,674,Sujet_7,Description_1,Type_1,02/23/2023
+C91999150,Nom_402,Prenom_941,45.260642999259126,Homme,Profession_87,Gafsa,498,Sujet_4,Description_19,Type_1,05/03/2023
+C71659158,Nom_439,Prenom_14,34.546770098287205,Homme,Profession_2,Sfax,863,Sujet_10,Description_6,Type_1,02/11/2023
+C91233895,Nom_102,Prenom_612,26.545083461232448,Femme,Profession_40,Beja,285,Sujet_7,Description_18,Type_4,10/09/2023
+C88994867,Nom_387,Prenom_424,32.56018450515041,Femme,Profession_19,Gafsa,415,Sujet_1,Description_16,Type_1,01/04/2023
+C65859802,Nom_995,Prenom_147,21.937897588046283,Homme,Profession_82,Monastir,775,Sujet_2,Description_3,Type_5,08/12/2023
+C33845657,Nom_745,Prenom_725,30.14521170740055,Homme,Profession_76,Ariana,230,Sujet_9,Description_2,Type_4,02/06/2023
+C95281306,Nom_212,Prenom_962,32.10844501542228,Homme,Profession_5,Mahdia,709,Sujet_8,Description_17,Type_5,06/18/2023
+C80316099,Nom_817,Prenom_908,49.97820082502464,Femme,Profession_70,Sidi Bouzid,959,Sujet_7,Description_18,Type_1,04/10/2023
+C49504212,Nom_66,Prenom_143,49.83333726242235,Femme,Profession_8,Sousse,720,Sujet_2,Description_11,Type_2,04/18/2023
+C75149380,Nom_756,Prenom_792,40.836725562468935,Femme,Profession_24,La Manouba,493,Sujet_5,Description_4,Type_5,05/23/2023
+C38283924,Nom_222,Prenom_254,28.70209078454787,Homme,Profession_70,Gabes,928,Sujet_3,Description_8,Type_3,05/03/2023
+C20564569,Nom_525,Prenom_489,46.571570870611666,Femme,Profession_97,Medenine,391,Sujet_4,Description_17,Type_1,04/19/2023
+C66840533,Nom_579,Prenom_982,24.130842966090015,Homme,Profession_99,Ben Arous,634,Sujet_8,Description_2,Type_4,07/23/2023
+C56884244,Nom_770,Prenom_170,42.91758653082149,Homme,Profession_3,Tataouine,752,Sujet_3,Description_3,Type_4,03/23/2023
+C94890187,Nom_940,Prenom_870,33.04837887992976,Femme,Profession_89,Tozeur,231,Sujet_1,Description_8,Type_3,10/28/2023
+C38643683,Nom_225,Prenom_449,25.556547508251985,Homme,Profession_66,Tataouine,543,Sujet_10,Description_16,Type_5,01/27/2023
+C54765504,Nom_1,Prenom_997,29.379787682177817,Femme,Profession_92,Kasserine,666,Sujet_1,Description_7,Type_5,04/03/2023
+C26729418,Nom_111,Prenom_644,32.533215752444065,Femme,Profession_61,Ariana,658,Sujet_6,Description_8,Type_2,04/11/2023
+C46299082,Nom_539,Prenom_801,30.828059156289754,Femme,Profession_36,Gafsa,543,Sujet_3,Description_3,Type_2,10/10/2023
+C40836548,Nom_46,Prenom_75,59.17344890867226,Femme,Profession_96,Gabes,550,Sujet_1,Description_6,Type_4,07/26/2023
+C53741985,Nom_615,Prenom_239,30.01727935732393,Femme,Profession_99,Nabeul,998,Sujet_8,Description_11,Type_3,12/14/2023
+C84253715,Nom_80,Prenom_364,41.70597700695342,Femme,Profession_81,Tataouine,299,Sujet_3,Description_5,Type_3,01/26/2023
+C56930055,Nom_752,Prenom_201,29.170855008748816,Homme,Profession_82,Kasserine,826,Sujet_9,Description_9,Type_5,02/18/2023
+C95084118,Nom_872,Prenom_201,38.53415061046153,Homme,Profession_20,Gabes,995,Sujet_1,Description_10,Type_4,12/25/2023
+C12890591,Nom_852,Prenom_299,31.328124944172906,Homme,Profession_100,Bizerte,664,Sujet_5,Description_17,Type_5,09/22/2023
+C13125289,Nom_989,Prenom_187,37.52358050228568,Femme,Profession_18,Monastir,799,Sujet_4,Description_19,Type_2,03/05/2023
+C50605974,Nom_924,Prenom_897,44.291452185956665,Femme,Profession_26,Tunis,478,Sujet_7,Description_16,Type_2,08/22/2023
+C40155613,Nom_83,Prenom_635,36.02131182221707,Femme,Profession_52,Le Kef,915,Sujet_8,Description_7,Type_4,08/04/2023
+C89533367,Nom_302,Prenom_269,33.40683021596763,Homme,Profession_36,Kasserine,620,Sujet_5,Description_17,Type_5,12/12/2023
+C77951844,Nom_348,Prenom_278,27.567341272635765,Homme,Profession_13,Siliana,369,Sujet_5,Description_16,Type_5,09/17/2023
+C21044507,Nom_127,Prenom_494,26.168867525572416,Femme,Profession_26,Kasserine,432,Sujet_10,Description_7,Type_4,08/21/2023
+C51254888,Nom_137,Prenom_805,25.190902488946172,Femme,Profession_11,Bizerte,531,Sujet_3,Description_13,Type_2,07/27/2023
+C47021246,Nom_530,Prenom_750,37.04149425255281,Femme,Profession_20,Ben Arous,709,Sujet_4,Description_6,Type_4,04/10/2023
+C25311000,Nom_514,Prenom_433,25.63687444331463,Femme,Profession_4,Monastir,294,Sujet_4,Description_19,Type_3,03/28/2023
+C55407220,Nom_686,Prenom_919,50.44053252979995,Homme,Profession_21,Zaghouan,695,Sujet_8,Description_11,Type_2,06/12/2023
+C94285300,Nom_341,Prenom_85,46.622282996973624,Homme,Profession_1,Bizerte,899,Sujet_9,Description_12,Type_2,07/22/2023
+C30734651,Nom_368,Prenom_72,43.85460832953967,Homme,Profession_58,Ariana,941,Sujet_6,Description_20,Type_1,08/01/2023
+C18656668,Nom_222,Prenom_384,31.939636162305103,Homme,Profession_66,Sousse,265,Sujet_1,Description_2,Type_5,08/04/2023
+C32090778,Nom_367,Prenom_897,30.327576615087253,Femme,Profession_30,Monastir,897,Sujet_2,Description_20,Type_4,03/03/2023
+C13431766,Nom_121,Prenom_589,60.456737105666406,Homme,Profession_16,Jendouba,777,Sujet_2,Description_15,Type_4,12/23/2023
+C95301054,Nom_629,Prenom_342,30.468749888501094,Femme,Profession_9,Sousse,886,Sujet_9,Description_14,Type_4,04/12/2023
+C19081627,Nom_704,Prenom_469,29.451904886231347,Femme,Profession_91,Kairouan,549,Sujet_10,Description_16,Type_5,06/25/2023
+C89637536,Nom_975,Prenom_772,51.98503613274465,Homme,Profession_7,Gabes,296,Sujet_6,Description_13,Type_1,10/27/2023
+C64790809,Nom_567,Prenom_766,43.74533749175378,Homme,Profession_27,Tunis,684,Sujet_5,Description_15,Type_1,04/16/2023
+C39773092,Nom_744,Prenom_407,48.893456209523805,Femme,Profession_91,Zaghouan,443,Sujet_8,Description_4,Type_4,09/26/2023
+C99594330,Nom_638,Prenom_658,39.80697743270321,Homme,Profession_83,Kairouan,183,Sujet_5,Description_7,Type_2,10/23/2023
+C56585859,Nom_69,Prenom_159,60.68324372130539,Femme,Profession_20,Zaghouan,597,Sujet_8,Description_13,Type_3,05/23/2023
+C56613965,Nom_183,Prenom_264,35.51361455035075,Femme,Profession_79,Kairouan,466,Sujet_4,Description_5,Type_2,06/14/2023
+C77581933,Nom_26,Prenom_126,34.18674665149135,Femme,Profession_64,Mahdia,123,Sujet_8,Description_14,Type_1,08/18/2023
+C83704790,Nom_969,Prenom_403,43.5965745855593,Homme,Profession_29,Le Kef,653,Sujet_5,Description_15,Type_3,01/08/2023
+C81408350,Nom_557,Prenom_190,44.39382339459608,Femme,Profession_8,Zaghouan,266,Sujet_1,Description_11,Type_1,05/25/2023
+C54007036,Nom_283,Prenom_949,42.07864930208502,Femme,Profession_37,Mahdia,964,Sujet_5,Description_10,Type_2,01/03/2023
+C92645015,Nom_33,Prenom_922,41.26703359817266,Femme,Profession_32,Beja,656,Sujet_5,Description_7,Type_5,02/22/2023
+C97769511,Nom_23,Prenom_952,37.29962867861253,Homme,Profession_53,Mahdia,385,Sujet_1,Description_14,Type_2,07/15/2023
+C56439019,Nom_492,Prenom_436,41.14951279815345,Femme,Profession_93,Tunis,753,Sujet_4,Description_18,Type_5,05/06/2023
+C55898979,Nom_879,Prenom_109,20.2534396494875,Femme,Profession_74,La Manouba,749,Sujet_7,Description_1,Type_1,05/24/2023
+C27870285,Nom_539,Prenom_419,36.38798051955671,Femme,Profession_25,Jendouba,906,Sujet_1,Description_17,Type_2,12/16/2023
+C49764552,Nom_554,Prenom_519,36.68040149146565,Homme,Profession_80,Medenine,198,Sujet_8,Description_6,Type_1,12/20/2023
+C68168778,Nom_942,Prenom_408,14.55086054201654,Femme,Profession_70,La Manouba,499,Sujet_5,Description_18,Type_4,12/20/2023
+C96334692,Nom_669,Prenom_546,48.01639104710012,Homme,Profession_62,Medenine,446,Sujet_7,Description_15,Type_5,11/20/2023
+C39352685,Nom_175,Prenom_627,39.73491861845538,Femme,Profession_66,Kebili,559,Sujet_6,Description_3,Type_2,01/14/2023
+C58908224,Nom_891,Prenom_257,26.584072103799496,Femme,Profession_13,Le Kef,860,Sujet_7,Description_2,Type_2,03/22/2023
+C63786856,Nom_522,Prenom_576,44.19860427203092,Homme,Profession_64,Medenine,561,Sujet_1,Description_13,Type_5,10/04/2023
+C48401719,Nom_597,Prenom_971,27.286303492379893,Homme,Profession_71,Medenine,367,Sujet_3,Description_4,Type_2,09/04/2023
+C36094156,Nom_41,Prenom_603,33.08652151990825,Femme,Profession_28,Le Kef,351,Sujet_3,Description_9,Type_5,05/19/2023
+C60473129,Nom_941,Prenom_851,20.702565731036984,Homme,Profession_94,Sidi Bouzid,234,Sujet_8,Description_3,Type_2,09/26/2023
+C64858014,Nom_804,Prenom_447,28.010869693045418,Femme,Profession_100,Kairouan,898,Sujet_10,Description_4,Type_4,05/08/2023
+C95697081,Nom_457,Prenom_880,39.35119917824346,Homme,Profession_93,Medenine,873,Sujet_1,Description_12,Type_3,08/20/2023
+C59766107,Nom_62,Prenom_321,39.261539636514556,Femme,Profession_3,Beja,561,Sujet_7,Description_4,Type_2,04/26/2023
+C83898514,Nom_504,Prenom_667,46.63788240005419,Femme,Profession_20,Nabeul,632,Sujet_8,Description_13,Type_4,01/27/2023
+C30025156,Nom_536,Prenom_267,26.702537434853852,Homme,Profession_30,Zaghouan,816,Sujet_5,Description_10,Type_1,10/04/2023
+C57216862,Nom_428,Prenom_510,29.97795791649594,Femme,Profession_15,Monastir,123,Sujet_1,Description_3,Type_3,10/17/2023
+C80880478,Nom_702,Prenom_660,44.62190887043931,Femme,Profession_26,Beja,326,Sujet_9,Description_7,Type_1,08/03/2023
+C45011057,Nom_61,Prenom_583,29.598273415939737,Homme,Profession_9,Monastir,966,Sujet_9,Description_11,Type_3,04/26/2023
+C26988782,Nom_211,Prenom_559,20.860717441671486,Femme,Profession_54,Medenine,335,Sujet_1,Description_13,Type_5,08/26/2023
+C87730309,Nom_893,Prenom_463,28.47729942072843,Femme,Profession_89,Gafsa,135,Sujet_9,Description_7,Type_4,06/05/2023
+C75204289,Nom_158,Prenom_676,23.486844465212663,Femme,Profession_81,Zaghouan,293,Sujet_4,Description_15,Type_2,01/15/2023
+C19681991,Nom_775,Prenom_155,38.528745334123876,Femme,Profession_78,La Manouba,184,Sujet_4,Description_16,Type_5,10/24/2023
+C88484308,Nom_712,Prenom_388,43.14969935554425,Femme,Profession_58,Sfax,545,Sujet_4,Description_7,Type_4,12/24/2023
+C17833526,Nom_13,Prenom_96,37.107339594827856,Femme,Profession_92,Kasserine,687,Sujet_6,Description_1,Type_5,04/12/2023
+C87584834,Nom_322,Prenom_968,36.07554819389283,Homme,Profession_4,Sfax,725,Sujet_9,Description_18,Type_1,04/19/2023
+C14213030,Nom_923,Prenom_540,29.261193767805075,Femme,Profession_14,Kebili,861,Sujet_5,Description_16,Type_1,10/19/2023
+C53954285,Nom_260,Prenom_843,52.459276319481944,Femme,Profession_23,Gafsa,814,Sujet_3,Description_17,Type_5,04/04/2023
+C23022859,Nom_179,Prenom_563,26.585693116115962,Femme,Profession_5,Sousse,990,Sujet_3,Description_20,Type_4,11/11/2023
+C77022919,Nom_828,Prenom_261,47.079159406795796,Homme,Profession_65,Kasserine,846,Sujet_1,Description_13,Type_2,10/01/2023
+C61871775,Nom_372,Prenom_834,41.732083823524604,Femme,Profession_26,Ariana,379,Sujet_6,Description_4,Type_2,07/19/2023
+C98486358,Nom_222,Prenom_773,20.52286030644379,Femme,Profession_33,Ariana,804,Sujet_3,Description_16,Type_5,10/10/2023
+C36889560,Nom_71,Prenom_851,39.874481326541996,Femme,Profession_92,Kasserine,215,Sujet_1,Description_13,Type_4,05/01/2023
+C81376585,Nom_31,Prenom_714,38.442561271116425,Femme,Profession_69,Tataouine,596,Sujet_9,Description_13,Type_3,07/15/2023
+C78519910,Nom_411,Prenom_403,34.04913152177647,Homme,Profession_4,Gabes,202,Sujet_2,Description_9,Type_3,08/24/2023
+C65004896,Nom_722,Prenom_599,36.116395108434055,Femme,Profession_70,Beja,767,Sujet_5,Description_18,Type_3,05/12/2023
+C24582126,Nom_79,Prenom_859,28.880060600628987,Homme,Profession_20,Bizerte,221,Sujet_5,Description_15,Type_4,02/01/2023
+C37083464,Nom_807,Prenom_657,32.576294353240414,Homme,Profession_29,Sfax,726,Sujet_4,Description_4,Type_4,09/24/2023
+C49582696,Nom_253,Prenom_727,21.814945888571597,Homme,Profession_1,Ben Arous,857,Sujet_4,Description_16,Type_1,09/01/2023
+C18195676,Nom_16,Prenom_622,29.219500625720272,Homme,Profession_13,La Manouba,414,Sujet_8,Description_18,Type_2,02/05/2023
+C40343539,Nom_668,Prenom_745,49.146648035328624,Homme,Profession_93,Kasserine,668,Sujet_4,Description_12,Type_4,04/13/2023
+C34745924,Nom_661,Prenom_266,28.308111866547087,Homme,Profession_91,Ben Arous,407,Sujet_10,Description_10,Type_3,06/21/2023
+C22727352,Nom_628,Prenom_94,28.678549573878797,Femme,Profession_62,Gafsa,521,Sujet_6,Description_10,Type_3,09/25/2023
+C90065903,Nom_940,Prenom_108,43.65294887968081,Femme,Profession_56,Siliana,248,Sujet_1,Description_12,Type_2,06/26/2023
+C82021303,Nom_888,Prenom_348,48.12880196364296,Femme,Profession_8,Monastir,828,Sujet_7,Description_3,Type_3,02/13/2023
+C42741111,Nom_474,Prenom_240,38.930040678359084,Femme,Profession_12,Bizerte,214,Sujet_6,Description_7,Type_5,01/26/2023
+C49727112,Nom_76,Prenom_694,32.60738933153853,Homme,Profession_100,La Manouba,249,Sujet_9,Description_5,Type_3,05/07/2023
+C27763592,Nom_937,Prenom_878,44.138818685702006,Femme,Profession_96,Sidi Bouzid,182,Sujet_5,Description_4,Type_3,07/07/2023
+C52716036,Nom_755,Prenom_456,34.556403088141415,Homme,Profession_21,Sfax,187,Sujet_5,Description_6,Type_2,06/20/2023
+C59335533,Nom_969,Prenom_485,21.149514562315936,Homme,Profession_93,Kebili,880,Sujet_5,Description_5,Type_4,05/09/2023
+C37634006,Nom_955,Prenom_404,48.08632817566357,Femme,Profession_72,Sidi Bouzid,652,Sujet_4,Description_13,Type_3,08/23/2023
+C76530882,Nom_485,Prenom_311,37.037380141926086,Homme,Profession_35,Zaghouan,420,Sujet_1,Description_18,Type_3,03/06/2023
+C33533959,Nom_822,Prenom_155,35.391246169010046,Homme,Profession_42,Bizerte,102,Sujet_4,Description_12,Type_5,06/02/2023
+C75954044,Nom_434,Prenom_848,37.36317573626375,Homme,Profession_52,Monastir,960,Sujet_6,Description_5,Type_4,07/12/2023
+C47218568,Nom_981,Prenom_567,37.99502559356151,Femme,Profession_45,Monastir,533,Sujet_4,Description_14,Type_5,11/26/2023
+C67977083,Nom_650,Prenom_213,34.37475153675058,Homme,Profession_76,Bizerte,492,Sujet_2,Description_1,Type_1,04/19/2023
+C23963846,Nom_945,Prenom_772,41.54296157907235,Femme,Profession_42,Medenine,908,Sujet_6,Description_18,Type_2,03/20/2023
+C59472031,Nom_805,Prenom_329,29.41461702469488,Femme,Profession_6,Ben Arous,435,Sujet_3,Description_1,Type_5,01/16/2023
+C89822492,Nom_384,Prenom_331,40.747791482640345,Femme,Profession_61,Jendouba,904,Sujet_8,Description_9,Type_5,06/16/2023
+C87964341,Nom_553,Prenom_718,24.868190940013058,Femme,Profession_30,Sidi Bouzid,873,Sujet_3,Description_16,Type_3,09/07/2023
+C51494473,Nom_486,Prenom_878,53.81027953392802,Homme,Profession_36,Jendouba,949,Sujet_3,Description_1,Type_4,07/16/2023
+C31022773,Nom_973,Prenom_406,56.489780328093104,Femme,Profession_74,Tozeur,623,Sujet_4,Description_1,Type_3,07/09/2023
+C39438626,Nom_697,Prenom_612,38.95024749044525,Homme,Profession_97,Sousse,649,Sujet_1,Description_12,Type_2,08/17/2023
+C22333881,Nom_137,Prenom_831,41.80807018941029,Femme,Profession_35,Tataouine,748,Sujet_10,Description_7,Type_2,12/09/2023
+C51196415,Nom_383,Prenom_904,43.84903657994647,Homme,Profession_14,Ben Arous,471,Sujet_8,Description_8,Type_3,03/12/2023
+C44022690,Nom_567,Prenom_656,54.93874107128994,Homme,Profession_12,Gafsa,449,Sujet_4,Description_6,Type_4,05/05/2023
+C53435960,Nom_904,Prenom_387,35.70123655915083,Femme,Profession_71,Beja,609,Sujet_2,Description_15,Type_3,04/02/2023
+C10007197,Nom_862,Prenom_94,24.494776222151216,Homme,Profession_19,Mahdia,737,Sujet_7,Description_16,Type_5,04/26/2023
+C75278737,Nom_984,Prenom_739,46.660165323362975,Homme,Profession_70,Medenine,557,Sujet_5,Description_3,Type_2,11/24/2023
+C67913782,Nom_170,Prenom_896,47.5520051172322,Homme,Profession_91,Kebili,390,Sujet_9,Description_17,Type_1,05/18/2023
+C47053125,Nom_484,Prenom_185,38.29482315178371,Homme,Profession_54,Medenine,140,Sujet_2,Description_18,Type_4,06/08/2023
+C48348007,Nom_8,Prenom_770,32.99807894794302,Femme,Profession_22,Bizerte,677,Sujet_1,Description_10,Type_2,11/10/2023
+C96750357,Nom_215,Prenom_104,42.156689998297686,Femme,Profession_31,Ariana,518,Sujet_7,Description_7,Type_5,01/14/2023
+C35798823,Nom_470,Prenom_504,33.232230139522414,Femme,Profession_82,Tunis,943,Sujet_5,Description_18,Type_4,12/06/2023
+C72482539,Nom_691,Prenom_65,41.661819027543345,Femme,Profession_13,Mahdia,126,Sujet_1,Description_3,Type_4,02/04/2023
+C53740900,Nom_839,Prenom_792,10.399736948570812,Femme,Profession_89,Ben Arous,403,Sujet_3,Description_8,Type_5,10/09/2023
+C11861697,Nom_271,Prenom_645,36.0749499470381,Homme,Profession_5,La Manouba,634,Sujet_8,Description_19,Type_5,04/17/2023
+C44208255,Nom_509,Prenom_479,53.91437014114731,Homme,Profession_66,Kebili,185,Sujet_6,Description_2,Type_1,08/05/2023
+C62576708,Nom_448,Prenom_63,56.63668157551312,Homme,Profession_40,Gabes,527,Sujet_8,Description_14,Type_5,04/16/2023
+C51250081,Nom_862,Prenom_23,34.953014187602996,Homme,Profession_55,Kebili,380,Sujet_6,Description_12,Type_5,12/18/2023
+C24400081,Nom_679,Prenom_855,34.014456691735944,Homme,Profession_37,Tozeur,892,Sujet_4,Description_12,Type_1,08/11/2023
+C50289901,Nom_436,Prenom_952,21.77591549228765,Homme,Profession_14,Sousse,207,Sujet_2,Description_20,Type_4,11/14/2023
+C73484522,Nom_820,Prenom_299,5.469961656259628,Femme,Profession_90,Gabes,895,Sujet_8,Description_20,Type_1,06/03/2023
+C91062042,Nom_892,Prenom_750,31.693157351305985,Homme,Profession_98,Sfax,343,Sujet_2,Description_18,Type_5,11/04/2023
+C74111980,Nom_595,Prenom_617,43.73368537274023,Homme,Profession_8,Tataouine,828,Sujet_3,Description_2,Type_4,10/27/2023
+C29065174,Nom_793,Prenom_940,24.956753327649878,Homme,Profession_41,Tunis,539,Sujet_2,Description_5,Type_3,03/28/2023
+C11891351,Nom_563,Prenom_563,33.81189349208857,Homme,Profession_9,Beja,831,Sujet_2,Description_11,Type_2,12/15/2023
+C13297094,Nom_643,Prenom_397,41.21957942765216,Homme,Profession_62,Le Kef,457,Sujet_5,Description_17,Type_2,01/01/2023
+C77346367,Nom_805,Prenom_60,39.99441845994134,Femme,Profession_19,Le Kef,275,Sujet_9,Description_12,Type_3,06/09/2023
+C25707164,Nom_469,Prenom_55,41.48062369823222,Femme,Profession_81,Bizerte,780,Sujet_6,Description_13,Type_1,11/17/2023
+C51815596,Nom_945,Prenom_455,37.92914630641739,Femme,Profession_55,Sidi Bouzid,559,Sujet_10,Description_14,Type_1,02/24/2023
+C62617954,Nom_232,Prenom_43,31.79946414763959,Homme,Profession_53,Mahdia,893,Sujet_4,Description_10,Type_4,11/23/2023
+C24324103,Nom_992,Prenom_554,50.254035151664624,Femme,Profession_24,Tunis,909,Sujet_10,Description_15,Type_3,05/01/2023
+C65197326,Nom_853,Prenom_207,61.17308256630878,Homme,Profession_65,Siliana,782,Sujet_4,Description_10,Type_4,10/28/2023
+C55536843,Nom_886,Prenom_316,11.84366637060078,Homme,Profession_84,Kairouan,722,Sujet_5,Description_13,Type_3,11/10/2023
+C17698461,Nom_858,Prenom_850,29.846953841390167,Femme,Profession_67,Gabes,368,Sujet_9,Description_19,Type_3,06/12/2023
+C63770569,Nom_525,Prenom_769,28.3429159814914,Femme,Profession_58,Jendouba,977,Sujet_4,Description_17,Type_3,11/27/2023
+C56036617,Nom_141,Prenom_171,26.971438517053606,Homme,Profession_93,Ben Arous,696,Sujet_5,Description_7,Type_1,04/09/2023
+C25947003,Nom_645,Prenom_913,32.41823590970836,Femme,Profession_28,Medenine,663,Sujet_5,Description_12,Type_5,09/28/2023
+C74361113,Nom_335,Prenom_211,37.36471272671176,Homme,Profession_98,Sousse,846,Sujet_7,Description_20,Type_4,03/04/2023
+C60907514,Nom_825,Prenom_252,40.84701305667609,Homme,Profession_42,Medenine,503,Sujet_5,Description_16,Type_4,03/11/2023
+C68913913,Nom_888,Prenom_474,38.072730051271584,Homme,Profession_99,Bizerte,852,Sujet_1,Description_5,Type_2,06/21/2023
+C61962398,Nom_228,Prenom_827,40.80471635262548,Femme,Profession_82,Gabes,412,Sujet_2,Description_9,Type_3,02/22/2023
+C59171047,Nom_958,Prenom_306,41.20084213593189,Homme,Profession_97,Kebili,422,Sujet_7,Description_1,Type_1,12/28/2023
+C79344940,Nom_647,Prenom_941,44.707871278249414,Homme,Profession_14,Tunis,622,Sujet_4,Description_7,Type_4,05/25/2023
+C89233313,Nom_961,Prenom_492,38.65102138207229,Femme,Profession_26,Sfax,368,Sujet_1,Description_16,Type_4,05/27/2023
+C21581477,Nom_699,Prenom_91,30.437171351896183,Homme,Profession_49,Ben Arous,476,Sujet_4,Description_10,Type_2,09/11/2023
+C14370406,Nom_429,Prenom_832,38.763734441202395,Femme,Profession_94,Ariana,291,Sujet_5,Description_19,Type_1,04/19/2023
+C37548730,Nom_348,Prenom_462,36.94057757977712,Homme,Profession_97,Beja,706,Sujet_5,Description_9,Type_5,01/02/2023
+C28745001,Nom_978,Prenom_986,22.615301076179104,Homme,Profession_91,Kairouan,649,Sujet_8,Description_7,Type_2,05/08/2023
+C45465583,Nom_705,Prenom_82,30.493016884713587,Femme,Profession_26,Le Kef,978,Sujet_1,Description_17,Type_1,05/08/2023
+C77489551,Nom_571,Prenom_484,37.533271205595526,Femme,Profession_32,Gabes,758,Sujet_10,Description_16,Type_3,03/07/2023
+C50823985,Nom_253,Prenom_511,41.001347153077724,Femme,Profession_59,La Manouba,876,Sujet_9,Description_18,Type_3,02/19/2023
+C55203049,Nom_724,Prenom_955,46.713534417652475,Homme,Profession_100,Jendouba,876,Sujet_3,Description_15,Type_2,06/25/2023
+C64756104,Nom_796,Prenom_751,29.20880867359846,Homme,Profession_84,Ariana,135,Sujet_9,Description_11,Type_5,10/17/2023
+C32905227,Nom_462,Prenom_672,28.78213238278628,Femme,Profession_19,Tozeur,412,Sujet_7,Description_16,Type_2,01/04/2023
+C74222396,Nom_678,Prenom_652,36.64720602737598,Homme,Profession_92,Siliana,510,Sujet_7,Description_4,Type_2,06/21/2023
+C57638576,Nom_472,Prenom_348,17.750233485225525,Femme,Profession_42,Bizerte,908,Sujet_1,Description_1,Type_5,08/12/2023
+C55689062,Nom_459,Prenom_745,35.696820815093666,Homme,Profession_3,Nabeul,908,Sujet_2,Description_3,Type_3,01/08/2023
+C26294999,Nom_311,Prenom_904,41.15713283085376,Femme,Profession_3,Beja,689,Sujet_7,Description_14,Type_2,06/23/2023
+C43288407,Nom_821,Prenom_960,48.491292066612786,Femme,Profession_57,Zaghouan,248,Sujet_8,Description_15,Type_3,09/25/2023
+C36789059,Nom_591,Prenom_725,39.94293942037181,Homme,Profession_40,Nabeul,687,Sujet_9,Description_17,Type_3,04/06/2023
+C74230092,Nom_36,Prenom_620,43.841334215364014,Femme,Profession_54,Siliana,517,Sujet_9,Description_12,Type_3,01/02/2023
+C12039254,Nom_583,Prenom_769,30.98677861841814,Femme,Profession_11,Sfax,212,Sujet_6,Description_17,Type_1,12/21/2023
+C82683910,Nom_152,Prenom_461,26.96108769394035,Homme,Profession_60,Kebili,236,Sujet_8,Description_16,Type_3,07/22/2023
+C33442369,Nom_959,Prenom_989,51.09914905517432,Femme,Profession_22,Ariana,963,Sujet_3,Description_7,Type_2,12/04/2023
+C94635043,Nom_595,Prenom_592,38.23640141868241,Femme,Profession_21,Sidi Bouzid,517,Sujet_2,Description_2,Type_3,05/11/2023
+C28163629,Nom_152,Prenom_48,32.59487041549573,Femme,Profession_96,Nabeul,217,Sujet_9,Description_1,Type_3,12/21/2023
+C93963024,Nom_319,Prenom_287,36.95708201218093,Homme,Profession_72,Ariana,714,Sujet_4,Description_4,Type_1,09/20/2023
+C77452027,Nom_327,Prenom_610,39.424862978274625,Femme,Profession_48,Mahdia,759,Sujet_8,Description_17,Type_2,07/24/2023
+C36149737,Nom_946,Prenom_998,38.480182424905365,Femme,Profession_77,Ben Arous,526,Sujet_1,Description_11,Type_1,01/25/2023
+C13770967,Nom_826,Prenom_305,41.9932667019956,Femme,Profession_85,Kairouan,988,Sujet_4,Description_18,Type_4,04/10/2023
+C49594561,Nom_46,Prenom_94,35.18902080170485,Femme,Profession_23,Kairouan,235,Sujet_3,Description_13,Type_2,03/02/2023
+C66071624,Nom_738,Prenom_966,39.77960299210153,Homme,Profession_72,Gabes,195,Sujet_10,Description_17,Type_3,07/09/2023
+C69905360,Nom_589,Prenom_689,24.01801817848184,Femme,Profession_93,Kairouan,197,Sujet_3,Description_14,Type_3,09/23/2023
+C41517172,Nom_644,Prenom_547,40.91499490802578,Femme,Profession_47,Le Kef,966,Sujet_4,Description_11,Type_2,01/02/2023
+C72744819,Nom_208,Prenom_411,25.223169383820753,Homme,Profession_99,Kairouan,868,Sujet_8,Description_17,Type_5,02/24/2023
+C59299856,Nom_28,Prenom_887,28.48367754021243,Homme,Profession_40,Monastir,877,Sujet_2,Description_5,Type_4,06/05/2023
+C20864589,Nom_188,Prenom_853,38.7816346349357,Homme,Profession_71,Beja,288,Sujet_2,Description_20,Type_4,12/10/2023
+C11841971,Nom_830,Prenom_178,23.37687524521612,Femme,Profession_57,Sidi Bouzid,418,Sujet_6,Description_16,Type_1,05/11/2023
+C97735493,Nom_298,Prenom_506,52.79025310842727,Femme,Profession_46,Sousse,360,Sujet_8,Description_10,Type_3,12/22/2023
+C14476161,Nom_657,Prenom_851,39.806823518997284,Homme,Profession_74,Gafsa,807,Sujet_10,Description_14,Type_3,11/13/2023
+C51223647,Nom_584,Prenom_646,33.55445727250137,Homme,Profession_46,Zaghouan,857,Sujet_4,Description_15,Type_1,01/01/2023
+C29907111,Nom_691,Prenom_818,31.324410530347713,Femme,Profession_91,Medenine,185,Sujet_2,Description_9,Type_1,06/11/2023
+C42953256,Nom_898,Prenom_34,24.31983293441395,Homme,Profession_31,Siliana,437,Sujet_2,Description_4,Type_1,12/04/2023
+C31720068,Nom_139,Prenom_227,22.876735498477117,Homme,Profession_78,Tunis,341,Sujet_1,Description_10,Type_1,05/02/2023
+C91102048,Nom_392,Prenom_905,41.287190661913264,Homme,Profession_9,Kairouan,622,Sujet_6,Description_5,Type_3,11/01/2023
+C11570503,Nom_205,Prenom_171,61.02684312672834,Femme,Profession_67,Tozeur,533,Sujet_5,Description_6,Type_1,01/19/2023
+C45755736,Nom_154,Prenom_398,39.73089121743531,Homme,Profession_54,Siliana,339,Sujet_2,Description_18,Type_3,08/02/2023
+C50549075,Nom_30,Prenom_401,35.260587790826634,Femme,Profession_36,Kasserine,603,Sujet_9,Description_9,Type_5,03/20/2023
+C65881009,Nom_541,Prenom_224,35.177246536246024,Femme,Profession_17,Sousse,982,Sujet_3,Description_12,Type_1,09/22/2023
+C37745467,Nom_174,Prenom_396,35.863564255729116,Homme,Profession_56,Gafsa,266,Sujet_6,Description_12,Type_5,03/02/2023
+C65461256,Nom_136,Prenom_789,24.7153981151601,Homme,Profession_82,Ben Arous,565,Sujet_7,Description_6,Type_3,06/02/2023
+C67120974,Nom_547,Prenom_269,36.995447966069385,Femme,Profession_1,Kairouan,541,Sujet_8,Description_7,Type_3,02/14/2023
+C57926367,Nom_975,Prenom_54,25.974904095427934,Homme,Profession_21,Gabes,859,Sujet_8,Description_1,Type_2,07/05/2023
+C22193575,Nom_895,Prenom_447,42.534544766309736,Homme,Profession_85,Bizerte,589,Sujet_8,Description_11,Type_1,02/16/2023
+C24473916,Nom_943,Prenom_641,31.88065676683121,Homme,Profession_10,Monastir,957,Sujet_6,Description_2,Type_4,08/09/2023
+C46588480,Nom_557,Prenom_57,23.60697667268835,Homme,Profession_28,Gabes,560,Sujet_1,Description_14,Type_4,11/24/2023
+C44165529,Nom_709,Prenom_578,37.269178540292664,Homme,Profession_11,Tozeur,484,Sujet_10,Description_15,Type_5,11/14/2023
+C91811872,Nom_131,Prenom_357,45.834172232576904,Homme,Profession_87,Le Kef,395,Sujet_4,Description_17,Type_2,03/08/2023
+C43094386,Nom_515,Prenom_332,18.774516993114204,Homme,Profession_7,La Manouba,280,Sujet_7,Description_19,Type_5,06/04/2023
+C42221553,Nom_5,Prenom_68,31.165879335742357,Homme,Profession_14,Beja,437,Sujet_2,Description_15,Type_1,01/25/2023
+C73548198,Nom_957,Prenom_124,35.19355164524105,Femme,Profession_64,Kasserine,734,Sujet_6,Description_11,Type_3,06/12/2023
+C85887427,Nom_849,Prenom_141,31.948455030423887,Femme,Profession_29,Tunis,448,Sujet_5,Description_8,Type_4,01/26/2023
+C42403838,Nom_654,Prenom_342,38.042557186904475,Homme,Profession_28,Tunis,130,Sujet_6,Description_1,Type_2,09/09/2023
+C54097987,Nom_68,Prenom_116,42.95749209980786,Femme,Profession_1,Zaghouan,432,Sujet_9,Description_15,Type_4,10/13/2023
+C79532357,Nom_285,Prenom_884,44.965374095497246,Homme,Profession_10,Kasserine,202,Sujet_6,Description_12,Type_5,09/14/2023
+C73988651,Nom_861,Prenom_436,17.036218854404492,Femme,Profession_29,Kebili,859,Sujet_10,Description_10,Type_2,02/10/2023
+C84278205,Nom_531,Prenom_158,41.95363495350722,Femme,Profession_5,Sfax,737,Sujet_3,Description_19,Type_5,02/12/2023
+C53118123,Nom_992,Prenom_346,17.442388865414472,Femme,Profession_54,Bizerte,562,Sujet_5,Description_12,Type_4,05/01/2023
+C64152852,Nom_917,Prenom_485,24.381922395822876,Femme,Profession_95,Sidi Bouzid,455,Sujet_3,Description_16,Type_4,02/16/2023
+C94486354,Nom_985,Prenom_504,18.225829224289452,Femme,Profession_51,Beja,387,Sujet_9,Description_9,Type_1,11/28/2023
+C11338445,Nom_421,Prenom_837,29.031880513432764,Femme,Profession_23,Tunis,538,Sujet_7,Description_6,Type_5,11/26/2023
+C50911588,Nom_360,Prenom_495,35.68035254488486,Homme,Profession_6,La Manouba,299,Sujet_10,Description_7,Type_1,12/28/2023
+C58600119,Nom_995,Prenom_937,55.05539932291636,Femme,Profession_69,Zaghouan,525,Sujet_7,Description_10,Type_3,11/09/2023
+C15546702,Nom_755,Prenom_508,47.99801516690255,Homme,Profession_74,Tunis,952,Sujet_10,Description_20,Type_3,04/22/2023
+C13074808,Nom_644,Prenom_831,27.019671444803674,Femme,Profession_55,Kasserine,509,Sujet_7,Description_16,Type_5,08/17/2023
+C76844475,Nom_911,Prenom_197,47.729300493304116,Homme,Profession_32,Tunis,517,Sujet_8,Description_7,Type_5,01/08/2023
+C79539893,Nom_842,Prenom_173,40.452778279083496,Femme,Profession_56,Sidi Bouzid,287,Sujet_3,Description_19,Type_1,10/18/2023
+C60214342,Nom_651,Prenom_140,33.38224116759423,Femme,Profession_65,Monastir,676,Sujet_8,Description_7,Type_3,05/03/2023
+C88084240,Nom_18,Prenom_365,53.85940056526128,Femme,Profession_16,Kasserine,537,Sujet_9,Description_9,Type_2,12/26/2023
+C36906081,Nom_589,Prenom_835,52.48707208885193,Homme,Profession_5,Kairouan,833,Sujet_1,Description_16,Type_5,08/18/2023
+C77690599,Nom_71,Prenom_675,36.10287057182183,Homme,Profession_24,Mahdia,701,Sujet_7,Description_1,Type_4,09/24/2023
+C70100626,Nom_426,Prenom_695,55.11056733202521,Femme,Profession_58,Le Kef,823,Sujet_3,Description_2,Type_2,04/15/2023
+C37806823,Nom_339,Prenom_610,37.995135063407474,Femme,Profession_9,Mahdia,346,Sujet_2,Description_9,Type_4,05/13/2023
+C32873628,Nom_253,Prenom_664,42.92878431920616,Homme,Profession_14,Monastir,833,Sujet_10,Description_16,Type_5,12/21/2023
+C71136428,Nom_815,Prenom_737,42.899108199428625,Femme,Profession_94,Le Kef,490,Sujet_5,Description_6,Type_2,08/11/2023
+C73253051,Nom_603,Prenom_754,42.78372873658093,Femme,Profession_21,Nabeul,723,Sujet_2,Description_16,Type_4,09/07/2023
+C64851191,Nom_32,Prenom_181,28.78260139390595,Femme,Profession_5,Monastir,631,Sujet_7,Description_14,Type_3,06/15/2023
+C56018828,Nom_104,Prenom_966,39.97866111330865,Femme,Profession_1,Tataouine,611,Sujet_7,Description_9,Type_2,01/19/2023
+C11176721,Nom_828,Prenom_97,42.443653756831104,Femme,Profession_8,Tunis,248,Sujet_9,Description_5,Type_4,07/16/2023
+C66688283,Nom_650,Prenom_728,32.504316439037865,Femme,Profession_35,Siliana,772,Sujet_1,Description_15,Type_3,09/16/2023
+C97134695,Nom_599,Prenom_573,37.31823645341966,Femme,Profession_42,Gabes,793,Sujet_5,Description_18,Type_2,11/19/2023
+C75703639,Nom_653,Prenom_764,53.36709838243205,Homme,Profession_62,Zaghouan,855,Sujet_1,Description_13,Type_5,09/20/2023
+C55114103,Nom_143,Prenom_486,31.54665782723469,Homme,Profession_11,Sfax,425,Sujet_10,Description_5,Type_4,08/05/2023
+C10980720,Nom_411,Prenom_517,42.1333997238786,Homme,Profession_67,Tataouine,721,Sujet_7,Description_11,Type_5,10/01/2023
+C62555302,Nom_342,Prenom_328,48.885148932525695,Homme,Profession_95,Zaghouan,163,Sujet_6,Description_18,Type_4,01/10/2023
+C34399065,Nom_860,Prenom_254,39.44785906808336,Homme,Profession_43,Kairouan,457,Sujet_7,Description_6,Type_2,03/01/2023
+C59698690,Nom_548,Prenom_140,37.59033328351402,Homme,Profession_30,Tataouine,651,Sujet_10,Description_19,Type_3,07/04/2023
+C67054419,Nom_114,Prenom_742,37.36677700631344,Femme,Profession_78,Sidi Bouzid,527,Sujet_4,Description_18,Type_4,05/18/2023
+C23943975,Nom_160,Prenom_103,45.19078757146151,Femme,Profession_92,Gabes,708,Sujet_4,Description_15,Type_4,10/04/2023
+C69232976,Nom_192,Prenom_458,35.43992277519523,Homme,Profession_92,Nabeul,840,Sujet_7,Description_7,Type_3,01/14/2023
+C56799424,Nom_730,Prenom_180,46.48445525377556,Femme,Profession_15,Kairouan,218,Sujet_3,Description_7,Type_4,07/18/2023
+C25016323,Nom_420,Prenom_176,44.74978013523506,Homme,Profession_53,Tozeur,550,Sujet_6,Description_2,Type_5,10/12/2023
+C99281826,Nom_244,Prenom_22,52.770576063170076,Homme,Profession_93,Sidi Bouzid,439,Sujet_2,Description_4,Type_2,04/07/2023
+C21858817,Nom_92,Prenom_615,39.47001497205393,Femme,Profession_37,Tozeur,982,Sujet_6,Description_6,Type_2,07/20/2023
+C80351968,Nom_242,Prenom_41,28.482482816767174,Homme,Profession_76,Beja,888,Sujet_1,Description_12,Type_4,11/17/2023
+C63806033,Nom_865,Prenom_788,33.55961491694419,Homme,Profession_84,Kasserine,984,Sujet_6,Description_16,Type_2,02/15/2023
+C80527070,Nom_605,Prenom_417,43.98964195841151,Homme,Profession_12,Monastir,993,Sujet_6,Description_13,Type_3,11/21/2023
+C38671348,Nom_633,Prenom_116,44.9323244776729,Homme,Profession_17,Monastir,549,Sujet_3,Description_16,Type_3,06/26/2023
+C43708014,Nom_753,Prenom_330,41.82479632409017,Femme,Profession_46,Kasserine,722,Sujet_8,Description_13,Type_4,08/12/2023
+C69402267,Nom_4,Prenom_886,30.79568192771466,Femme,Profession_36,Ariana,381,Sujet_3,Description_16,Type_3,06/04/2023
+C20737650,Nom_904,Prenom_874,23.581633416836002,Femme,Profession_14,Zaghouan,518,Sujet_9,Description_4,Type_1,12/08/2023
+C48605727,Nom_203,Prenom_478,26.379198047252324,Femme,Profession_97,Kebili,259,Sujet_3,Description_15,Type_2,02/12/2023
+C82223163,Nom_22,Prenom_480,30.97197513008212,Femme,Profession_6,Ben Arous,297,Sujet_8,Description_19,Type_4,10/16/2023
+C51092999,Nom_866,Prenom_465,42.70941454016256,Homme,Profession_33,Monastir,214,Sujet_5,Description_11,Type_5,03/20/2023
+C97486959,Nom_291,Prenom_473,45.060899381977514,Femme,Profession_12,Siliana,648,Sujet_1,Description_16,Type_2,04/21/2023
+C70907700,Nom_417,Prenom_592,22.44572577356685,Femme,Profession_88,Sidi Bouzid,239,Sujet_5,Description_3,Type_3,01/03/2023
+C98293450,Nom_526,Prenom_835,46.146505352716346,Homme,Profession_47,Ariana,196,Sujet_10,Description_6,Type_1,09/03/2023
+C45745865,Nom_209,Prenom_63,30.060740293613883,Femme,Profession_47,Kairouan,983,Sujet_8,Description_9,Type_4,03/06/2023
+C64754735,Nom_798,Prenom_589,37.378958389048414,Femme,Profession_51,Sousse,442,Sujet_1,Description_4,Type_5,05/11/2023
+C14885993,Nom_896,Prenom_190,58.28016165688616,Homme,Profession_33,Gafsa,936,Sujet_2,Description_12,Type_1,08/01/2023
+C59457520,Nom_39,Prenom_148,22.615350549260405,Homme,Profession_89,Gafsa,620,Sujet_7,Description_5,Type_3,12/28/2023
+C49918652,Nom_642,Prenom_149,28.211533358362658,Femme,Profession_91,Medenine,869,Sujet_4,Description_19,Type_5,08/20/2023
+C48339722,Nom_215,Prenom_602,45.02518032247459,Femme,Profession_5,Tataouine,644,Sujet_3,Description_19,Type_4,11/03/2023
+C23874852,Nom_475,Prenom_933,36.096249399391645,Femme,Profession_86,Gafsa,691,Sujet_9,Description_13,Type_2,11/27/2023
+C29494224,Nom_159,Prenom_194,31.19173558135852,Homme,Profession_76,Jendouba,263,Sujet_7,Description_4,Type_4,04/07/2023
+C60509697,Nom_98,Prenom_27,24.337538435793668,Homme,Profession_54,Tozeur,353,Sujet_10,Description_7,Type_1,02/06/2023
+C74883896,Nom_573,Prenom_355,44.26316687794126,Femme,Profession_63,Gafsa,771,Sujet_8,Description_11,Type_1,08/05/2023
+C57392349,Nom_366,Prenom_710,48.21986962470212,Homme,Profession_95,Ben Arous,132,Sujet_2,Description_8,Type_5,07/03/2023
+C63505452,Nom_401,Prenom_617,28.71426098399213,Homme,Profession_86,Mahdia,333,Sujet_6,Description_20,Type_1,05/01/2023
+C28352229,Nom_332,Prenom_153,20.669546834426303,Femme,Profession_34,Sidi Bouzid,918,Sujet_10,Description_6,Type_3,05/24/2023
+C33515332,Nom_649,Prenom_929,32.45802887347643,Homme,Profession_47,La Manouba,546,Sujet_4,Description_4,Type_2,10/04/2023
+C57050880,Nom_238,Prenom_219,17.150353181862,Homme,Profession_32,Kairouan,531,Sujet_9,Description_9,Type_3,09/21/2023
+C20805773,Nom_862,Prenom_210,16.311756417669784,Homme,Profession_98,Kairouan,213,Sujet_3,Description_20,Type_2,12/21/2023
+C33006878,Nom_498,Prenom_613,33.01443059415298,Homme,Profession_96,Bizerte,805,Sujet_8,Description_9,Type_2,12/23/2023
+C12443355,Nom_479,Prenom_715,56.018189835657395,Homme,Profession_15,Jendouba,186,Sujet_6,Description_19,Type_4,08/15/2023
+C68691619,Nom_72,Prenom_520,40.343067687890716,Homme,Profession_5,Kasserine,565,Sujet_4,Description_15,Type_3,03/18/2023
+C21671745,Nom_137,Prenom_204,36.835902260841806,Femme,Profession_64,Tozeur,717,Sujet_4,Description_5,Type_1,08/18/2023
+C94181214,Nom_260,Prenom_810,15.901391637958998,Homme,Profession_78,Bizerte,545,Sujet_6,Description_16,Type_3,04/12/2023
+C34622913,Nom_975,Prenom_116,36.2904032389718,Homme,Profession_7,Kebili,932,Sujet_2,Description_5,Type_5,08/11/2023
+C77082105,Nom_633,Prenom_951,36.772993389756785,Femme,Profession_9,Tunis,429,Sujet_2,Description_2,Type_5,02/26/2023
+C61335859,Nom_425,Prenom_327,18.596615155396552,Femme,Profession_82,Beja,366,Sujet_9,Description_12,Type_5,04/25/2023
+C44733244,Nom_800,Prenom_34,52.140978115776676,Femme,Profession_20,La Manouba,493,Sujet_6,Description_19,Type_1,01/06/2023
+C29511527,Nom_553,Prenom_502,54.883340976439456,Homme,Profession_11,Nabeul,145,Sujet_10,Description_18,Type_5,01/16/2023
+C33639082,Nom_55,Prenom_717,18.453626674538338,Femme,Profession_59,Sousse,696,Sujet_9,Description_18,Type_5,11/26/2023
+C21736973,Nom_847,Prenom_226,38.399178903938065,Femme,Profession_58,Ariana,712,Sujet_3,Description_7,Type_1,02/09/2023
+C95695337,Nom_982,Prenom_20,35.32223916363495,Homme,Profession_19,Siliana,897,Sujet_10,Description_18,Type_4,09/24/2023
+C96806003,Nom_317,Prenom_733,33.27225841887466,Femme,Profession_9,Tunis,889,Sujet_9,Description_4,Type_4,10/09/2023
+C65757019,Nom_94,Prenom_410,34.814472419859605,Femme,Profession_77,Gafsa,689,Sujet_1,Description_20,Type_3,02/06/2023
+C17811690,Nom_505,Prenom_97,40.51056201493918,Homme,Profession_44,Tunis,235,Sujet_2,Description_8,Type_4,11/18/2023
+C87003179,Nom_74,Prenom_604,38.69970143894158,Homme,Profession_18,Sfax,235,Sujet_2,Description_3,Type_3,04/04/2023
+C60296733,Nom_303,Prenom_31,43.31627727409835,Femme,Profession_66,Kasserine,776,Sujet_6,Description_8,Type_4,03/07/2023
+C28494604,Nom_323,Prenom_873,37.874445463429446,Homme,Profession_47,Zaghouan,560,Sujet_9,Description_6,Type_4,09/09/2023
+C90652206,Nom_479,Prenom_653,42.34312975518545,Homme,Profession_19,Ariana,174,Sujet_5,Description_11,Type_2,01/18/2023
+C75458331,Nom_110,Prenom_371,31.029168819413066,Homme,Profession_59,Medenine,525,Sujet_1,Description_15,Type_4,04/12/2023
+C54819498,Nom_382,Prenom_425,48.518823819757834,Homme,Profession_68,Jendouba,764,Sujet_8,Description_7,Type_4,08/21/2023
+C91531281,Nom_372,Prenom_935,14.02277147399263,Homme,Profession_52,Nabeul,390,Sujet_10,Description_15,Type_2,11/12/2023
+C23956730,Nom_814,Prenom_269,46.289350326556125,Homme,Profession_72,Siliana,454,Sujet_1,Description_3,Type_2,01/13/2023
+C94518575,Nom_223,Prenom_514,30.565912243874116,Femme,Profession_6,Ariana,798,Sujet_7,Description_14,Type_4,04/22/2023
+C32254115,Nom_824,Prenom_515,25.1185324389851,Femme,Profession_15,Tataouine,383,Sujet_10,Description_11,Type_1,06/24/2023
+C81105731,Nom_808,Prenom_181,29.68926839531644,Homme,Profession_61,Siliana,838,Sujet_5,Description_19,Type_2,05/07/2023
+C89723049,Nom_587,Prenom_926,29.423822766033762,Femme,Profession_58,La Manouba,792,Sujet_1,Description_2,Type_4,07/11/2023
+C20483126,Nom_853,Prenom_735,34.139801977589954,Homme,Profession_55,Kasserine,838,Sujet_2,Description_20,Type_1,01/19/2023
+C86965519,Nom_980,Prenom_852,39.13184578597211,Homme,Profession_37,Ariana,588,Sujet_8,Description_19,Type_4,05/17/2023
+C72754049,Nom_216,Prenom_635,46.837800075979565,Femme,Profession_57,Ben Arous,761,Sujet_5,Description_14,Type_5,01/13/2023
+C34964027,Nom_647,Prenom_889,33.9539381232648,Femme,Profession_28,Ben Arous,975,Sujet_8,Description_4,Type_1,05/23/2023
+C70317217,Nom_477,Prenom_988,48.76252258294938,Femme,Profession_68,Kebili,517,Sujet_9,Description_11,Type_3,06/20/2023
+C10491618,Nom_463,Prenom_793,29.03416320082594,Homme,Profession_33,Kebili,967,Sujet_8,Description_7,Type_2,12/28/2023
+C32789011,Nom_212,Prenom_684,34.96029394979546,Homme,Profession_100,La Manouba,813,Sujet_10,Description_6,Type_4,05/01/2023
+C87917382,Nom_139,Prenom_621,29.874988637918886,Femme,Profession_22,Sousse,590,Sujet_5,Description_3,Type_1,11/07/2023
+C29333635,Nom_510,Prenom_129,35.711535273556684,Homme,Profession_43,Mahdia,673,Sujet_3,Description_9,Type_4,09/22/2023
+C10623382,Nom_662,Prenom_502,47.62767590502171,Femme,Profession_51,Sfax,625,Sujet_10,Description_1,Type_4,01/16/2023
+C93132073,Nom_906,Prenom_623,29.8501160126626,Homme,Profession_81,Monastir,240,Sujet_9,Description_15,Type_3,11/17/2023
+C28471981,Nom_711,Prenom_223,28.99379381460618,Homme,Profession_1,Beja,731,Sujet_4,Description_16,Type_2,01/13/2023
+C36842778,Nom_693,Prenom_245,28.76884297060002,Homme,Profession_83,Jendouba,787,Sujet_7,Description_2,Type_1,11/11/2023
+C70798764,Nom_66,Prenom_611,40.18427053779498,Femme,Profession_50,Gafsa,586,Sujet_10,Description_19,Type_2,10/09/2023
+C18769051,Nom_921,Prenom_839,48.35479937960915,Homme,Profession_34,Nabeul,353,Sujet_8,Description_7,Type_2,04/23/2023
+C93376271,Nom_195,Prenom_337,53.26056785249047,Femme,Profession_95,Zaghouan,990,Sujet_6,Description_10,Type_4,03/23/2023
+C76063190,Nom_963,Prenom_946,31.153757483076753,Femme,Profession_7,Mahdia,546,Sujet_9,Description_5,Type_4,11/25/2023
+C31480369,Nom_236,Prenom_30,39.62472224828027,Homme,Profession_90,Kebili,390,Sujet_1,Description_8,Type_5,01/14/2023
+C77335089,Nom_792,Prenom_607,38.39061149186984,Femme,Profession_41,Gabes,833,Sujet_2,Description_15,Type_2,04/13/2023
+C78322218,Nom_40,Prenom_952,35.30183162655551,Femme,Profession_58,Monastir,742,Sujet_8,Description_7,Type_5,03/05/2023
+C33874081,Nom_62,Prenom_306,30.420702553678417,Homme,Profession_61,Le Kef,925,Sujet_9,Description_10,Type_5,11/13/2023
+C38473405,Nom_225,Prenom_867,47.14938820455576,Femme,Profession_36,Tataouine,241,Sujet_7,Description_8,Type_4,11/22/2023
+C76717036,Nom_617,Prenom_848,38.96032522843852,Homme,Profession_90,Sfax,198,Sujet_6,Description_11,Type_4,01/01/2023
+C26545043,Nom_916,Prenom_900,54.291034975305635,Homme,Profession_89,Kairouan,573,Sujet_10,Description_15,Type_1,08/26/2023
+C84179887,Nom_501,Prenom_675,46.22397730830134,Femme,Profession_41,Tataouine,468,Sujet_9,Description_4,Type_3,05/07/2023
+C11858116,Nom_490,Prenom_592,46.91086495743245,Homme,Profession_54,Sidi Bouzid,377,Sujet_6,Description_18,Type_2,05/14/2023
+C95376327,Nom_560,Prenom_705,41.03683309794703,Homme,Profession_70,Siliana,254,Sujet_6,Description_18,Type_4,05/19/2023
+C95954136,Nom_859,Prenom_324,53.36586931049473,Homme,Profession_47,Sfax,130,Sujet_7,Description_5,Type_1,07/09/2023
+C13146147,Nom_638,Prenom_164,23.290526980608696,Femme,Profession_62,Nabeul,329,Sujet_5,Description_7,Type_2,02/28/2023
+C75067140,Nom_172,Prenom_765,37.96707132998459,Femme,Profession_22,Ben Arous,228,Sujet_10,Description_18,Type_4,01/22/2023
+C14768543,Nom_233,Prenom_539,38.625908697648036,Homme,Profession_97,Tozeur,711,Sujet_3,Description_15,Type_3,02/24/2023
+C10734286,Nom_631,Prenom_44,35.680103426889076,Femme,Profession_98,Ben Arous,307,Sujet_2,Description_15,Type_3,06/03/2023
+C69002676,Nom_684,Prenom_825,29.04099141919999,Homme,Profession_93,Ariana,533,Sujet_9,Description_14,Type_4,02/28/2023
